@@ -61,12 +61,11 @@ users_autocomplete = input("Enter a function to autocomplete: ")
 
 print(f"This is your search result: {trie.search(users_serch)}")
 print(f"These are the suggestions form your search: {trie.autocomplete(users_autocomplete)}")
-print(f"This is your search result: {trie.search(users_serch)}")
-print(f"These are the suggestions form your search: {trie.autocomplete(users_autocomplete)}")
 
 total_time = timeit.timeit(
-    lambda: trie.autocomplete(users_autocomplete),
-    number=1000
+    stmt='trie.autocomplete(users_autocomplete)',
+    number=1000,
+    globals=globals()
 )
 
 print("Average autocomplete time:", total_time / 1000, "seconds")

@@ -24,4 +24,4 @@ time_taken = timeit.timeit(
 )
 
 print("Search results:", brute_force(users_search))
-print(f"Brute-force search time (1000 runs): {time_taken:.6f} seconds")
+print(f"Brute-force search time (1000 runs): {time_taken} seconds")
