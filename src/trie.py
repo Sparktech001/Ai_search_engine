@@ -1,4 +1,5 @@
 import pandas as pd
+import timeit
 data = pd.read_csv("raw_code.csv")
 
 function_calls = data["Function Calls"].dropna().astype(str)
@@ -58,7 +59,14 @@ for word in words:
 users_serch = input("Enter a funciton to return True or False: ")
 users_autocomplete = input("Enter a function to autocomplete: ")
 
-
+print(f"This is your search result: {trie.search(users_serch)}")
+print(f"These are the suggestions form your search: {trie.autocomplete(users_autocomplete)}")
 print(f"This is your search result: {trie.search(users_serch)}")
 print(f"These are the suggestions form your search: {trie.autocomplete(users_autocomplete)}")
 
+total_time = timeit.timeit(
+    lambda: trie.autocomplete(users_autocomplete),
+    number=1000
+)
+
+print("Average autocomplete time:", total_time / 1000, "seconds")

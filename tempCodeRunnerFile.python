@@ -1,0 +1,4 @@
+text = input("Enter a text with spaces: ")
+
+print("Before strip:", repr(text))
+print("After strip:", repr(text.strip()))

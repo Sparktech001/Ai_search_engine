@@ -1,0 +1,4154 @@
+functions calls cleaned
+"sin, cos, IIRFilter, filt.set_coefficients, sqrt"
+"sin, cos, IIRFilter, filt.set_coefficients, sqrt"
+"sin, cos, IIRFilter, filt.set_coefficients, sqrt"
+"sin, cos, IIRFilter, filt.set_coefficients, sqrt"
+"sin, cos, IIRFilter, filt.set_coefficients, sqrt"
+"sin, cos, IIRFilter, filt.set_coefficients, sqrt, sqrt"
+"sin, cos, IIRFilter, filt.set_coefficients, sqrt, sqrt"
+nan
+nan
+"len, len, ValueError, len, ValueError, len, len"
+range
+nan
+"min, max, np.min, np.max"
+"np.abs, plt.xlim, plt.xlabel, plt.xscale, get_bounds, plt.ylim, plt.ylabel, plt.plot, plt.show, filter_type.process, np.fft.fft, np.log10, max, min"
+"np.angle, plt.xlim, plt.xlabel, plt.xscale, plt.ylim, plt.ylabel, plt.plot, plt.show, filter_type.process, np.fft.fft, np.unwrap"
+nan
+"list, combinations, range"
+"create_all_state, ValueError, ValueError"
+"range, total_list.append, current_list.append, create_all_state, current_list.pop"
+"create_state_space_tree, range, len"
+"range, len, print, len, current_sequence.append, create_state_space_tree, current_sequence.pop"
+create_state_space_tree
+"create_state_space_tree, current_subsequence.append, create_state_space_tree, current_subsequence.pop, len, print"
+"any, enumerate"
+"range, len, valid_coloring, util_color"
+"util_color, len"
+"answer.append, range, path.copy, len, path.append, backtrack, path.pop, len"
+"any, backtrack, ValueError, ValueError"
+"print, combination_sum"
+"range, len, len, len"
+enumerate
+"range, len"
+"range, len, range, len, is_valid, place_word, words.remove, solve_crossword, words.append, remove_word"
+"len, result.append, backtrack, backtrack"
+backtrack
+"stack.append, stack.pop, len, result.append, stack.append, stack.append"
+any
+"range, len, len, valid_connection, util_hamilton_cycle"
+"util_hamilton_cycle, len"
+permissible_positions.append
+any
+"is_complete, get_valid_pos, len, open_knight_tour_helper"
+"range, ValueError, range, range, open_knight_tour_helper, range"
+"backtrack, range, input_string.startswith, backtrack, len, len, len, len, backtrack, len, len"
+"range, input_string.startswith, backtrack, len, len, len, len, backtrack, len, len"
+"min, ValueError, len, ValueError, max, minimax, minimax, minimax, minimax"
+"math.log, print, print, len, minimax"
+"len, all, all, all, zip, zip, zip, range, range, range, range, range"
+"range, len, solution.append, printboard, print, len, is_safe, solve"
+"range, len, range, print, len, print, print"
+"len, range, boards.append, depth_first_search"
+"depth_first_search, print, print, len, print"
+"backtrack, backtrack"
+"ValueError, backtrack"
+"len, run_maze, ValueError, ValueError, range, range"
+"len, run_maze, run_maze, run_maze, run_maze"
+"range, range, range"
+"range, range"
+"range, find_empty_location, is_safe, sudoku"
+"print, print"
+"sum, create_state_space_tree"
+"range, sum, result.append, len, create_state_space_tree, sum, sum"
+"range, len, len, backtrack"
+backtrack
+"range, len, word_set.remove, backtrack, word_set.add"
+backtrack
+nan
+"len, len, get_point_key, visited_points_set.add, exits_word, visited_points_set.remove, len"
+"len, len, range, ValueError, ValueError, range, isinstance, len, ValueError, isinstance, len, exits_word, isinstance, len, ValueError, isinstance, len, get_point_key"
+"format, format, max, ValueError, len, len, .join, str, int, zip, a_binary.zfill, b_binary.zfill"
+".join, .zfill, str, max, str, bin, int"
+".count, ValueError, isinstance, TypeError, bin"
+"ValueError, isinstance, int, TypeError, log2"
+"max, ValueError, str, str, len, len, .join, bin, bin, str, int, zip, a_binary.zfill, b_binary.zfill"
+"str, ValueError, bin"
+"ValueError, str, len, bin, len"
+"len, len, bin, .strip, bin, len, abs, len, str, len, bin"
+"len, ValueError, bin, bin, abs, len"
+"max, ValueError, str, str, len, len, .join, bin, bin, str, int, zip, a_binary.zfill, b_binary.zfill"
+"bitwise_addition_recursive, TypeError, ValueError, isinstance, isinstance"
+"ValueError, isinstance"
+ValueError
+ValueError
+"print, print, timeit, print, print, timeit, print, do_benchmark, print, get_set_bits_count_using_modulo_operator, get_set_bits_count_using_brian_kernighans_algorithm"
+"print, print, timeit, print, print, timeit, print, get_set_bits_count_using_modulo_operator, get_set_bits_count_using_brian_kernighans_algorithm"
+"str, max, .zfill, str, bin, int"
+"ValueError, isinstance"
+"ValueError, all, TypeError, isinstance"
+"gray_code_sequence_string, range, ValueError, len, int"
+"gray_code_sequence_string, range, reversed, sequence.append, range, sequence.append"
+"isinstance, TypeError"
+"ValueError, isinstance"
+nan
+ValueError
+"isinstance, TypeError"
+"min, max, range"
+nan
+"isinstance, TypeError, ValueError"
+"range, isinstance, TypeError, str, type"
+"range, isinstance, TypeError, ValueError"
+nan
+nan
+nan
+nan
+int
+nan
+nan
+"extended_gcd, greatest_common_divisor"
+"diophantine, greatest_common_divisor, range, print"
+extended_gcd
+int
+"int, all"
+int
+"imply_gate, recursive_imply_list, len, ValueError, len"
+"enumerate, .join, enumerate, simplified_f.append"
+"print, print, print, simplify_kmap"
+"all, ValueError"
+int
+int
+int
+".join, make_table_row, .join, make_table_row, func"
+.join
+nan
+"int, .count"
+"list, list, range, len, .join"
+"range, range, list, len, len, range, len, len, set, len, compare_string, pi.append, temp.append"
+"range, temp.append, str"
+"list, list, sum, zip"
+"range, enumerate, len, len, sum, range, temp.append, max, counts.index, temp.append, range, max, len, .count, len, range, range, len, len, enumerate"
+"range, len, .count, range, range, len, is_for_table, range, len, len"
+"int, decimal_to_binary, check, print, print, prime_implicant_chart, selection, print, print, input, float, .split, input"
+nan
+.count
+"range, len, range, next_generation.append, len, next_generation_row.append, next_generation_row.append, len, len, len, len, len, len"
+"range, Image.new, img.load, range, images.append, new_generation, len, range, len, len, len"
+"range, range"
+"enumerate, enumerate, bool, random.getrandbits"
+"np.array, np.array, enumerate, next_gen_canvas.tolist, create_canvas, enumerate, __judge_point"
+nan
+nan
+range
+".set_ticks, .set_ticks, axes.imshow, axes.get_xaxis, axes.get_yaxis"
+"plt.subplots, FuncAnimation, plt.show, partial"
+"max, randint, randint"
+"range, len, get_distance"
+"len, range, min, min, get_distance, random, max"
+"len, range, update, range, highway.append"
+int
+"len, range, next_generation.append, int"
+"Image.new, img.load, range, range, len, len, int"
+nan
+nan
+"wt.get_entities, sum, print, sleep, .system, print, __import__, len"
+nan
+nan
+nan
+"range, range, self.set_planet, self.add_entity, self.add_entity, range"
+"len, len"
+"randint, randint, Entity"
+nan
+"self.get_entities, shuffle, len, len, len"
+nan
+"adjacent.append, len, Entity, entity.reset_reproduction_time, self.get_entities"
+self.move_and_reproduce
+self.move_and_reproduce
+"range, self.get_entities, range, self.balance_predators_and_prey, len, all_entities.pop, shuffle, self.time_passed, randint, self.perform_prey_actions, self.get_surrounding_prey, self.perform_predator_actions, shuffle, len"
+ord
+".join, chr"
+"encode, print, print, .lower, decode, .strip, input"
+"sys.exit, gcd_by_iterative, sys.exit, sys.exit, sys.exit, len, len, len, len"
+"divmod, check_keys, len, SYMBOLS.find, len"
+"divmod, check_keys, cryptomath.find_mod_inverse, len, len, SYMBOLS.find, len"
+"random.randint, random.randint, len, len, gcd_by_iterative, len, len, len"
+".strip, int, .lower, mode.startswith, print, .strip, encrypt_message, mode.startswith, input, .strip, decrypt_message, input, mode.title, input"
+"ord, chr, chr"
+".join, letters.index"
+"print, print, print, timeit, timeit"
+"plaintext.lower, key.lower, isinstance, TypeError, isinstance, TypeError, ValueError, ValueError, len, ord, ord, chr, ord, ord, ord, ord"
+"key.lower, isinstance, TypeError, isinstance, TypeError, ValueError, ValueError, len, chr, chr, ord, ord, ord, ord, ord, ord"
+"word.lower, letter.isalpha, Exception"
+"coded.split, decoded.strip, set, Exception, set, len"
+".join, .upper, list, .zfill, hex"
+"bytes, ValueError, ValueError, len, set, set, int, range, len"
+".join, binary_data.ljust, map, .join, bytes, zip, b32_result.ljust, .zfill, data.decode, int, len, bin, iter, len, ord"
+".join, list, bytes, map, .join, .zfill, zip, .strip, chr, int, bin, data.decode, B32_CHARSET.index, iter"
+".join, isinstance, TypeError, .encode, .zfill, len, .join, len, bin, len, int, range, len"
+"isinstance, encoded_data.count, bytes, TypeError, all, all, .join, int, isinstance, isinstance, encoded_data.decode, .join, range, ValueError, len, .zfill, len, .zfill, bin, bin, B64_CHARSET.index, B64_CHARSET.index"
+".join, _base10_to_85, chr"
+"sum, enumerate, reversed"
+".join, binary_data.ljust, .join, bytes, int, .zfill, len, map, data.decode, zip, _base10_to_85, len, bin, len, ord, iter"
+"map, .join, int, bytes, len, data.decode, zip, .zfill, chr, .join, ord, int, map, len, bin, zip, iter, _base85_to_10, iter"
+"len, len, len"
+nan
+nan
+"generate_key, cipher_text, print, print, original_text"
+nan
+np.array
+"np.where, np.concatenate"
+nan
+"message.lower, message.replace, message.replace, np.empty, range, first_step.reshape, range, len, self.letter_to_numbers, len, int, int, self.numbers_to_letter, len, len"
+"message.lower, message.replace, np.empty, range, first_step.reshape, range, len, self.letter_to_numbers, len, int, int, self.numbers_to_letter, len, len"
+"range, len, print, string.ascii_uppercase.find, len"
+"input, message.upper, decrypt"
+"len, alpha.index"
+encrypt
+"range, decrypt, len"
+"gcd_by_iterative, ValueError"
+"range, min, ciphertext.lower, len, chr, range, letter.lower, len, .upper, .count, letter.lower, decrypted_with_shift.count, alphabet_letters.index, letter.isupper, letter.lower, decrypted_with_shift.lower"
+nan
+"enumerate, ValueError, range, pow"
+"miller_rabin, miller_rabin, miller_rabin, miller_rabin, miller_rabin, miller_rabin, miller_rabin, miller_rabin, miller_rabin, miller_rabin, miller_rabin, miller_rabin, miller_rabin, miller_rabin, miller_rabin, miller_rabin, miller_rabin, miller_rabin, miller_rabin, miller_rabin"
+"range, range, pow, li.append"
+nan
+"int, ValueError, hexlify, urandom"
+hex
+"pow, hex"
+pow
+"int, pow, .hexdigest, self.is_valid_public_key, ValueError, sha256, .encode, str"
+pow
+"int, int, pow, .hexdigest, DiffieHellman.is_valid_public_key_static, ValueError, sha256, .encode, str"
+"print, random.randrange, pow, pow"
+"print, rabin_miller.generate_large_prime, primitive_root, random.randrange, cryptomath.find_mod_inverse, pow"
+"generate_key, print, print, os.path.exists, os.path.exists, print, print, sys.exit, open, fo.write, open, fo.write"
+"print, make_key_files, print"
+"_plugboard, Exception, ValueError, ValueError, ValueError, len, len, len, len, set"
+"pbstring.replace, set, range, isinstance, TypeError, Exception, Exception, len, type, len, Exception, tmppbl.add, len"
+"text.upper, _validator, .join, plugb.upper, result.append, abc.index, abc.index, abc.index, len, len, len, len, len, len, rotor3.index, rotor2.index, rotor1.index"
+".join, MORSE_CODE_DICT.get, letter.upper"
+"encode_to_morse, .join, .join, key.upper, sorted, set, len, zip, range, len"
+".join, dict, .join, .strip, key.upper, sorted, zip, set, inverse_fractionated_morse_dict.get, .join, morse_code.split"
+"len, len, text.upper, enumerate, int, ascii_uppercase.index"
+nan
+"int, print, range, HillCipher, print, input, input, hill_matrix.append, np.array, input, print, print, int, hc.encrypt, input, print, print, .split, hc.decrypt, input"
+"self.modulus, self.check_determinant"
+self.key_string.index
+int
+"round, len, np.linalg.det, greatest_common_divisor, ValueError, len, len"
+".join, chars.append, text.upper, len"
+"self.process_text, range, text.upper, .join, self.replace_letters, np.array, .T.tolist, len, self.replace_digits, self.modulus, self.encrypt_key.dot"
+"round, range, self.to_int, np.linalg.det, len, np.linalg.inv, self.modulus, len, np.linalg.det, len"
+"self.make_decrypt_key, self.process_text, range, text.upper, .join, self.replace_letters, np.array, .T.tolist, len, self.replace_digits, self.modulus, decrypt_key.dot"
+"keyword.upper, plaintext.upper, set, len, range, .join, print, unique_chars.append, range, mapping.get, len"
+"symbol.upper, chars_a.find, symbol.isupper, symbol.upper, .upper, .lower"
+translate_message
+translate_message
+"print, encrypt_message, decrypt_message"
+".join, message.upper"
+".join, message.split"
+"print, encrypt, print, decrypt, print"
+nan
+"ord, random.randint, cipher.append, key.append"
+"range, .join, len, int, plain.append, chr"
+"random.choice, range"
+"list, random.shuffle, range"
+"message.upper, len, range, generate_valid_block_size, generate_permutation_key, .join"
+"len, range, len, enumerate, .join"
+"encrypt, decrypt, print"
+"iter, tuple, itertools.islice"
+".join, range, len, len, c.upper, len"
+"key.upper, table.append, table.append"
+"generate_table, prepare_input, chunker, divmod, divmod, table.index, table.index"
+"generate_table, chunker, divmod, divmod, table.index, table.index"
+nan
+np.array
+"np.where, np.concatenate"
+nan
+"message.lower, message.replace, range, len, self.letter_to_numbers, str, str"
+"message.replace, range, int, self.numbers_to_letter, len, int, int"
+key.upper
+"generate_table, words.upper, get_opponent, len"
+encrypt
+.index
+"get_position, char.upper"
+"range, random.randrange, pow"
+rabin_miller
+"random.randrange, is_prime_low_num"
+"enumerate, .join, ValueError, min, .append, .join, range, len"
+"range, range, ValueError, len, min, .append, grid.append, len, len, min, .pop, range, list, len"
+"range, len, decrypt"
+"chr, chr, ord, ord, ord, ord, ord, ord"
+"input, dencrypt, print, dencrypt, print"
+"message.encode, range, len, range, block_ints.append, min, len"
+".join, range, message.extend, block_message.insert, len, chr"
+"get_blocks_from_text, encrypted_blocks.append, pow"
+"get_text_from_blocks, decrypted_blocks.append, pow"
+"content.split, open, fo.read, int, int, int"
+"read_key_file, .join, sys.exit, str, open, fo.write, encrypt_message, len"
+"read_key_file, content.split, int, int, encrypted_message.split, decrypt_message, open, fo.read, sys.exit, encrypted_blocks.append, int"
+"input, .startswith, .startswith, input, print, encrypt_and_write_to_file, print, print, response.lower, os.path.exists, rkg.make_key_files, print, read_from_file_and_decrypt, print, print, print, response.lower, open, dec.write"
+"sorted, random.randint, math.gcd"
+"print, make_key_files, print"
+"rabin_miller.generate_large_prime, rabin_miller.generate_large_prime, cryptomath_module.find_mod_inverse, random.randrange, gcd_by_iterative"
+"generate_key, print, print, os.path.exists, os.path.exists, print, print, sys.exit, open, out_file.write, open, out_file.write"
+".upper, .upper, len, ord, enumerate, .join, ciphertext.append, plaintext.replace, key.replace, ord, ord, chr"
+".upper, .upper, len, ord, enumerate, .join, plaintext.append, ciphertext.replace, key.replace, ord, ord, chr"
+nan
+nan
+"ShuffledShiftCipher, cip1.decrypt, cip1.encrypt"
+"self.__make_key_list, self.__make_shift_key, self.__passcode_creator"
+.join
+"range, len"
+"random.choice, range, random.randint"
+"sorted, set, temp_list.extend, keys_l.extend, temp_list.clear"
+"sum, self.__neg_pos, len, ord"
+"self.__key_list.index, len"
+"self.__key_list.index, len"
+ch.isalpha
+"remove_duplicates, len, range, chr, key.upper, len, range, enumerate"
+".join, cipher_map.get, message.upper"
+".join, cipher_map.items, rev_cipher_map.get, message.upper"
+".strip, .strip, .lower, create_cipher_map, print, func, input, input, KeyError, .strip, input"
+"input, input, check_valid_key, .startswith, print, encrypt_message, .startswith, resp.lower, decrypt_message, resp.lower, mode.title"
+"list, list, key_list.sort, letters_list.sort, sys.exit"
+translate_message
+translate_message
+"symbol.upper, chars_a.find, symbol.isupper, symbol.upper, .upper, .lower"
+"list, random.shuffle, .join"
+"input, int, input, .startswith, print, input, encrypt_message, .startswith, mode.lower, decrypt_message, mode.lower, len"
+"range, .join, len"
+"math.ceil, .join, len, len"
+"int, input, os.path.exists, time.time, .startswith, round, print, input, os.path.exists, print, sys.exit, print, input, trans_cipher.encrypt_message, .startswith, open, output_obj.write, .startswith, sys.exit, mode.lower, open, f.read, trans_cipher.decrypt_message, time.time, mode.lower, open, f.read, response.lower"
+nan
+".join, len, len, result.append"
+".upper, .upper, any, dict, len, KeyError, ValueError, zip, alphabet.replace, message.replace, TEST_CHARACTER_TO_NUMBER.values, character_to_number.items"
+"__prepare, range, range, __encrypt_part, len, len"
+"__prepare, range, .join, len, __decrypt_part, range, len, decrypted_numeric.append"
+"range, len, chr, ord, ord, len"
+"range, len, chr, ord, ord, len"
+"input, input, input, .startswith, print, print, encrypt_message, .startswith, mode.lower, decrypt_message, mode.lower, mode.title"
+translate_message
+translate_message
+"key.upper, .join, LETTERS.find, symbol.upper, len, symbol.isupper, translated.append, LETTERS.find, translated.append, symbol.islower, len, LETTERS.find, translated.append, .lower"
+nan
+nan
+"isinstance, isinstance, chr, ord"
+"isinstance, isinstance, chr, ord"
+"isinstance, isinstance, chr, ord"
+"isinstance, isinstance, chr, ord"
+"isinstance, isinstance, open, open, fout.write, self.encrypt_string"
+"isinstance, isinstance, open, open, fout.write, self.decrypt_string"
+"get_dataset, print, update_image_and_anno, enumerate, random_chars, cv2.imwrite, print, .rsplit, annos_list.append, open, outfile.write, .join, len, .split"
+"glob.glob, os.path.join, os.path.join, img_paths.append, labels.append, .rsplit, open, in_file.readlines, .split, boxes.append, obj_list.rstrip, int, float, float, float, float, label_file.split"
+"range, len, path_list.append, cv2.imread, new_annos_lists.append, new_imgs_list.append, cv2.flip, new_annos.append, cv2.flip, new_annos.append"
+".join, random.choice, range"
+"float, np.sqrt, .mean"
+"normalized.astype, np.min, np.max, np.min"
+"np.max, np.min, np.min"
+".astype, np.dot"
+np.where
+"np.zeros, np.pad, range, np.ones, range, apply"
+"transform, np.ones, transform"
+"transform, np.ones, transform"
+"image_gray.copy, image_gray.copy"
+"np.zeros, range, np.sum, range, np.max, np.max"
+"np.multiply, np.subtract, np.max, np.power, np.power, np.abs, correlation.sum, energy.sum, contrast.sum, dissimilarity.sum, inverse_difference.sum, homogeneity.sum, entropy.sum, np.abs, np.power, np.log"
+"np.array, np.concatenate, haralick_descriptors, matrix_concurrency"
+"float, np.sqrt, np.sum, np.square"
+"np.array, .tolist, list, enum_distances.sort, enumerate, euclidean, normalize_array"
+nan
+ValueError
+str
+"cv2.imread, img.copy, cv2.cvtColor, np.gradient, range, range, .sum, .sum, .sum, corner_list.append, color_img.itemset, color_img.itemset, color_img.itemset"
+"np.stack, np.stack, .astype, np.meshgrid, np.arange, np.arange, np.round, np.array"
+"np.zeros_like, np.zeros_like, np.array, range, np.array, np.array, np.array, warp, convolve, convolve, convolve, convolve, convolve, convolve, convolve, convolve"
+"np.zeros_like, enumerate"
+"image.load, range, range, range, range"
+"get_dataset, range, random.sample, update_image_and_anno, random_chars, cv2.imwrite, print, range, .rsplit, annos_list.append, open, outfile.write, len, .join, path.split"
+"glob.glob, os.path.join, os.path.join, img_paths.append, labels.append, .rsplit, open, in_file.readlines, .split, boxes.append, float, float, float, float, obj_list.rstrip, float, float, float, float, int, label_file.split"
+"np.zeros, int, int, enumerate, path_list.append, cv2.imread, random.random, random.random, cv2.resize, new_anno.append, cv2.resize, new_anno.append, cv2.resize, cv2.resize, new_anno.append, new_anno.append"
+".join, random.choice, range"
+"np.array, np.zeros, ValueError, np.max"
+"np.array, np.zeros, ValueError, int, np.average"
+".strip, .strip, UNIT_SYMBOL.get, UNIT_SYMBOL.get, ValueError, ValueError, pow, from_type.lower, to_type.lower, .join, .join"
+".strip, ValueError, all, ValueError, str, int"
+".strip, range, ValueError, all, ValueError, len, hexadecimal.append, .join, str, len, divmod, len"
+"all, ValueError, ValueError, enumerate, str, len, range, int, len, int"
+nan
+nan
+"divmod, ValueError, ValueError"
+".join, word_groups.append, NumberingSystem.max_value, ValueError, divmod, word_groups.append, system.upper, word_groups.append, convert_small_number, convert_number, convert_small_number"
+"system.upper, ValueError"
+"isinstance, isinstance, isinstance, TypeError, ValueError, TypeError, TypeError, ValueError, ValueError, divmod, str, str, str, str, str"
+"isinstance, isinstance, TypeError, TypeError, binary.insert, .join, .join, str, str"
+"int, divmod, str, decimal_to_binary_recursive_helper, str"
+".strip, number.lstrip, ValueError, number.startswith, number.isnumeric, ValueError, str, decimal_to_binary_recursive_helper, int"
+"isinstance, int, int, divmod"
+"math.floor, int, math.floor, math.pow"
+"print, print, print, print, print, print, print, print, print, print, print, decimal_to_octal, decimal_to_octal, decimal_to_octal, decimal_to_octal, decimal_to_octal"
+"ValueError, .join"
+"column_title.isupper, len, pow, ord"
+".lower, ValueError, all, ValueError, hex_string.strip"
+"hex_num.strip, int, ValueError, int, ValueError, str"
+"int, len, ValueError, ipv4_address.split, ValueError, int"
+"int, .join, ipv4_address.split, int"
+"range, .join, ValueError, ip_parts.append, reversed, str"
+nan
+".rstrip, TYPE_CONVERSION.get, .rstrip, TYPE_CONVERSION.get, ValueError, ValueError, from_type.lower, to_type.lower, .join, .join"
+"round, float"
+"round, float"
+"round, float"
+"round, float"
+"ValueError, int, range, ValueError, str"
+".strip, ValueError, ValueError, str, oct_string.isdigit, all, int, int"
+"octal.startswith, any, isinstance, TypeError, ValueError, ValueError, int"
+nan
+nan
+"isinstance, isinstance, known_prefix.lower, unknown_prefix.lower"
+"isinstance, isinstance, known_prefix.lower, unknown_prefix.lower"
+nan
+nan
+"prefixes.items, str, SIUnit.get_positive, SIUnit.get_negative"
+str
+nan
+nan
+nan
+"ValueError, ValueError, .join, .join"
+"round, round, math.sqrt, math.degrees, math.atan2"
+"round, round, round, round, ValueError, ValueError, max, isinstance, isinstance, isinstance, type, type, type"
+"Exception, Exception, Exception, round, round, round, abs, round, round, round, round, round, round, round, round, round, round, round, round, round, round, round"
+"max, Exception, Exception, Exception, min"
+"abs, abs, abs"
+"len, len"
+".join, divmod, result.append"
+"round, ValueError, .join"
+"round, float"
+"round, float"
+"round, float"
+"round, float"
+"round, float"
+"round, float"
+"round, float"
+"round, float"
+"round, float"
+"round, float"
+"round, float"
+"round, float"
+"round, float"
+"round, float"
+"round, float"
+"round, float"
+"unit_from.lower, unit_to.lower, round, ValueError, ValueError, isinstance, .join"
+nan
+"ValueError, ValueError, .join, .join"
+"ValueError, .join"
+nan
+"isinstance, TypeError, range, len"
+"all_rotations, rotations.sort, isinstance, TypeError, ValueError, .join, rotations.index"
+"range, isinstance, TypeError, ValueError, int, ValueError, len, ValueError, len, len, range, ordered_rotations.sort, TypeError, len"
+nan
+"sorted, len, self.compress_coordinates, len"
+nan
+self.coordinate_map.get
+len
+nan
+nan
+"sorted, open, f.read, Letter, chars.items"
+"list, len, response.pop, response.pop, TreeNode, response.append, response.sort"
+"isinstance, traverse_tree, traverse_tree"
+"parse_file, build_tree, print, print, open, traverse_tree, letter.bitstring.items, f.read, print"
+nan
+nan
+nan
+"open, binary_file.read, print, sys.exit"
+"lexicon.pop, .is_integer, lexicon.items, bin, math.log2"
+"len, range, len, add_key_to_lexicon"
+"os.path.getsize, len, bin"
+"open, print, sys.exit, result_byte_array.append, opened_file.write, range, len, .to_bytes, len, int, len"
+"read_file_binary, compress_data, add_file_length, write_file_binary"
+"open, binary_file.read, print, sys.exit"
+"len, range, len, .is_integer, list, math.log2, lexicon.pop, bin"
+"open, print, sys.exit, result_byte_array.append, opened_file.write, range, len, .to_bytes, len, int, len"
+nan
+"read_file_binary, remove_prefix, decompress_data, write_file_binary"
+nan
+nan
+nan
+nan
+"self._find_encoding_token, output.append, len"
+range
+"enumerate, Token, ValueError, Token, len, self._match_length_from_index"
+self._match_length_from_index
+"np.mean, math.log10, math.sqrt"
+"os.path.dirname, cv2.imread, cv2.imread, cv2.imread, cv2.imread, print, print, print, print, os.path.realpath, os.path.join, os.path.join, os.path.join, os.path.join, peak_signal_to_noise_ratio, peak_signal_to_noise_ratio"
+"range, len, encoded.append, len"
+.join
+"sum, enumerate"
+"list, sorted, combinations, sorted, sum"
+"enumerate, set, set_initialize.add, sorted, output_arr.append"
+nan
+"len, len, ValueError, ValueError"
+nan
+range
+"isinstance, ValueError, ValueError, partition, len, len, len"
+"sorted, len, ValueError, float, float, float"
+"all, all, range, range, len, len"
+"len, combinations"
+"range, len, len, nums.pop, permute_recursive, result.extend, nums.append, nums.copy, perm.append"
+"backtrack, output.append, range, len, len, backtrack"
+"output.append, range, len, len, backtrack"
+nan
+"len, range"
+"ValueError, ValueError, len"
+sums.add
+"isinstance, product_sum"
+product_sum
+"len, reverse, reverse, reverse"
+nan
+"len, enumerate, ValueError, int, log2, range, min, range"
+"int, min, IndexError, log2, len"
+nan
+"all, all, print, len, len, len, len"
+"dict.fromkeys, .items, grid_values, assign"
+"dict, len, zip"
+".replace, all, eliminate"
+".replace, len, len, len, all, len, assign, eliminate"
+".join, print, max, print, .join, print, len, .center"
+"search, parse_grid"
+nan
+"all, min, some, search, len, len, assign, len, values.copy"
+"zip, time.monotonic, solve, print, time.monotonic, display, print, solved, len, grid_values, display, time_solve, sum, max, sum, sum"
+"all, set, unitsolved"
+"open, .split, .strip, file.read"
+"dict.fromkeys, shuffled, random_puzzle, assign, .join, random.choice, len, len, len, set, len"
+"list, random.shuffle"
+"time.monotonic, solve, time.monotonic, display, print, solved, grid_values, display"
+set
+nan
+nan
+node.get_height
+nan
+"print, node.get_left, node.set_left, ret.set_right, node.set_height, ret.set_height, node.get_data, ret.get_right, my_max, my_max, get_height, get_height, get_height, get_height, node.get_right, node.get_left, ret.get_right, ret.get_left"
+"print, node.get_right, node.set_right, ret.set_left, node.set_height, ret.set_height, node.get_data, ret.get_left, my_max, my_max, get_height, get_height, get_height, get_height, node.get_right, node.get_left, ret.get_right, ret.get_left"
+"node.get_left, node.set_left, right_rotation, left_rotation"
+"node.get_right, node.set_right, left_rotation, right_rotation"
+"node.set_height, MyNode, node.get_data, node.set_left, node.set_right, my_max, insert_node, node.get_left, insert_node, node.get_right, get_height, get_height, node.get_left, get_height, get_height, left_child.get_data, right_rotation, lr_rotation, node.get_right, get_height, get_height, right_child.get_data, rl_rotation, left_rotation, node.get_right, node.get_left, node.get_left, node.get_right, node.get_right, node.get_left"
+"root.get_data, root.get_right"
+"root.get_data, root.get_left"
+"root.get_left, root.get_right, root.get_left, root.get_right, root.set_height, root.get_data, my_max, get_left_most, root.set_data, root.set_right, root.get_data, get_height, get_height, get_height, get_height, left_rotation, rl_rotation, get_height, get_height, del_node, print, root.set_left, root.set_right, right_child.get_right, right_child.get_left, get_height, get_height, get_height, get_height, right_rotation, lr_rotation, root.get_right, root.get_left, del_node, del_node, left_child.get_left, left_child.get_right"
+nan
+doctest.testmod
+nan
+nan
+self.data.append
+nan
+nan
+"print, print, print"
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+get_height
+"print, insert_node, str"
+"print, del_node, print, str"
+"MyQueue, q.push, self.get_height, q.is_empty, q.pop, range, int, q.push, q.push, str, q.push, q.push, math.pow, node.get_data, node.get_left, node.get_right, math.pow"
+nan
+nan
+nan
+sum
+"self.left.is_full, self.right.is_full"
+iter
+len
+"BinaryTree, Node, Node, Node"
+"BinaryTree, Node, Node, Node, Node, Node, Node, Node"
+self._depth
+"max, self._depth, self._depth"
+self.root.is_full
+nan
+nan
+"inorder, inorder"
+"postorder, postorder"
+nan
+"pformat, str"
+bool
+bool
+nan
+str
+nan
+nan
+"Node, self.empty"
+self.__insert
+"self.empty, IndexError"
+self.empty
+self.empty
+"self.search, ValueError, self.__reassign_nodes, self.__reassign_nodes, self.__reassign_nodes, self.get_max, self.remove"
+"self.preorder_traverse, self.preorder_traverse"
+"self.preorder_traverse, traversal_function"
+"self.inorder, arr.append, self.inorder"
+self.inorder
+nan
+nan
+nan
+"BinarySearchTree, t.put, t.put, t.put, t.put, t.put, t.put, t.put, t.put, t.put, t.put, print, print, print, print, print, print, print, print, print, print, print, t.remove, t.remove, t.remove, t.remove, t.remove, t.remove, print, print, print, print, t.exists, t.exists, t.exists, t.exists, t.get_max_label, t.get_min_label, t.get_max_label, t.get_min_label, t.inorder_traversal, t.preorder_traversal, t.inorder_traversal, t.preorder_traversal"
+nan
+nan
+nan
+nan
+self._put
+"Node, self._put, self._put, ValueError"
+self._search
+"ValueError, self._search, self._search"
+"self.search, self._get_lowest_node, self._reassign_nodes, self._reassign_nodes, self._reassign_nodes, self._reassign_nodes"
+nan
+"self._get_lowest_node, self._reassign_nodes"
+self.search
+ValueError
+ValueError
+self._inorder_traversal
+"self._inorder_traversal, self._inorder_traversal"
+self._preorder_traversal
+"self._preorder_traversal, self._preorder_traversal"
+"BinarySearchTree, t.put, t.put, t.put, t.put, t.put, t.put, t.put, t.put, t.put, t.put"
+"BinarySearchTree, t.is_empty, t.put, t.put, t.put, t.put, t.put, pytest.raises, t.put"
+"self._get_binary_search_tree, t.search, t.search, pytest.raises, t.search"
+"self._get_binary_search_tree, t.remove, t.remove, t.remove, t.remove, t.remove"
+"self._get_binary_search_tree, t.remove"
+"self._get_binary_search_tree, t.empty"
+"self._get_binary_search_tree, t.empty, t.is_empty, t.is_empty"
+"self._get_binary_search_tree, t.exists, t.exists"
+"self._get_binary_search_tree, t.empty, t.get_max_label, pytest.raises, t.get_max_label"
+"self._get_binary_search_tree, t.empty, t.get_min_label, pytest.raises, t.get_min_label"
+"self._get_binary_search_tree, t.inorder_traversal"
+"self._get_binary_search_tree, t.preorder_traversal"
+"binary_tree_mirror_dict, binary_tree_mirror_dict"
+"dict, binary_tree_mirror_dict, ValueError, ValueError"
+nan
+nan
+nan
+nan
+"self.depth_first_search, self.depth_first_search"
+self.depth_first_search
+nan
+nan
+nan
+nan
+"self.depth_first_search, self.depth_first_search"
+"self.depth_first_search, self.path_sum, self.path_sum"
+nan
+"Node, Node, Node, Node, Node"
+"preorder, preorder"
+"postorder, postorder"
+"inorder, inorder"
+"reverse_inorder, reverse_inorder"
+"max, height, height"
+"deque, process_queue.popleft, process_queue.append, process_queue.append"
+"populate_output, populate_output, populate_output"
+"populate_output, populate_output, populate_output"
+"height, range, get_nodes_from_left_to_right, get_nodes_from_right_to_left"
+"make_tree, print, print, print, print, print, print, print, print, range, print, print, print, height, list, list, list, list, list, height, list, get_nodes_from_left_to_right, list, inorder, reverse_inorder, preorder, postorder, level_order, zigzag"
+"populate_output, populate_output"
+"populate_output, populate_output"
+nan
+"self.left.depth, self.right.depth, max"
+"self.left.depth, self.right.depth"
+nan
+"TreeNode, TreeNode, TreeNode, TreeNode, TreeNode"
+"depth_first_search, depth_first_search, depth_first_search, len, right_view.append"
+"depth_first_search, depth_first_search, depth_first_search, len, left_view.append"
+"breadth_first_search, defaultdict, sorted, queue.pop, .append, lookup.items, top_view.append, queue.append, queue.append"
+"breadth_first_search, defaultdict, sorted, queue.pop, .append, lookup.items, bottom_view.append, queue.append, queue.append"
+"depth_first_search, depth_first_search, len, right_view.append"
+"depth_first_search, depth_first_search, len, left_view.append"
+"defaultdict, sorted, queue.pop, .append, lookup.items, top_view.append, queue.append, queue.append"
+"defaultdict, sorted, queue.pop, .append, lookup.items, bottom_view.append, queue.append, queue.append"
+nan
+nan
+"count_nodes, count_coins, ValueError, get_distrib, get_distrib, CoinsDistribResult, get_distrib, CoinsDistribResult, abs, count_nodes, count_nodes, count_coins, count_coins, abs"
+"count_nodes, count_nodes"
+"count_coins, count_coins"
+"get_distrib, get_distrib, CoinsDistribResult, CoinsDistribResult, abs, abs"
+nan
+"self.init, ValueError"
+"len, deepcopy, range, self.next_"
+"range, self.next_"
+nan
+nan
+self.next_
+"self.add, self.get"
+self.prev
+"self.prefix, self.prefix"
+self.query
+nan
+nan
+"TreeNode, TreeNode, TreeNode, TreeNode, TreeNode, TreeNode"
+"flatten, flatten"
+"print, print"
+nan
+nan
+nan
+nan
+sum
+nan
+"BinaryTreeNode, insert, insert"
+"inorder, inorder"
+"insert, insert, insert, insert, insert, insert, insert"
+"make_tree, print, inorder"
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+sum
+"all, sum, sum"
+iter
+len
+"str, list"
+nan
+"BinaryTree, Node, Node, Node, Node, Node, Node, Node, Node"
+"BinaryTree, Node, Node, Node, Node, Node, Node"
+nan
+"range, range, range"
+nan
+nan
+"self.build, self.build, max, self.left, self.right, self.left, self.right"
+"self.update, self.update, max, self.left, self.right, self.left, self.right, self.left, self.right, self.left, self.right, self.left, self.right, self.left, self.right"
+"self.query, self.query, max, self.left, self.right, self.left, self.right, self.left, self.right"
+"str, self.query, range"
+nan
+range
+"range, range, swap"
+"Queue, q.put, q.qsize, q.get, q.put"
+"breadth_first_search, create_sparse, print, print, print, print, print, print, lowest_common_ancestor, lowest_common_ancestor, lowest_common_ancestor, lowest_common_ancestor, lowest_common_ancestor, lowest_common_ancestor, range, range, range"
+nan
+nan
+nan
+nan
+"self.get_next, self.get_prev, max"
+"self.get_prev, max, max"
+nan
+"solver, solver, solver, max, min, max"
+"solver, solver, max, min, max"
+nan
+"merge_two_binary_trees, merge_two_binary_trees"
+"print, print_preorder, print_preorder"
+nan
+nan
+"Node, Node, Node, Node, Node, Node, Node"
+"Node, Node, Node, Node, Node, Node, Node, Node, Node"
+"trees.items, Node, make_tree_seven, make_tree_nine, print, print, tuple, tuple, tree.mirror"
+nan
+sum
+"self.left.mirror, self.right.mirror"
+nan
+"len, self.build, range"
+"range, self.fn"
+self.fn
+"self.fn, self.fn"
+"range, len, range, len, reduce, reduce, reduce, min_segment_tree.query, max_segment_tree.query, sum_segment_tree.query"
+"min, range"
+binomial_coefficient
+"range, ValueError"
+"catalan_number, factorial"
+nan
+nan
+"RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, tree.rotate_left, tree.rotate_right, tree.rotate_right, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree"
+"RedBlackTree, range, tree.insert"
+"RedBlackTree, tree.insert, tree.insert, tree.insert, tree.insert, tree.insert, tree.insert, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree, RedBlackTree"
+"RedBlackTree, tree.insert, tree.insert, tree.insert, tree.insert, tree.insert, tree.insert, any, all"
+"RedBlackTree, tree.insert, tree.insert, tree.insert, tree.insert, tree.insert, tree.insert, tree.insert, tree.insert, tree.insert, tree.remove, tree.remove, tree.remove, tree.check_color_properties, list, tree.inorder_traverse"
+"RedBlackTree, tree.insert, tree.insert, tree.insert, tree.insert, tree.insert, tree.insert, tree.floor, tree.ceil"
+"RedBlackTree, tree.insert, tree.insert, tree.insert, tree.insert, tree.insert, tree.insert, tree.get_max, tree.get_min"
+"RedBlackTree, tree.insert, tree.insert, tree.insert, tree.insert, tree.insert, tree.insert, list, list, list, tree.inorder_traverse, tree.preorder_traverse, tree.postorder_traverse"
+"RedBlackTree, .insert, list, list, list, .insert, tree.inorder_traverse, tree.preorder_traverse, tree.postorder_traverse, .insert, .insert, .insert, tree.insert"
+"print, str"
+"test_rotations, test_insert, test_insert_and_search, test_insert_delete, test_floor_ceil, test_tree_traversal, test_tree_chaining"
+"print_results, print_results, print_results, print_results, print_results, print_results, print_results, print, print, test_insertion_speed, print, test_rotations, test_insert, test_insert_and_search, test_insert_delete, test_floor_ceil, test_tree_traversal, test_tree_chaining"
+nan
+nan
+nan
+"self.left.insert, RedBlackTree, self.left._insert_repair, self.right.insert, RedBlackTree, self.right._insert_repair"
+"color, color, self.is_left, self.parent.is_right, self.parent.rotate_right, self.grandparent._insert_repair, self.right._insert_repair, self.is_right, self.parent.is_left, self.parent.rotate_left, self.is_left, self.left._insert_repair, self.grandparent.rotate_right, self.grandparent.rotate_left"
+"self.left.get_max, self.left.remove, self.left.remove, self.right.remove, self.is_left, RedBlackTree, self._remove_repair, self.is_left"
+"color, self.is_left, self.parent._remove_repair, self.is_left, self.sibling.rotate_right, self.is_right, self.sibling.rotate_left, self.is_left, self.parent.rotate_left, self.is_right, self.parent.rotate_right, self.parent.rotate_left, self.parent.rotate_right, color, color, color, color, color, color, color, color, color, color, color, color, color, color, color, color, color, color"
+"print, self.check_coloring, print, self.black_height, print"
+"self.left.check_coloring, color, color, self.right.check_coloring"
+"RedBlackTree.black_height, RedBlackTree.black_height"
+self.search
+"self.right.search, self.left.search"
+"self.left.floor, self.right.floor"
+"self.right.ceil, self.left.ceil"
+self.right.get_max
+self.left.get_min
+nan
+nan
+nan
+nan
+nan
+"len, len"
+"self.left.preorder_traverse, self.right.preorder_traverse"
+"self.left.inorder_traverse, self.right.inorder_traverse"
+"self.left.postorder_traverse, self.right.postorder_traverse"
+pformat
+isinstance
+nan
+"len, self.build"
+nan
+nan
+"self.build, self.build, max, self.left, self.right, self.left, self.right"
+self.update_recursive
+"self.update_recursive, self.update_recursive, max, self.left, self.right, self.left, self.right"
+self.query_recursive
+"self.query_recursive, self.query_recursive, max, self.left, self.right"
+"range, print, self.query"
+nan
+nan
+nan
+nan
+"self._build_tree, len"
+self._update_tree
+self._query_range
+"self._build_tree, self._build_tree, SegmentTreeNode, SegmentTreeNode, self.fn"
+"self.fn, self._update_tree, self._update_tree"
+"self._query_range, self._query_range, self.fn, self._query_range, self._query_range"
+"Queue, queue.put, queue.empty, queue.get, queue.put, queue.put"
+nan
+"data.split, build_tree, ValueError, nodes.pop, TreeNode, build_tree, build_tree, int"
+"isinstance, TypeError"
+nan
+sum
+.replace
+"TreeNode, TreeNode, TreeNode, TreeNode, TreeNode"
+"nodes.pop, TreeNode, build_tree, build_tree, int"
+nan
+"Node, Node, Node, Node, Node, Node, Node"
+"Node, Node, Node, Node, Node, Node, Node"
+is_mirror
+"is_mirror, is_mirror"
+nan
+"split, split"
+"merge, merge"
+"Node, split, merge, merge"
+"split, split, merge"
+"inorder, print, inorder"
+"args.split, insert, int, erase, print, int"
+"print, input, print, interact_treap, print, input"
+random
+pformat
+"str, str, str"
+nan
+"Node, enumerate, build_tree, build_tree, len, min, max, len, left_arr.append, right_arr.append"
+"rank_till_index, rank_till_index"
+"rank_till_index, rank_till_index"
+"quantile, quantile"
+"range_counting, range_counting"
+nan
+nan
+nan
+"max, len, list, range"
+"self.get_parent, self.get_parent, max"
+self.get_parent
+nan
+nan
+"find_set, find_set"
+find_set
+ValueError
+"union_set, union_set, union_set, union_set, Node, make_set, range, .isdisjoint, find_python_set, find_python_set, find_set, find_set, find_set, find_set"
+nan
+nan
+nan
+self.hash_
+self.hash_
+self.exists
+"res.zfill, bin"
+self.format_bin
+"int.from_bytes, .digest, func, value.encode"
+"self.format_bin, self.hash_"
+".count, len, bin"
+nan
+".__init__, super"
+"next_prime, is_prime"
+self.__hash_function_2
+"self.hash_function, self.__hash_double_function, self.balanced_factor"
+nan
+nan
+nan
+".__init__, super"
+nan
+nan
+"hash, len"
+len
+_Item
+"len, len, int"
+"len, len, len"
+self._add_item
+"self._resize, len"
+"self._resize, len"
+"self._get_bucket_index, range, len, self._get_next_ind"
+"self._iterate_buckets, self._try_set"
+"self._is_full, self._add_item, self._size_up"
+"self._iterate_buckets, self._is_sparse, self._size_down, KeyError"
+"self._iterate_buckets, KeyError"
+nan
+nan
+.join
+nan
+nan
+nan
+sum
+nan
+"print, print, print, list, range, len"
+"self.insert_data, self._step_by_step"
+nan
+"self.hash_function, self.values.count, self.hash_function"
+"next_prime, self._keys.clear, self.insert_data"
+"self.hash_function, self._set_value, self._collision_resolution, self._set_value, self.rehashing, self.insert_data"
+nan
+".__init__, super"
+".appendleft, deque"
+"sum, len"
+"._collision_resolution, super, len, self.values.count"
+nan
+".__init__, super"
+"self.hash_function, self.hash_function, self.balanced_factor"
+"range, isinstance, int, any, math.sqrt"
+"is_prime, next_prime"
+nan
+nan
+nan
+fun
+"pytest.mark.parametrize, HashMap, enumerate, _run_operation, _run_operation, pytest.param, pytest.param, pytest.param, pytest.param, pytest.param, pytest.param, str, str, set, set, len, len, set, set, my.items, py.items"
+"name.startswith, dir, is_public, dir, is_public, HashMap"
+name.startswith
+nan
+nan
+nan
+nan
+nan
+"range, combined_roots_list.append, combined_roots_list.append, len, i.merge_trees"
+"Node, Node, self.bottom_root.merge_trees"
+nan
+nan
+"BinomialHeap, self.merge_heaps, int"
+self.__traversal
+"preorder.append, self.__traversal, self.__traversal, preorder.append"
+"self.is_empty, self.pre_order, .join, str"
+nan
+nan
+nan
+nan
+nan
+nan
+str
+nan
+nan
+nan
+"self.left_child_idx, self.right_child_idx, self.max_heapify"
+"list, len, range, self.max_heapify"
+"self.h.pop, self.max_heapify, self.h.pop, Exception"
+"self.h.append, self.max_heapify"
+"range, self.max_heapify"
+nan
+nan
+nan
+int
+int
+int
+nan
+nan
+"self._left, self._right, self._cmp, self._cmp"
+"self._parent, self._swap, self._cmp, self._parent"
+"self._get_valid_parent, self._swap, self._get_valid_parent"
+"self._heapify_up, self._heapify_down, self.key"
+"self._heapify_up, self._heapify_down"
+"len, self._heapify_up, self.arr.append, self.key, self.key"
+nan
+"self.get_top, self.delete_item"
+nan
+nan
+nan
+"self.__heap.append, self.__swap_up"
+nan
+"self.__heap.pop, self.__swap_down"
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+self.build_heap
+self.get_value
+nan
+nan
+nan
+nan
+"self.get_parent_idx, enumerate, range, len, self.sift_down"
+"self.get_left_child_idx, self.get_right_child_idx, len, len"
+"self.get_parent_idx, self.get_parent_idx"
+nan
+"self.heap.pop, self.sift_down"
+"self.heap.append, self.sift_up, len, len"
+len
+self.sift_up
+nan
+nan
+nan
+nan
+"random.choice, RandomizedHeapNode.merge"
+self.insert
+"RandomizedHeapNode.merge, RandomizedHeapNode"
+"self.top, RandomizedHeapNode.merge"
+IndexError
+nan
+"result.append, self.pop"
+nan
+nan
+nan
+nan
+nan
+SkewNode.merge
+self.insert
+nan
+"iter, result.append, self.insert, self.pop"
+"SkewNode.merge, SkewNode"
+"self.top, SkewNode.merge"
+IndexError
+nan
+"len, points.sort, KDNode, len, build_kdtree, build_kdtree"
+nan
+nan
+"float, search, sum, len, search, search, zip"
+"sum, len, search, search, zip"
+"hypercube_points, build_kdtree, np.random.default_rng, .tolist, nearest_neighbour_search, print, print, print, print, points.tolist, rng.random"
+"np.random.default_rng, rng.random"
+"pytest.mark.parametrize, build_kdtree, .tolist, isinstance, len, hypercube_points, len, type"
+"hypercube_points, build_kdtree, np.random.default_rng, .tolist, nearest_neighbour_search, points.tolist, rng.random"
+"build_kdtree, nearest_neighbour_search, float"
+nan
+nan
+"CircularLinkedList, range, circular_linked_list.insert_tail, circular_linked_list.insert_head, circular_linked_list.insert_nth, len, circular_linked_list.is_empty, str, circular_linked_list.delete_front, circular_linked_list.delete_tail, circular_linked_list.delete_nth, circular_linked_list.delete_nth, circular_linked_list.is_empty, circular_linked_list.insert_nth, str, .join, str, .join, str, .join, circular_linked_list.delete_front, circular_linked_list.delete_tail, str, .join, circular_linked_list.delete_nth, str, .join, circular_linked_list.is_empty, len, str, str, str, str, str, range, range, range, range, range"
+nan
+sum
+".join, str, iter"
+"self.insert_nth, len"
+self.insert_nth
+"Node, IndexError, len, range, len"
+self.delete_nth
+"self.delete_nth, len"
+"IndexError, len, range, len"
+len
+nan
+nan
+nan
+"self._Node, self._Node"
+nan
+self.__len__
+self._Node
+nan
+"self.is_empty, Exception"
+"self.is_empty, Exception"
+self._insert
+self._insert
+"self.is_empty, self._delete, IndexError"
+"self.is_empty, self._delete, IndexError"
+nan
+nan
+nan
+nan
+"DoublyLinkedList, range, linked_list.insert_at_head, linked_list.insert_at_tail, linked_list.is_empty, str, linked_list.delete_head, linked_list.delete_tail, linked_list.insert_at_nth, str, .join, str, .join, linked_list.delete_head, linked_list.delete_at_nth, linked_list.delete_tail, len, str, .join, len, str, str, str, range, range, range"
+nan
+nan
+nan
+nan
+".join, str"
+sum
+self.insert_at_nth
+"self.insert_at_nth, len"
+"len, Node, IndexError, range"
+self.delete_at_nth
+"self.delete_at_nth, len"
+"len, IndexError, range"
+"self.delete_head, ValueError, self.delete_tail"
+len
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+".join, nodes.append, str"
+nan
+LinkedListIterator
+nan
+nan
+self.insert_before_node
+self.insert_after_node
+"Node, self.set_head, self.set_tail"
+nan
+nan
+"Node, self.set_tail, self.insert_before_node"
+Exception
+"self.remove_node_pointers, self.get_node"
+nan
+nan
+nan
+nan
+visited.append
+Node
+nan
+nan
+"Node, ValueError, Node"
+nan
+nan
+nan
+nan
+nan
+"set, visited.add"
+list
+nan
+nan
+"stack.append, stack.pop"
+"d.values, .append, enumerate, len, range, len, len"
+nan
+nan
+"SortedLinkedList, list, list"
+"sorted, Node"
+nan
+sum
+".join, str"
+nan
+nan
+nan
+nan
+Node
+print
+nan
+nan
+"LinkedList, linked_list.extend, Exception"
+".join, str, reversed, tuple"
+nan
+nan
+".join, str"
+"Node, Node"
+self.append
+nan
+nan
+self.append
+nan
+sum
+".join, str"
+"Node, Node"
+"len, Node, range"
+nan
+"print, print"
+Node
+"range, ValueError"
+nan
+nan
+"LinkedList, range, linked_list.insert_head, linked_list.insert_tail, range, linked_list.reverse, linked_list.is_empty, str, linked_list.delete_head, linked_list.delete_tail, linked_list.insert_nth, str, .join, str, .join, linked_list.delete_head, linked_list.delete_nth, linked_list.delete_tail, len, str, .join, all, all, str, .join, len, str, str, str, str, range, range, range, range, range, range"
+"LinkedList, linked_list.delete_head, linked_list.delete_tail, linked_list.delete_nth, linked_list.insert_head, linked_list.insert_tail, linked_list.reverse, Node, Node, linked_list.insert_tail, linked_list.is_empty, str, str, str, str, Node, str, str, str"
+"testmod, LinkedList, linked_list.insert_head, linked_list.insert_head, print, linked_list.print_list, linked_list.insert_tail, linked_list.insert_tail, print, linked_list.print_list, print, linked_list.delete_head, print, linked_list.delete_tail, print, linked_list.print_list, print, linked_list.reverse, print, linked_list.print_list, print, print, print, print, .strip, print, print, print, .strip, .strip, .strip, .strip, input, input, input, input, input, len"
+nan
+nan
+nan
+sum
+".join, str"
+"enumerate, ValueError, len"
+"range, ValueError, len"
+"self.insert_nth, len"
+self.insert_nth
+"Node, IndexError, len, range"
+print
+self.delete_nth
+"self.delete_nth, len"
+"IndexError, range, len"
+nan
+nan
+nan
+nan
+"SkipList, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.insert, len"
+"SkipList, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.insert, len, print, len"
+"SkipList, skip_list.find"
+"SkipList, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.find, skip_list.find, skip_list.find, skip_list.find, skip_list.find"
+"SkipList, skip_list.delete, len"
+"SkipList, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.delete, skip_list.delete, skip_list.find, skip_list.find"
+"SkipList, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.delete, skip_list.delete, skip_list.delete, skip_list.delete, skip_list.find, skip_list.find, skip_list.find, skip_list.find, skip_list.find, skip_list.find, skip_list.find, skip_list.find, skip_list.find, skip_list.find, skip_list.find, skip_list.find, skip_list.find, skip_list.find, skip_list.find, skip_list.find"
+"SkipList, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.delete, len, set, traverse_keys, traverse_keys"
+"SkipList, range, is_sorted, skip_list.delete, skip_list.delete, skip_list.delete, is_sorted, skip_list.insert, skip_list.insert, is_sorted, all, skip_list.insert, list, list, list, pairwise"
+"range, test_insert, test_insert_overrides_existing_value, test_searching_empty_list_returns_none, test_search, test_deleting_item_from_empty_list_do_nothing, test_deleted_items_are_not_founded_by_find_method, test_delete_removes_only_given_key, test_delete_doesnt_leave_dead_nodes, test_iter_always_yields_sorted_values"
+"SkipList, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.insert, skip_list.delete, print"
+nan
+nan
+len
+nan
+"list, max, node.forward.copy, lines.append, lines.append, lines.append, len, max, len, lines.append, lines.append, .join, len, .ljust, .ljust, str, len, len, .ljust, .join, len, len, str"
+len
+random
+"reversed, update_vector.reverse, range, update_vector.append, len"
+"self._locate_node, enumerate"
+"self._locate_node, self.random_level, Node, enumerate, range, update_vector.append, new_node.forward.append, update_node.forward.append"
+self._locate_node
+traverse_keys
+"all, pairwise"
+nan
+nan
+nan
+sum
+Node
+nan
+nan
+nan
+nan
+nan
+"ValueError, Node, range, Node, ValueError"
+nan
+nan
+"self.is_empty, .join, item_list.append, str"
+nan
+nan
+nan
+nan
+nan
+self.is_empty
+Exception
+Exception
+nan
+nan
+self.create_linked_list
+"Node, range, Node"
+nan
+self.check_can_perform_operation
+"self.check_is_full, self.is_empty"
+self.check_can_perform_operation
+"self.is_empty, Exception"
+Exception
+nan
+nan
+nan
+nan
+self.append
+"self._Node, self.is_empty, self.is_empty"
+"self._Node, self.is_empty, self.is_empty"
+self.append
+self.appendleft
+self.is_empty
+self.is_empty
+nan
+nan
+"isinstance, len, len"
+Deque._Iterator
+"values_list.append, .join, repr"
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+"len, tuple, iter"
+".join, str"
+len
+"Node, self.is_empty, isinstance"
+"self.is_empty, isinstance, IndexError"
+nan
+nan
+nan
+nan
+nan
+"FixedPriorityQueue, fpq.enqueue, fpq.enqueue, fpq.enqueue, fpq.enqueue, fpq.enqueue, fpq.enqueue, fpq.enqueue, fpq.enqueue, fpq.enqueue, print, print, print, print, print, print, print, print, print, print, print, print, fpq.dequeue, fpq.dequeue, fpq.dequeue, fpq.dequeue, fpq.dequeue, fpq.dequeue, fpq.dequeue, fpq.dequeue, fpq.dequeue, fpq.dequeue"
+"ElementPriorityQueue, epq.enqueue, epq.enqueue, epq.enqueue, epq.enqueue, epq.enqueue, epq.enqueue, epq.enqueue, epq.enqueue, epq.enqueue, print, print, print, print, print, print, print, print, print, print, print, print, epq.dequeue, epq.dequeue, epq.dequeue, epq.dequeue, epq.dequeue, epq.dequeue, epq.dequeue, epq.dequeue, epq.dequeue, epq.dequeue"
+nan
+".append, len, OverflowError, ValueError"
+"UnderFlowError, queue.pop"
+".join, enumerate"
+nan
+"self.queue.append, len, OverFlowError"
+"UnderFlowError, min, self.queue.remove"
+str
+nan
+list
+len
+tuple
+self.entries.append
+"self.entries.pop, IndexError"
+"range, put, get"
+nan
+nan
+list
+"len, len"
+tuple
+self._stack1.append
+"self._stack2.pop, IndexError, stack2_append, stack1_pop"
+nan
+nan
+str
+self.stack.append
+"self.rotate, self.rotate"
+"range, self.put"
+"self.get, self.put, self.rotate"
+nan
+"Stack, stack.is_empty, stack.push, stack.is_empty, stack.pop"
+"Stack, Stack, operand_stack.peek, i.isdigit, operand_stack.push, int, operator_stack.push, operator_stack.peek, operator_stack.pop, operand_stack.peek, operand_stack.pop, operand_stack.peek, operand_stack.pop, , operand_stack.push"
+PRECEDENCES.get
+nan
+"Stack, .join, balanced_parentheses, ValueError, stack.is_empty, postfix.append, char.isalpha, char.isdigit, postfix.append, stack.pop, stack.push, stack.pop, postfix.append, stack.is_empty, precedence, precedence, postfix.append, stack.is_empty, stack.peek, stack.pop, stack.push, stack.peek, stack.push, postfix.append, associativity, stack.push, stack.pop, stack.pop"
+"max, print, print, .join, len, .center, .center, .center, print, len, post_fix.append, print, x.isalpha, x.isdigit, post_fix.append, x.center, .ljust, .ljust, ValueError, stack.pop, .center, .ljust, .ljust, stack.append, stack.pop, .join, .join, .join, .join, len, IndexError, post_fix.append, len, stack.append, stack.append, stack.pop, post_fix.append, stack.pop"
+"list, range, len, infix_2_postfix, .join"
+"len, range, stack.append, max, stack.pop"
+"stack.pop, stack.append, stack.append"
+"len, range, range, result.append"
+"enumerate, result.append"
+"len, reversed, range, stack.append, stack.pop"
+"float, ValueError"
+"float, parse_token, print, print, stack.pop, stack.pop, stack.append, len, ArithmeticError, .center, .center, stack.append, stack.pop, stack.append, print, print, , print, print, len, print, print, .rjust, .ljust, .rjust, .ljust, .rjust, .ljust, len, .rjust, .ljust, .rjust, .ljust, .rjust, .ljust, str"
+c.isdigit
+"stack.pop, expression.split, is_operand, stack.append, stack.pop, stack.pop, stack.append, int,"
+"expression.pop, is_operand, evaluate_recursive, evaluate_recursive, operation, int"
+nan
+nan
+nan
+"Stack, range, bool, stack.is_full, stack.push, bool, stack.is_empty, stack.is_full, str, stack.pop, stack.peek, stack.push, stack.is_empty, str, str, stack.pop, stack.peek, str, str, stack.push, stack.is_empty, stack.size, stack.size, list, range"
+nan
+bool
+str
+"self.stack.append, len"
+self.stack.pop
+nan
+bool
+self.size
+len
+nan
+nan
+"self.temp_queue.append, self.temp_queue.append, self.main_queue.popleft"
+self.main_queue.popleft
+nan
+nan
+nan
+nan
+nan
+"Node, Node"
+nan
+nan
+nan
+nan
+"print, print"
+nan
+nan
+nan
+nan
+nan
+nan
+".join, str"
+"len, tuple, iter"
+nan
+"Node, self.is_empty"
+"self.is_empty, isinstance, IndexError"
+"self.is_empty, IndexError"
+nan
+"len, st.append, range, st.append, st.pop, len, len"
+"range, print"
+nan
+"SuffixTreeNode, self.build_suffix_tree"
+"len, range, self._add_suffix"
+"SuffixTreeNode, len"
+nan
+nan
+nan
+"SuffixTree, suffix_tree.search, print"
+nan
+SuffixTree
+"self.subTest, self.suffix_tree.search"
+"self.subTest, self.suffix_tree.search"
+self.suffix_tree.search
+self.suffix_tree.search
+"self.subTest, self.suffix_tree.search"
+nan
+".split, RadixNode, root.insert_many, all, root.delete, root.delete, root.find, root.find, root.find, root.find, root.find, root.find"
+test_trie
+"RadixNode, .split, root.insert_many, print, print, root.print_tree"
+nan
+zip
+self.insert
+"RadixNode, incoming_node.match, .insert, RadixNode, .insert"
+"self.nodes.get, incoming_node.match, incoming_node.find"
+"self.nodes.get, incoming_node.match, incoming_node.delete, len, next, len, next, len, iter, iter, self.nodes.values, incoming_node.nodes.values"
+"self.nodes.values, print, value.print_tree"
+nan
+"node.nodes.items, print, print_words"
+".split, TrieNode, root.insert_many, all, root.find, root.find, root.find, root.delete, root.delete, root.find, root.find, root.find, root.find, root.find, root.find"
+"print, str"
+test_trie
+"print_results, test_trie"
+nan
+self.insert
+TrieNode
+nan
+"_delete, curr.nodes.get, _delete, len, len, len"
+"curr.nodes.get, _delete, len, len, len"
+"img.point, ValueError"
+nan
+"img.point, int"
+int
+"range, range"
+nan
+self.set_matricies
+nan
+"self.set_matricies, , print"
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+"self.ndvi, abs, abs"
+nan
+nan
+nan
+nan
+nan
+np.arctan
+nan
+self.ndvi
+nan
+nan
+"self.rvi, self.rvi"
+nan
+nan
+nan
+nan
+nan
+nan
+"np.max, np.min, np.max, np.max, np.max, np.min, np.min, np.min"
+nan
+nan
+self.ndvi
+nan
+"range, min, range, int, to_grayscale, normalize, normalize, normalize"
+nan
+min
+"cn.convert_to_negative, negative_img.any"
+"Image.open, .startswith, str, cc.change_contrast"
+"canny.gen_gaussian_kernel, resp.all"
+"imread, canny_img.all, canny.canny, canny_array.any"
+".all, gg.gaussian_filter"
+"array, .astype, res.any, conv.img_convolve"
+".any, med.median_filter"
+"sob.sobel_filter, grad.any, theta.any"
+"sp.make_sepia, sepia.all"
+"bs.Burkes, burkes.process, burkes.output_img.any, imread"
+"rs.NearestNeighbour, nn.process, nn.output.any, imread"
+"imread, lbp.get_neighbors_pixel, np.zeros, range, lbp_image.any, getenv, range, lbp.local_binary_value"
+nan
+"int, self.get_greyscale, ValueError, np.ones, range, range"
+nan
+"range, range, int, int, int, int, int, int, int, int, self.get_greyscale"
+"np.exp, np.square, np.square, np.square"
+"np.zeros, range, range"
+"range, range"
+"range, range"
+"img_convolve, sobel_filter, suppress_non_maximum, detect_high_low_threshold, track_edge, gen_gaussian_kernel, np.rad2deg"
+"math.sqrt, np.exp, math.sqrt"
+nan
+"np.zeros, range, vec_gaussian, range, math.sqrt, abs, abs"
+"np.zeros, get_gauss_kernel, range, range, get_slice, vec_gaussian, np.multiply, np.multiply, np.sum, np.sum"
+"float, float, int, abs"
+"zeros, range, range, ravel"
+"pad, im2col, ravel, .reshape, dot"
+"np.zeros, range, range, np.cos, np.sin, np.exp, np.cos"
+"exp, square, square, square"
+"zeros, enumerate, gen_gaussian_kernel, ravel, .astype, product, ravel, range, range, .reshape, dot"
+"filter2D, np.array, np.array, np.array, np.array, ValueError, tuple"
+int
+"sum, get_neighbors_pixel, get_neighbors_pixel, get_neighbors_pixel, get_neighbors_pixel, get_neighbors_pixel, get_neighbors_pixel, get_neighbors_pixel, get_neighbors_pixel, zip"
+"int, zeros_like, range, range, ravel, sort, int8, divide, multiply"
+"np.array, np.array, np.abs, np.abs, np.sqrt, dst_xy.astype, np.arctan2, img_convolve, img_convolve, np.max, np.max, np.max, np.square, np.square"
+nan
+nan
+"cv2.imread, copy.deepcopy, plt.hist, np.sum, range, range, cv2.imwrite, self.img.ravel, len, int, self.last_list.append, int, range, int, np.ma.count"
+"plt.hist, self.img.ravel"
+"cv2.imshow, cv2.imshow, cv2.waitKey, cv2.destroyAllWindows"
+nan
+nan
+"np.zeros_like, np.zeros, range, range, .sum, int"
+nan
+nan
+"np.zeros_like, np.zeros, range, range, .sum, int"
+nan
+"ValueError, np.ones"
+"range, range, self.get_x, self.get_y"
+int
+int
+"cv2.getAffineTransform, cv2.warpAffine"
+nan
+sorted
+"float, range, range, euclidean_distance_sqr, min"
+"float, range, min, range, max, euclidean_distance_sqr, min"
+"closest_pair_of_points_sqr, closest_pair_of_points_sqr, min, dis_between_closest_in_strip, min, dis_between_closest_pair, len, abs, cross_strip.append"
+"column_based_sort, column_based_sort, closest_pair_of_points_sqr"
+nan
+"isinstance, points.append, points.append, Point, print"
+"_construct_points, hasattr, ValueError, ValueError"
+nan
+"sorted, len, set, range, sorted, _validate_input, range, range, convex_set.update, _det"
+"sorted, len, range, _construct_hull, _construct_hull, sorted, _validate_input, _det, upper_hull.append, lower_hull.append"
+"float, _det, _construct_hull, convex_set.add, _construct_hull, candidate_points.append"
+"sorted, len, range, range, sorted, _validate_input, _det, convex_hull.insert, convex_hull.append, convex_hull.insert, _det, _det, convex_hull.append, _det, _det, len"
+"convex_hull_bf, convex_hull_recursive, convex_hull_melkman, print"
+"float, float"
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+hash
+"generate, len, generate, range, len, tuple, res.append, generate, tuple"
+"generate, range, res.append, generate, tuple"
+"generate, len, res.append, len, tuple, tuple, res.append, tuple"
+"res.append, tuple, res.append, tuple"
+"len, range, range"
+"count_inversions_recursive, count_inversions_recursive, _count_cross_inversions, len, len"
+"len, r.extend, r.extend, len, len, r.append, r.append, len"
+"count_inversions_bf, count_inversions_recursive, print, arr_1.sort, count_inversions_bf, count_inversions_recursive, print, count_inversions_bf, count_inversions_recursive, print"
+choice
+"random_pivot, len, len, kth_number, kth_number, len"
+"len, max_difference, max_difference, min, max, len, len"
+"max_subarray, max_subarray, max_cross_sum"
+"range, range, float, float"
+"time.time, max_subarray, time.time, randint, range"
+"print, zip, plt.plot, plt.xlabel, plt.ylabel, plt.show, time_max_subarray, print"
+"len, len, len, len, len, len"
+"merge, len, merge_sort, merge_sort, len"
+"len, peak, peak, len, len"
+actual_power
+"actual_power, actual_power"
+"Exception, len, len, len, len"
+"range, range, len, len"
+"range, range, len, len"
+"len, Exception, range, range, range, range, len, len, range, range, range, range"
+"len, len"
+"print, .join, str"
+"split_matrix, split_matrix, actual_strassen, actual_strassen, actual_strassen, actual_strassen, actual_strassen, actual_strassen, actual_strassen, matrix_addition, matrix_addition, matrix_addition, matrix_subtraction, range, range, matrix_dimensions, default_matrix_multiplication, matrix_subtraction, matrix_addition, matrix_addition, matrix_subtraction, matrix_addition, matrix_addition, matrix_subtraction, matrix_addition, matrix_subtraction, matrix_addition, matrix_subtraction, matrix_subtraction, len, new_matrix.append, len, new_matrix.append, matrix_addition, matrix_addition"
+"matrix_dimensions, matrix_dimensions, max, int, range, actual_strassen, range, Exception, math.pow, matrix_dimensions, matrix_dimensions, math.ceil, range, new_matrix1.append, range, new_matrix2.append, range, final_matrix.pop, math.log2, .append, .append, .pop"
+"len, len, range, range, range, range, .islower, .upper"
+"range, range, len, table.append, len, combination.reverse, len, len, len"
+nan
+"defaultdict, range, len, range, len"
+"self.count_ways_until, self.count_ways_until"
+"range, self.count_ways_until, len, .append"
+"range, ValueError, range"
+"range, isinstance"
+"count_of_possible_combinations, sum, count_of_possible_combinations"
+"count_of_possible_combinations_with_dp_array, sum, count_of_possible_combinations_with_dp_array"
+"range, range"
+"sum, count_of_possible_combinations"
+"sum, count_of_possible_combinations_with_dp_array"
+nan
+nan
+"self.__min_dist_top_down_dp, self.__min_dist_top_down_dp, self.__min_dist_top_down_dp, self.__min_dist_top_down_dp, min"
+"self.__min_dist_top_down_dp, range, len, len, range, len, len"
+"len, len, range, range, range, range, min"
+"ValueError, factorial"
+"ValueError, _fib"
+_fib
+nan
+"print, Fibonacci, input, print, int, fibonacci.get, print"
+nan
+"range, self.sequence.append, len"
+"isinstance, ValueError, ValueError, ValueError, isinstance, str"
+nan
+"range, range, range, range"
+nan
+"range, range, range, min"
+nan
+"range, range, range, range, range"
+"isinstance, all_submasks.append"
+"mf_knapsack, max, mf_knapsack, mf_knapsack"
+"range, range, range, max"
+"len, range, knapsack, set, _construct_solution, ValueError, len, ValueError, isinstance, isinstance, isinstance, TypeError, len, type"
+"_construct_solution, optimal_set.add, _construct_solution"
+"int, len, list, shuffle, tf.Graph, len, range, graph.as_default, tf.Session, tf.placeholder, tf.placeholder, tf.placeholder, tf.reduce_mean, tf.placeholder, tf.placeholder, tf.sqrt, tf.placeholder, tf.argmin, tf.initialize_all_variables, sess.run, range, sess.run, sess.run, len, tf.Variable, cent_assigns.append, tf.Variable, cluster_assigns.append, tf.reduce_sum, range, range, range, tf.assign, range, tf.assign, tf.pow, len, sess.run, sess.run, sess.run, sess.run, len, tf.sub, sess.run, range, len, sess.run, array, sess.run"
+"sorted, len, list, enumerate, enumerate, range, range, result.append"
+"len, len, range, range, range, max"
+"len, len, range, ValueError, range, isinstance, isinstance, range"
+"len, len, len, longest_subsequence, longest_subsequence, len, len"
+"len, range, range, range, longest_increasing_subsequence.append, range, len, len, copy.copy, .append, len, len"
+nan
+"range, len, len, len, ceil_index"
+"len, len, range, range, range, range, range, max"
+"len, range, len, range, range, range, range, min"
+"a, min, len, a, range, a"
+"perf_counter_ns, print, perf_counter_ns"
+"min, a, range, a"
+"len, range, range, range, range, range, range, range"
+"print, print, print_optimal_solution, print_optimal_solution, print, str"
+"len, matrix_chain_order, print, print_optimal_solution, str"
+"max, max"
+"range, ValueError, len, max, min, max, isinstance, all, isinstance"
+"float, max, max"
+range
+"range, range, range, len, len, len, range, len, min"
+"len, sum, range, range, range, range, range, int, range, range"
+"ValueError, len, isinstance, all, min, isinstance"
+"range, int, ValueError, ValueError, int, range, math.sqrt, min"
+"range, ValueError, min, min, min"
+"set, dynamic_programming, ValueError, ValueError, len, min, ValueError, max, ValueError, min, isinstance, all, len, all, dynamic_programming, dynamic_programming, dynamic_programming, dynamic_programming, isinstance, isinstance"
+"min, dynamic_programming, dynamic_programming, dynamic_programming, dynamic_programming"
+"len, len, min_distance, int, min, min_distance, min_distance, min_distance"
+"int, min, min_distance, min_distance, min_distance"
+nan
+"print_binary_search_tree, print_binary_search_tree, print, print, print, len"
+"nodes.sort, len, range, print, print, print_binary_search_tree, range, print, range, range, range, range, range, range, range, range, range"
+"find_optimal_binary_search_tree, Node, randint, range"
+nan
+nan
+"len, enumerate, range, range, range, min"
+"range, len, len, result.append"
+"recursive_match, recursive_match, recursive_match, recursive_match"
+"len, len, range, range, range, range, range"
+"_enforce_args, float, range, max, naive_cut_rod_recursive"
+"_enforce_args, _top_down_cut_rod_recursive, float, range"
+"float, range, max, _top_down_cut_rod_recursive"
+"_enforce_args, range, float, range, range, max"
+"ValueError, len, ValueError, len"
+"len, top_down_cut_rod, bottom_up_cut_rod, naive_cut_rod_recursive"
+nan
+"query.upper, subject.upper, len, len, range, range, range, max, score_function"
+"query.upper, subject.upper, float, enumerate, score_function, enumerate, score_function"
+"len, .append, range, range, sorted, range, .append"
+"len, range, range, range, range, range"
+"any, len, enumerate, range, sum, ValueError, max, max, min, zip"
+range
+"_validation, range, range, result.reverse, len, result.append, len, len"
+"_validate_not_empty, _validate_lists, _validate_dicts"
+"all, ValueError"
+"_validate_list, _validate_list"
+"isinstance, ValueError, isinstance, ValueError"
+"_validate_dict, _validate_nested_dict, _validate_nested_dict"
+"_validate_dict, _object.values, _validate_dict"
+"isinstance, ValueError, all, ValueError, all, ValueError, isinstance, isinstance, _object.values"
+"enumerate, enumerate, enumerate, len, len, len"
+"len, is_breakable, ValueError, ValueError, range, isinstance, len, isinstance, all, trie_node.get, trie_node.get, is_breakable, isinstance, len"
+"range, trie_node.get, trie_node.get, is_breakable"
+"math.radians, math.radians, cmath.rect, cmath.rect"
+"ValueError, ValueError, ValueError, ValueError, ValueError, log"
+"enumerate, ValueError"
+"enumerate, ValueError"
+".count, ValueError, ValueError, ValueError, ValueError"
+"round, ValueError, ValueError, ValueError, exp"
+"round, ValueError, ValueError, ValueError, exp"
+nan
+nan
+"len, len, max, range, np.matmul, deque, rotated_signal.rotate, enumerate, np.transpose, np.transpose, float, range, round"
+"abs, ValueError, .count, ValueError, ValueError, abs, abs, abs"
+".count, ValueError, sqrt, sqrt, ValueError, pow, pow, sqrt, pow, pow, pow, pow"
+".count, ValueError, ValueError, ValueError, ValueError"
+nan
+".count, ValueError, ValueError, Result, Result, Result, float, round, abs"
+ValueError
+ValueError
+".count, ValueError, ValueError, ValueError, ValueError, ValueError"
+".count, ValueError, ValueError, float, ValueError"
+"ValueError, isinstance"
+"ValueError, math.sqrt, isinstance"
+"str, ValueError, str"
+ValueError
+ValueError
+ValueError
+"ValueError, ValueError"
+"ValueError, len, ValueError, ValueError, len"
+"check_validity, get_band_type_count, int, get_multiplier, ValueError, get_significant_digits, get_tolerance, get_temperature_coeffecient, str, str"
+"enumerate, ValueError, float"
+"enumerate, ValueError"
+"ValueError, ValueError, float, sqrt"
+"ValueError, float"
+"socket.socket, socket.gethostname, sock.connect, sock.send, print, sock.close, print, open, print, print, sock.recv, out_file.write"
+"socket.socket, socket.gethostname, sock.bind, sock.listen, print, sock.shutdown, sock.close, sock.accept, print, conn.recv, print, print, conn.close, open, in_file.read, conn.send, print, in_file.read"
+"patch, patch, Mock, iter, send_file, sock.assert_called_once, sock.return_value.bind.assert_called_once, sock.return_value.listen.assert_called_once, sock.return_value.accept.assert_called_once, conn.recv.assert_called_once, file.return_value.__enter__.assert_called_once, file.return_value.__enter__.return_value.read.assert_called, conn.send.assert_called_once, conn.close.assert_called_once, sock.return_value.shutdown.assert_called_once, sock.return_value.close.assert_called_once, Mock, next"
+"Exception, Exception, Exception, isinstance"
+"enumerate, ValueError"
+"ValueError, ValueError, ValueError"
+"ValueError, ValueError, ValueError"
+"compound_interest, ValueError, ValueError, ValueError"
+"sum, round, ValueError, ValueError, enumerate"
+nan
+"range, ValueError, len, sma.append, sma.append, sum"
+"range, isinstance, TypeError, ValueError, isinstance, TypeError, isinstance, TypeError, ValueError, ValueError, list_of_depreciation_expenses.append, list_of_depreciation_expenses.append"
+"isinstance, isinstance, isinstance, max"
+np.exp
+nan
+"np.linspace, x.reshape, np.linspace, y.reshape"
+"z_0.astype, range, eval_function, np.nan_to_num, abs"
+".transpose, plt.matshow, plt.title, plt.show, abs"
+"warnings.filterwarnings, warnings.filterwarnings, warnings.filterwarnings, warnings.filterwarnings"
+"range, iteration_step"
+"enumerate, new_vectors.append, new_vectors.append, new_vectors.append, new_vectors.append, new_vectors.append, rotate"
+"np.radians, np.array, np.dot, np.cos, np.sin"
+"plt.gca, axes.set_aspect, zip, plt.plot, plt.show"
+range
+nan
+"tuple, round, colorsys.hsv_to_rgb"
+"Image.new, img.load, range, range, get_distance, get_color_coded_rgb, get_black_and_white_rgb"
+nan
+"my_pen.up, my_pen.goto, my_pen.down, my_pen.goto, my_pen.goto, my_pen.goto, triangle, triangle, triangle, get_mid, get_mid, get_mid, get_mid, get_mid, get_mid"
+"turtle.up, turtle.goto, turtle.down, turtle.seth, turtle.begin_fill, range, turtle.end_fill, turtle.fd, turtle.right, turtle.fd, turtle.left, turtle.fd, turtle.left"
+"draw_fractal_recursive, draw_fractal_recursive, draw_fractal_recursive, draw_fractal_recursive, draw_fractal_recursive, draw_cross"
+turtle.color
+"turtle.speed, turtle.hideturtle, set_color, draw_fractal_recursive, .update, turtle.Screen"
+"draw_vicsek_fractal, turtle.done"
+nan
+nan
+FuzzySet
+"FuzzySet, max, min"
+ValueError
+"FuzzySet, min, max"
+"np.linspace, plt.plot, self.membership"
+"len, float, enumerate"
+"random.randint, len"
+"list, .join, random.uniform, random.choice, random.randint, len"
+"range, int, crossover, pop.append, pop.append, mutate, mutate, random.randint"
+"sorted, range, ValueError, ValueError, population.append, len, sorted, population.clear, population.extend, range, .join, evaluate, print, population.extend, int, select, len, random.choice, len, range, int, len"
+"atan, atan, radians, radians, sin, sin, sqrt, asin, tan, tan, radians, radians, cos, cos"
+"atan, atan, haversine_distance, cos, sin, tan, tan, sin, cos, sin, cos, sin, sin, radians, radians"
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+"TypeError, isinstance"
+"TypeError, isinstance, TypeError, isinstance, TypeError, isinstance"
+nan
+nan
+".__init__, super"
+nan
+nan
+"TypeError, isinstance"
+self.sides.append
+nan
+nan
+".__init__, self.post_init, super"
+"Side, Side, .add_side, .add_side, super, super"
+nan
+nan
+".__init__, super"
+".perimeter, super"
+".area, super"
+nan
+len
+"range, len, output_values.append, round, sum, comb"
+"self.basis_function, range, len"
+"plt.plot, plt.scatter, plt.legend, plt.show, self.bezier_curve_function, to_plot_x.append, to_plot_y.append, str"
+"range, result.append, range, .join, result.append, result.append"
+"max, range, abs, abs, float, float, coordinates.append, round, round"
+"all, TypeError, isinstance, list, .values, .values, locals, locals"
+"locals, isinstance, TypeError, all, TypeError, isinstance, list, math.cos, math.sin, math.cos, math.sin, ValueError, input_variables.values, input_variables.values, math.cos, math.sin, math.cos, math.sin, math.cos, math.sin, math.cos, math.sin"
+"len, float, range, range, pheromone_update, copy.deepcopy, ant_route.append, ants_route.append, next, next, next, next, city_select, ant_route.append, iter, iter, iter, iter, next, cities.keys, cities.values, current_city.keys, current_city.keys, iter, current_city.keys"
+nan
+"range, len, range, range, range, len, distance, len, len"
+"unvisited_cities.items, distance, probabilities.append, random.choices, next, next, list, iter, iter, unvisited_cities.keys, chosen_city.keys, current_city.values, next, iter, current_city.keys"
+"len, range, range, len, dfs, print, dfs, min, min"
+"dfs, min, min"
+"invpath.append, range, invpath.append, len, path.append, range, range, len, ValueError, cell.sort, cell.reverse, cell.pop, range, len, range, len, range, len, len, len, cell.append, len, len, len"
+".split, .strip, input"
+"range, range, .append, int, _input"
+"range, range, .append, .append, int, _input"
+"range, range, .append, .append, int, _input"
+"print, _s.pop, _s.append, vis.add, print"
+"print, deque, q.popleft, vis.add, q.append, print"
+"dist.items, set, known.add, len, print, len, dist.get"
+"q.popleft, print, topo, deque, len, q.append, len, q.append"
+"int, range, .strip, a.append, tuple, input, map, .split, .strip, input"
+"list, range, print, range, range, range"
+"set, dist.items, known.add, len, len, dist.get"
+"tuple, range, map, edges.append, .split, tuple, map, input, .split, input"
+"e.sort, print, e.pop, range, range, range, len, len, len, .update, s.pop"
+isolated.append
+"print, enumerate, print"
+"range, float"
+"range, check_negative_cycle, range, Exception, float, float"
+nan
+nan
+nan
+self.calculate_heuristic
+"sqrt, abs, abs"
+nan
+"Node, Node"
+"self.open_nodes.sort, self.open_nodes.pop, self.closed_nodes.append, self.get_successors, self.retrace_path, self.open_nodes.append, self.open_nodes.pop, self.open_nodes.index, self.open_nodes.append, self.open_nodes.append"
+"successors.append, Node, len, len"
+"path.reverse, path.append"
+"AStar, AStar"
+"self.fwd_astar.open_nodes.sort, self.bwd_astar.open_nodes.sort, self.fwd_astar.open_nodes.pop, self.bwd_astar.open_nodes.pop, self.fwd_astar.closed_nodes.append, self.bwd_astar.closed_nodes.append, self.retrace_bidirectional_path, self.fwd_astar.get_successors, self.bwd_astar.get_successors, astar.open_nodes.append, astar.open_nodes.pop, astar.open_nodes.index, astar.open_nodes.append, astar.open_nodes.append"
+"self.fwd_astar.retrace_path, self.bwd_astar.retrace_path, bwd_path.pop, bwd_path.reverse"
+nan
+nan
+nan
+nan
+"Node, Node"
+"self.node_queue.pop, self.get_successors, self.retrace_path, self.node_queue.append"
+"successors.append, Node, len, len"
+"path.reverse, path.append"
+"BreadthFirstSearch, BreadthFirstSearch"
+"self.fwd_bfs.node_queue.pop, self.bwd_bfs.node_queue.pop, self.retrace_bidirectional_path, self.fwd_bfs.get_successors, self.bwd_bfs.get_successors, bfs.node_queue.append"
+"self.fwd_bfs.retrace_path, self.bwd_bfs.retrace_path, bwd_path.pop, bwd_path.reverse"
+"queue.popleft, queue.append"
+path.append
+"deque, deque, construct_path, forward_path.reverse, construct_path, expand_search, expand_search"
+"bidirectional_search, print, bidirectional_search, print, bidirectional_search, print"
+"cst_fwd.get, queue.put"
+"set, set, PriorityQueue, PriorityQueue, queue_forward.put, queue_backward.put, queue_forward.get, visited_forward.add, queue_backward.get, visited_backward.add, pass_and_relaxation, pass_and_relaxation, queue_forward.empty, queue_backward.empty"
+nan
+nan
+nan
+self.m_edges.append
+self.find_component
+self.find_component
+"self.set_component, self.find_component, self.set_component"
+"range, print, self.m_component.update, component_size.append, isinstance, self.union, print"
+nan
+nan
+"print, .join, str"
+.append
+"set, Queue, visited.add, queue.put, queue.empty, queue.get, queue.put, visited.add"
+"Queue, queue.put, queue.empty, queue.get, explored.add, result.append, queue.put"
+"deque, queue.popleft, visited.add, result.append, queue.append"
+"timeit, print"
+nan
+nan
+"queue.pop, visited.add, queue.append"
+"self.parent.get, ValueError, self.shortest_path"
+"set, deque, queue.popleft, explored.add, list, new_path.append, queue.append"
+"deque, set, queue.popleft, min, visited.add, queue.append"
+nan
+nan
+range
+iter
+nan
+".append, ValueError, ValueError, Edge"
+"deque, queue.popleft, ValueError, isinstance, queue.appendleft, queue.append"
+"defaultdict, depth_first_search, depth_first_search"
+"defaultdict, deque, queue.append, queue.popleft, queue.append"
+depth_first_search
+"set, set, any, depth_first_search"
+"visited.add, rec_stk.add, rec_stk.remove, depth_first_search"
+dfs
+"len, range, dfs, components_list.append"
+nan
+"originals_to_clones.items, stack.pop, Node, stack.extend, clone.neighbors.append"
+nan
+id
+"set, stack.pop, explored.add, reversed, stack.append"
+nan
+nan
+"print, print, .join, str"
+.append
+"range, len, len, self.dfs_recursive"
+"print, print, self.dfs_recursive"
+"set, heapq.heappop, visited.add, heapq.heappush"
+"print, range, print, float, print, print, int"
+"float, range"
+"range, print_dist, float, min_dist, range, range, range, float"
+nan
+nan
+nan
+nan
+"self.left, self.right, self.swap, self.min_heapify"
+"self.array.append, self.decrease_key"
+self.min_heapify
+nan
+nan
+math.floor
+nan
+"self.swap, self.par, self.par, self.par"
+nan
+".append, .append"
+"print, .join, str"
+"PriorityQueue, q.insert, self.show_distances, q.is_empty, q.extract_min, q.insert, q.decrease_key"
+"print, range, print"
+"path.append, path.reverse, print, print, path.append, print, print"
+nan
+range
+"print, range, print"
+range
+"range, self.print_solution, self.minimum_distance, range, int"
+"np.full, np.empty, set, heappop, visited.add, range, path.append, path.reverse, len, path.append, float, heappush"
+nan
+range
+".append, .append, len, len"
+"range, len, self.depth_first_search, min"
+"range, self.depth_first_search, self.depth_first_search, len, len"
+nan
+nan
+nan
+"self.graph.get, self.graph.get, .count, .append"
+list
+"self.graph.get, .remove"
+"stack.append, visited.append, next, iter, len, stack.pop, len, len, visited.count, visited.append, stack.append, visited.append, len"
+"range, range, floor, floor, floor, self.add_pair, random, random, random"
+"deque, d.append, visited.append, next, d.popleft, iter, len, visited.count, d.append, visited.append"
+nan
+len
+"stack.append, visited.append, next, iter, len, sorted_nodes.append, len, stack.pop, len, visited.count, stack.append, visited.append, len"
+"next, stack.append, visited.append, set, iter, len, stack.pop, indirect_parents.append, len, list, len, visited.count, stack.append, visited.append, visited.count, indirect_parents.count, len, len, anticipating_nodes.add, anticipating_nodes.add"
+"next, stack.append, visited.append, set, iter, len, stack.pop, indirect_parents.append, len, len, visited.count, stack.append, visited.append, visited.count, indirect_parents.count, len, len, anticipating_nodes.add"
+"time, self.dfs, time"
+"time, self.bfs, time"
+nan
+"self.graph.get, self.graph.get, .count, .append, .count, .append"
+"self.graph.get, self.graph.get, .remove, .remove"
+"stack.append, visited.append, next, iter, len, stack.pop, len, len, visited.count, visited.append, stack.append, visited.append, len"
+"range, range, floor, floor, floor, self.add_pair, random, random, random"
+"deque, d.append, visited.append, next, d.popleft, iter, len, visited.count, d.append, visited.append"
+len
+"next, stack.append, visited.append, set, iter, len, stack.pop, indirect_parents.append, len, list, len, visited.count, stack.append, visited.append, visited.count, indirect_parents.count, len, len, anticipating_nodes.add, anticipating_nodes.add"
+"next, stack.append, visited.append, set, iter, len, stack.pop, indirect_parents.append, len, len, visited.count, stack.append, visited.append, visited.count, indirect_parents.count, len, len, anticipating_nodes.add"
+list
+"time, self.dfs, time"
+"time, self.bfs, time"
+nan
+nan
+nan
+nan
+"self._normalize_graph, len"
+"self.graph.insert, self.graph.append, len, len, len, len, sum, len, room.insert, len, room.append"
+"self.maximum_flow_algorithm.execute, self.maximum_flow_algorithm.getMaximumFlow, Exception"
+algorithm
+nan
+self._algorithm
+nan
+".__init__, super"
+Exception
+".__init__, super, range"
+"enumerate, sum, len, self.process_vertex, range, vertices_list.insert, vertices_list.pop"
+"range, self.relabel, self.push"
+min
+range
+dfs
+"range, len"
+"check_circuit_or_path, dfs, print, print, print, print, print, range, range"
+"check_euler, check_euler, check_euler, check_euler, check_euler"
+"cuts.append, dfs"
+dfs
+nan
+"len, range, dfs, dfs, min, min, bridges.append"
+"dfs, min, min, bridges.append"
+"set, list, distinct_edge.add"
+"enumerate, .join, len"
+"get_distinct_edge, get_bitcode, bit.count, sorted, frequency_table.items"
+"enumerate, .append, nodes.setdefault"
+"nodes.items, cluster.setdefault, key.count"
+len
+"print, nodes.items, print, print, print, sorted, print, graph.items, print, print, cluster.items, print, print, print"
+"max, cluster.keys, int, int, int, tuple, .append, tuple, tuple"
+"max, create_edge, cluster.keys, max, .append, max, cluster.keys"
+"paths.append, tuple, my_dfs, tuple"
+"int, my_dfs, tuple, len"
+"range, freq_sub_el.append, list, len, el.append"
+"range, len, range, len, .split"
+"len, list, len, len, range, unmatched_donors.remove, rec_preference.index, rec_preference.index, unmatched_donors.append, unmatched_donors.remove"
+"print, range, range, print, float, print, print, int"
+"range, range, _print_dist, range, range, float, range, range, range, float, float"
+nan
+nan
+"self.add_vertex, self.add_edge, len, ValueError"
+"self.contains_vertex, ValueError"
+"self.contains_edge, .append, ValueError, ValueError, .append, self.contains_vertex, self.contains_vertex"
+"self.adj_list.pop, self.contains_vertex, ValueError, self.adj_list.values, .remove, edge_list.remove"
+".remove, ValueError, self.contains_edge, ValueError, .remove, self.contains_vertex, self.contains_vertex"
+nan
+"ValueError, self.contains_vertex, self.contains_vertex"
+nan
+pformat
+"undirected_graph.contains_edge, undirected_graph.contains_edge, directed_graph.contains_edge"
+"undirected_graph.contains_edge, undirected_graph.contains_edge, directed_graph.contains_edge"
+"undirected_graph.contains_vertex, directed_graph.contains_vertex"
+"undirected_graph.contains_vertex, directed_graph.contains_vertex"
+"random.sample, random.sample, len, random_edges.append, int, int, len, len"
+"random.sample, self.__generate_random_edges, GraphAdjacencyList, GraphAdjacencyList, ValueError, range"
+"self.__generate_graphs, self.__assert_graph_vertex_exists_check, self.__assert_graph_edge_exists_check"
+"random.sample, GraphAdjacencyList, GraphAdjacencyList, range, range, undirected_graph.contains_vertex, directed_graph.contains_vertex"
+"random.sample, GraphAdjacencyList, GraphAdjacencyList, range, undirected_graph.add_vertex, directed_graph.add_vertex, self.__assert_graph_vertex_exists_check"
+"random.sample, GraphAdjacencyList, GraphAdjacencyList, range, self.__assert_graph_vertex_exists_check, undirected_graph.remove_vertex, directed_graph.remove_vertex, self.__assert_graph_vertex_does_not_exist_check"
+"random.sample, random.sample, GraphAdjacencyList, GraphAdjacencyList, enumerate, enumerate, range, range, undirected_graph.add_vertex, directed_graph.add_vertex, self.__assert_graph_vertex_exists_check, undirected_graph.remove_vertex, directed_graph.remove_vertex, self.__assert_graph_vertex_does_not_exist_check, undirected_graph.remove_vertex, directed_graph.remove_vertex, self.__assert_graph_vertex_does_not_exist_check"
+"self.__generate_graphs, range, range, all_possible_edges.append, all_possible_edges.append, self.__assert_graph_edge_exists_check, self.__assert_graph_edge_exists_check, self.__assert_graph_edge_does_not_exist_check"
+"random.sample, self.__generate_random_edges, GraphAdjacencyList, GraphAdjacencyList, range, undirected_graph.add_edge, directed_graph.add_edge, self.__assert_graph_edge_exists_check"
+"self.__generate_graphs, self.__assert_graph_edge_exists_check, undirected_graph.remove_edge, directed_graph.remove_edge, self.__assert_graph_edge_does_not_exist_check"
+"self.__generate_graphs, enumerate, len, len, self.__generate_random_edges, undirected_graph.add_edge, directed_graph.add_edge, self.__assert_graph_edge_exists_check, undirected_graph.remove_edge, directed_graph.remove_edge, self.__assert_graph_edge_does_not_exist_check, len, len, more_random_edges.append"
+"self.__generate_graphs, pytest.raises, undirected_graph.add_vertex, pytest.raises, directed_graph.add_vertex"
+"self.__generate_graphs, range, pytest.raises, undirected_graph.remove_vertex, pytest.raises, directed_graph.remove_vertex"
+"self.__generate_graphs, pytest.raises, undirected_graph.add_edge, pytest.raises, directed_graph.add_edge"
+"self.__generate_graphs, len, len, self.__generate_random_edges, pytest.raises, undirected_graph.remove_edge, pytest.raises, directed_graph.remove_edge, len, len, more_random_edges.append"
+"self.__generate_graphs, pytest.raises, undirected_graph.contains_edge, pytest.raises, directed_graph.contains_edge, pytest.raises, undirected_graph.contains_edge, pytest.raises, directed_graph.contains_edge"
+nan
+nan
+"self.add_vertex, self.add_edge, len, ValueError"
+"self.contains_edge, ValueError, ValueError, self.contains_vertex, self.contains_vertex"
+"ValueError, self.contains_edge, ValueError, self.contains_vertex, self.contains_vertex"
+"self.contains_vertex, self.adj_matrix.append, ValueError, row.append, len, len"
+"self.adj_matrix.pop, self.vertex_to_index.pop, self.contains_vertex, ValueError, lst.pop"
+nan
+"ValueError, self.contains_vertex, self.contains_vertex"
+nan
+"pformat, pformat"
+"undirected_graph.contains_edge, undirected_graph.contains_edge, directed_graph.contains_edge"
+"undirected_graph.contains_edge, undirected_graph.contains_edge, directed_graph.contains_edge"
+"undirected_graph.contains_vertex, directed_graph.contains_vertex"
+"undirected_graph.contains_vertex, directed_graph.contains_vertex"
+"random.sample, random.sample, len, random_edges.append, int, int, len, len"
+"random.sample, self.__generate_random_edges, GraphAdjacencyMatrix, GraphAdjacencyMatrix, ValueError, range"
+"self.__generate_graphs, self.__assert_graph_vertex_exists_check, self.__assert_graph_edge_exists_check"
+"random.sample, GraphAdjacencyMatrix, GraphAdjacencyMatrix, range, range, undirected_graph.contains_vertex, directed_graph.contains_vertex"
+"random.sample, GraphAdjacencyMatrix, GraphAdjacencyMatrix, range, undirected_graph.add_vertex, directed_graph.add_vertex, self.__assert_graph_vertex_exists_check"
+"random.sample, GraphAdjacencyMatrix, GraphAdjacencyMatrix, range, self.__assert_graph_vertex_exists_check, undirected_graph.remove_vertex, directed_graph.remove_vertex, self.__assert_graph_vertex_does_not_exist_check"
+"random.sample, random.sample, GraphAdjacencyMatrix, GraphAdjacencyMatrix, enumerate, enumerate, range, range, undirected_graph.add_vertex, directed_graph.add_vertex, self.__assert_graph_vertex_exists_check, undirected_graph.remove_vertex, directed_graph.remove_vertex, self.__assert_graph_vertex_does_not_exist_check, undirected_graph.remove_vertex, directed_graph.remove_vertex, self.__assert_graph_vertex_does_not_exist_check"
+"self.__generate_graphs, range, range, all_possible_edges.append, all_possible_edges.append, self.__assert_graph_edge_exists_check, self.__assert_graph_edge_exists_check, self.__assert_graph_edge_does_not_exist_check"
+"random.sample, self.__generate_random_edges, GraphAdjacencyMatrix, GraphAdjacencyMatrix, range, undirected_graph.add_edge, directed_graph.add_edge, self.__assert_graph_edge_exists_check"
+"self.__generate_graphs, self.__assert_graph_edge_exists_check, undirected_graph.remove_edge, directed_graph.remove_edge, self.__assert_graph_edge_does_not_exist_check"
+"self.__generate_graphs, enumerate, len, len, self.__generate_random_edges, undirected_graph.add_edge, directed_graph.add_edge, self.__assert_graph_edge_exists_check, undirected_graph.remove_edge, directed_graph.remove_edge, self.__assert_graph_edge_does_not_exist_check, len, len, more_random_edges.append"
+"self.__generate_graphs, pytest.raises, undirected_graph.add_vertex, pytest.raises, directed_graph.add_vertex"
+"self.__generate_graphs, range, pytest.raises, undirected_graph.remove_vertex, pytest.raises, directed_graph.remove_vertex"
+"self.__generate_graphs, pytest.raises, undirected_graph.add_edge, pytest.raises, directed_graph.add_edge"
+"self.__generate_graphs, len, len, self.__generate_random_edges, pytest.raises, undirected_graph.remove_edge, pytest.raises, directed_graph.remove_edge, len, len, more_random_edges.append"
+"self.__generate_graphs, pytest.raises, undirected_graph.contains_edge, pytest.raises, directed_graph.contains_edge, pytest.raises, undirected_graph.contains_edge, pytest.raises, directed_graph.contains_edge"
+nan
+nan
+".append, .append, .append, .append, .append, .append"
+pformat
+nan
+nan
+self.calculate_heuristic
+"abs, abs"
+nan
+nan
+"Node, Node"
+"self.open_nodes.sort, self.open_nodes.pop, self.closed_nodes.append, self.get_successors, self.retrace_path, self.open_nodes.append"
+"Node, len, len"
+"path.reverse, path.append"
+"graph.items, set, heapq.heappush, chosen_vertices.add, heapq.heapify, heapq.heappop, .index, len"
+"stack.pop, print"
+"stack.append, depth_first_search"
+"range, len, depth_first_search"
+"graph.values, range, print, len, len, len, queue.pop, max, queue.append, max, queue.append"
+"graph.values, range, len, len, queue.pop, topo_order.append, len, queue.append, queue.append"
+"len, random.choice, random.choice, list, uv_neighbors.remove, uv_neighbors.remove, set, list, set, .append, .union, graph_copy.keys, .remove, .remove"
+"enumerate, isinstance, ValueError, isinstance, ValueError, ValueError, isinstance, len"
+"len, np.zeros, np.zeros, np.random.default_rng, rng.random, np.sqrt, range, ValueError, np.dot, multiply_matrix_vector, np.dot, np.sqrt, np.dot"
+"len, np.zeros, enumerate, ValueError"
+"validate_adjacency_list, lanczos_iteration, np.linalg.eigh, np.dot"
+doctest.testmod
+nan
+"MarkovChainGraphUndirectedUnweighted, Counter, range, graph.add_transition_probability, graph.get_nodes, graph.transition"
+nan
+nan
+"self.add_node, self.add_node"
+list
+random
+"set, get_edges, edges.pop, chosen_vertices.add, chosen_vertices.add, edges.copy, edges.discard"
+"set, graph.items, edges.add"
+"range, range, TypeError, len, len, fill_row"
+"range, len, min"
+nan
+nan
+nan
+"self.add_vertex, self.add_vertex"
+"self.get_edges, range, edges.sort, range, edges.remove, len, list, len"
+string.rstrip
+output.append
+self.adjacency.keys
+"Graph, g.add_vertex, g.add_edge"
+nan
+"Graph.UnionFind, Graph.build, graph.get_vertices, graph.get_edges, cheap_edge.values, edges.remove, union_find.find, union_find.find, union_find.find, union_find.find, union_find.union, mst_edges.append"
+nan
+len
+self.find
+"self.make_set, self.find"
+"self.find, self.find"
+"sorted, list, range, find_parent, find_parent, find_parent, minimum_spanning_tree.append"
+find_parent
+nan
+nan
+nan
+nan
+nan
+DisjointSetTreeNode
+self.find_set
+nan
+"self.link, self.find_set, self.find_set"
+nan
+nan
+"self.add_node, self.add_node"
+"set, edges.sort, , , disjoint_set.make_set, disjoint_set.find_set, disjoint_set.find_set, len, graph.add_edge, disjoint_set.union, seen.add, edges.append"
+nan
+"Heap, range, heap.heapify, range, len, len, len, distance_tv.append, positions.append, heap.node_position.append, len, heap.delete_minimum, tree_edges.append, heap.bottom_to_top, heap.get_position, heap.get_position, heap.get_position"
+nan
+nan
+nan
+"self.get_position, self.set_position, self.set_position, self.top_to_bottom, self.get_position"
+"self.set_position, int, int, self.set_position, self.set_position"
+"range, self.top_to_bottom, len, len"
+"self.top_to_bottom, len"
+nan
+nan
+nan
+nan
+nan
+"dict.fromkeys, dict.fromkeys, MinPriorityQueue, dist.items, priority_queue.is_empty, priority_queue.extract_min, priority_queue.push, priority_queue.is_empty, priority_queue.extract_min, priority_queue.update_key, priority_queue.update_key"
+nan
+nan
+str
+nan
+"self.heap.append, self._bubble_up"
+"self.heap.pop, self._swap_nodes, self._bubble_down"
+"get_parent_position, self._bubble_down, self._bubble_up, self._bubble_down"
+"get_parent_position, self._swap_nodes, self._bubble_up"
+"get_child_left_position, get_child_right_position, self._swap_nodes, self._bubble_down, self._swap_nodes, self._bubble_down, self._swap_nodes, self._bubble_down"
+nan
+nan
+str
+nan
+nan
+"self.add_node, self.add_node"
+nan
+"np.array, np.array, np.linalg.norm"
+consistent_heuristic
+"abs, abs"
+nan
+"np.char.chararray, range, range, range, print, print, print, print, print, print, print, sys.exit, range, range, range, print, print, print, print, print"
+nan
+"range, .remove_element, valid, visited.add, float, valid, .put, key, range, key, .put, key, key"
+"range, range, range, range, range, range, some_list.append, range, range, range, some_list.append, some_list.append, some_list.append, some_list.append"
+"set, range, print, print, range, print, print, print, print, print, float, open_list.append, .put, .minkey, float, range, range, print, PriorityQueue, key, .minkey, print, print, .minkey, .minkey, .top_show, visited.add, expand_state, close_list_inad.append, .minkey, .top_show, visited.add, expand_state, close_list_anchor.append, print, float, do_something, float, do_something, print, print"
+set
+"self.empty, float"
+len
+"heapq.heappush, self.set.add, heapq.heappop, temp.append, temp.append, heapq.heappop, heapq.heappush"
+"self.set.remove, heapq.heappop, temp.append, heapq.heappop, heapq.heappush"
+nan
+"heapq.heappop, self.set.remove"
+nan
+"range, len, print, enumerate, print, sum"
+"list, enumerate, print, page_rank, .split, Node, enumerate, print, input, .add_inbound, .add_outbound"
+nan
+self.inbound.append
+self.outbound.append
+nan
+nan
+".add_neighbor, .add_neighbor, .add_edge, .add_edge"
+"range, min, q.remove, len, a.append, int, int"
+"list, hq.heapify, range, hq.heappop, len, hq.heapify, int, int"
+nan
+str
+nan
+nan
+self.neighbors.append
+nan
+"range, complete_graph, range, range, random.random, .append, .append"
+"range, range"
+"stack.append, dfs"
+"component.append, dfs2"
+"range, dfs, dfs2, scc.append"
+"order.append, topology_sort"
+find_components
+"graph.items, enumerate, range, len, len, len, range, .append, topology_sort, find_components, components_list.append, len, len"
+"len, deque, range, stack.append, range, range, stack.pop, component.append, components.append, strong_connect, strong_connect, stack.pop, component.append"
+".append, range"
+"stack.append, stack.pop, component.append, components.append, strong_connect, stack.pop, component.append"
+"kruskal, sorted, sorted"
+"defaultdict, mst, .append, .append, tuple, tuple"
+"min, max"
+nan
+"sorted, ValueError, min, attrgetter"
+nan
+"sorted, list, bisect, zip, accumulate, sum, sum"
+"list, index.sort, range, len, len, zip"
+nan
+"tuple, GasStation, zip"
+"sum, sum, enumerate"
+"int, reversed, int, int, int, answer.append"
+"len, sum, enumerate, sorted"
+"len, range, files.append, files.index, files.pop, min"
+"enumerate, heappush, max, heappop, heappush, max, len"
+ord
+"enumerate, float, round, max, max, float"
+"range, int, int, round, xorshift, float"
+nan
+nan
+ord
+ord
+"gear_one.append, gear_two.append, len, gear_three.append, len"
+"alphabets.index, gear_three.index, gear_two.index, gear_one.index, code.append, rotator"
+bytes
+"bits.zfill, bin, int.from_bytes, text.encode, len"
+"int, .decode, n.to_bytes, n.bit_length"
+"range, range, range, ValueError, enumerate, parity.append, len, bin, range, .is_integer, data_out_gab.append, data_ord.append, data_ord.append, len, data_out.append, data_out.append, len, len, data_out_gab.append, data_out_gab.append, str, len, np.log, np.log"
+"enumerate, range, range, range, enumerate, parity.append, .is_integer, data_out_gab.append, data_out_gab.append, data_output.append, parity_received.append, bin, range, .is_integer, data_out_gab.append, data_out_gab.append, data_ord.append, data_ord.append, str, len, data_out.append, data_out.append, len, str, np.log, np.log, len, np.log, np.log"
+"list, vector.reverse, enumerate, int, int"
+"len, ValueError"
+"ValueError, format, .encode"
+".encode, .encode, to_little_endian, to_little_endian, format, len, format, len"
+"range, ValueError, len, range, len, block_words.append, int, to_little_endian"
+"format, int, ValueError"
+nan
+"ValueError, ValueError"
+"preprocess, get_block_words, int, range, sum_32, sum_32, sum_32, sum_32, reformat_hex, range, sum_32, reformat_hex, abs, left_rotate_32, reformat_hex, reformat_hex, sin, not_32"
+ord
+nan
+".final_hash, .hexdigest, SHA1Hash, hashlib.sha1"
+"argparse.ArgumentParser, parser.add_argument, parser.add_argument, parser.parse_args, print, bytes, .final_hash, open, f.read, SHA1Hash"
+nan
+nan
+"struct.pack, len, len"
+"range, len"
+"range, list, self.rotate, struct.unpack"
+"self.padding, self.split_blocks, .format, self.expand_block, range, self.rotate, self.rotate"
+nan
+nan
+"doctest.testmod, argparse.ArgumentParser, parser.add_argument, parser.add_argument, parser.parse_args, print, bytes, open, f.read, SHA256"
+"self.preprocessing, self.final_hash"
+"struct.pack, len, len"
+".join, list, range, range, struct.unpack, .zfill, len, self.ror, self.ror, enumerate, self.ror, self.ror, self.ror, self.ror, self.ror, self.ror, self.ror, self.ror, hex"
+nan
+"bytes, .hexdigest, SHA256, hashlib.sha256"
+"any, any, sorted, len, len, len, ValueError, ValueError, ValueError, ValueError, profit_by_weight.index, zip"
+"knapsack_recur, knapsack_recur, knapsack_recur, max, knapsack_recur"
+"knapsack_recur, knapsack_recur, max, knapsack_recur"
+"knapsack, max, knapsack"
+nan
+kp.calc_profit
+pytest.raises
+pytest.raises
+pytest.raises
+pytest.raises
+pytest.raises
+nan
+"len, len, k.knapsack, k.knapsack"
+"len, k.knapsack"
+"len, k.knapsack"
+"len, k.knapsack"
+"np.shape, np.zeros, reversed, range, np.dot"
+"np.shape, np.concatenate, augmented_mat.astype, range, retroactive_resolution, np.array, range"
+"np.concatenate, strictly_diagonally_dominant, np.diag, .reshape, np.where, i_col.reshape, range, new_val.tolist, ValueError, ValueError, ValueError, len, ValueError, ValueError, np.eye, np.take, np.sum, len"
+"range, range, ValueError"
+"np.shape, np.zeros, np.zeros, range, ValueError, range, range, np.sum, np.sum, ArithmeticError"
+"np.array, inv_matrix.tolist, np.linalg.inv, ValueError"
+"np.linalg.eigh, bool, np.allclose, np.all, np.shape, np.shape"
+"np.random.default_rng, rng.normal, np.dot, _is_matrix_spd"
+"_is_matrix_spd, np.zeros, np.copy, np.copy, np.dot, np.linalg.norm, np.linalg.norm, np.maximum, np.copy, np.copy, np.copy, np.shape, np.shape, np.shape, np.shape, np.dot, np.dot, np.dot, np.dot, np.shape"
+"_create_spd_matrix, np.random.default_rng, rng.normal, np.dot, np.linalg.solve, conjugate_gradient, np.linalg.norm, np.linalg.norm"
+"np.copy, range, range, np.asarray, ValueError, range, x_lst.insert, range, abs, ValueError, range, abs, abs"
+nan
+"isinstance, Vector"
+"isinstance, isinstance, Vector"
+"isinstance, isinstance, isinstance"
+"random.seed, Vector, random.randint, range"
+nan
+"Matrix, range"
+"random.seed, Matrix, random.randint, range, range"
+list
+len
+".join, map"
+"len, len, Vector, Exception, other.component, range"
+"len, len, Vector, Exception, other.component, range"
+"all, isinstance, len, len, self.component, other.component, range, len"
+nan
+nan
+"isinstance, Vector, isinstance, len, sum, Exception, len, len, other.component, range"
+Vector
+"isinstance, Exception, len, len"
+"len, len"
+"math.sqrt, len, Exception, sum"
+"self.euclidean_length, other.euclidean_length, math.degrees, math.acos, math.acos"
+nan
+"range, range, str, str"
+"range, Matrix, Exception, other.width, other.height, matrix.append, other.component, range"
+"range, Matrix, Exception, other.width, other.height, matrix.append, other.component, range"
+nan
+nan
+"isinstance, isinstance, len, zero_vector, range, Exception, Matrix, ans.change_component, sum, range, other.component, range, range"
+nan
+nan
+Exception
+Exception
+"range, .determinant, Exception, len, Matrix"
+"Exception, Exception, self.minor"
+"Exception, Exception, sum, self.cofactor, range"
+"len, range, range, ValueError, len, len, ValueError, len, len, len, ValueError, range, str, .split, len, all, range, range, enumerate, range, len, tuple, range, len"
+"np.iscomplexobj, np.iscomplexobj, np.iscomplexobj, np.array_equal, np.dot, np.dot, np.real, float, np.shape, np.shape, np.shape, np.shape, np.linalg.norm, np.dot, np.abs, input_matrix.conj, vector.conj"
+"np.array, np.array, real_input_matrix.astype, np.triu, .astype, power_iteration, np.linalg.eigh, np.array, np.abs, np.linalg.norm, np.abs, np.abs"
+"len, len, min, range, range, range, range, range"
+"np.array_equal, matrix.conjugate"
+"v_star.dot, isinstance, v.conjugate, v_star_dot.dot, v_star.dot"
+"np.array, np.array, is_hermitian, print, np.array, is_hermitian, rayleigh_quotient, rayleigh_quotient, float"
+"np.shape, np.shape, np.shape, ValueError, ValueError, np.linalg.inv, ValueError"
+nan
+"np.array, np.array, np.array, schur_complement, np.block, np.linalg.det, np.linalg.det, np.linalg.det, np.is_close"
+"np.array, np.array, np.array, pytest.raises, schur_complement"
+"np.array, np.array, np.array, pytest.raises, schur_complement"
+nan
+"Vector, Vector, x.component, x.component"
+"Vector, str"
+"Vector, len"
+"Vector, Vector, Vector, Vector, x.euclidean_length, pytest.approx, y.euclidean_length, pytest.approx, z.euclidean_length, w.euclidean_length, pytest.approx"
+"Vector, Vector, .component, .component, .component"
+"Vector, Vector, .component, .component, .component"
+"Vector, Vector, Vector, str"
+".count, str, zero_vector"
+"str, unit_basis_vector"
+"Vector, Vector, str, axpy"
+"Vector, x.copy, str, str"
+"Vector, x.change_component, x.change_component, str"
+"Matrix, str"
+"Matrix, range, a.height, range, a.width, a.minor"
+"Matrix, range, a.height, range, a.width, a.cofactor"
+"Matrix, a.determinant"
+"Matrix, Vector, str, str"
+"Matrix, a.change_component, str"
+"Matrix, a.component"
+"Matrix, Matrix, str"
+"Matrix, Matrix, str"
+"str, square_zero_matrix"
+"float, range, int, range"
+"cos, sin"
+"cos, sin"
+"cos, sin"
+nan
+"self.generate_col_titles, TypeError, .all, ValueError, ValueError, self.objectives.append"
+"range, titles.append, range, titles.append, str"
+"np.argmax, slice, np.full, np.divide, np.nanargmin"
+".copy, enumerate"
+"self.objectives.pop, slice, np.delete, np.delete"
+"range, self.find_pivot, self.interpret_tableau, self.change_stage, self.pivot"
+"range, abs, np.nonzero, len"
+nan
+"Counter, tuple, tuple, pruned.append"
+"list, enumerate, prune, len, enumerate, frequent_itemsets.append, list, all, enumerate, combinations, sorted"
+nan
+nan
+"_open.append, path.append, np.argmin, _closed.append, world.get_neighbours, path.append, _open.pop, _open.append"
+nan
+nan
+print
+np.zeros
+print
+"Cell, neighbours.append"
+nan
+nan
+nan
+nan
+"np.array, Operation"
+nan
+nan
+"Variable, GradientTracker, tracker.append"
+"Variable, GradientTracker, tracker.append"
+"Variable, GradientTracker, tracker.append"
+"Variable, GradientTracker, tracker.append"
+"Variable, GradientTracker, tracker.append"
+"Variable, GradientTracker, tracker.append"
+self.param_to.append
+nan
+nan
+nan
+nan
+isinstance
+".__new__, super"
+nan
+nan
+nan
+"Operation, output.add_result_of, operation.add_params, operation.add_output, param.add_param_to, param_nodes.append"
+"defaultdict, np.ones_like, partial_deriv.get, target.to_ndarray, len, operation_queue.pop, self.derivative, operation_queue.append"
+"ValueError, np.ones_like, .to_ndarray, np.ones_like, np.ones_like, .to_ndarray, .to_ndarray, .to_ndarray, .to_ndarray, .to_ndarray, .to_ndarray, .to_ndarray, .to_ndarray, .to_ndarray, .to_ndarray"
+"min, max, round"
+"mean, stdev, round"
+nan
+nan
+"np.arange, np.sin, DecisionTree, tree.train, np.random.default_rng, np.array, np.mean, print, print, print, rng.random, tree.predict, str, str, str"
+nan
+"np.mean, print"
+"range, ValueError, len, len, ValueError, ValueError, len, np.mean, np.mean, self.mean_squared_error, len, DecisionTree, DecisionTree, self.left.train, self.right.train, np.mean, np.mean, len, len, self.mean_squared_error, self.mean_squared_error, np.mean, np.mean"
+"ValueError, self.right.predict, self.left.predict"
+"float, float"
+input_array.reshape
+"range, data.mean, column_reshape, np.dot, np.dot"
+"features.mean, range, data.mean, np.dot, np.dot, column_reshape, column_reshape, column_reshape, column_reshape, column_reshape, column_reshape, column_reshape, column_reshape"
+"features.any, features.mean, np.linalg.eigh, np.dot, logging.info, logging.basicConfig, logging.error, np.reshape, np.dot"
+"eigh, np.linalg.svd, np.dot, logging.info, logging.basicConfig, logging.error, covariance_between_classes, covariance_within_classes"
+"np.array, np.array, pytest.raises, linear_discriminant_analysis, isinstance, AssertionError"
+"np.array, np.array, pytest.raises, principal_component_analysis, np.allclose"
+nan
+"list, header_table.items, TreeNode, header_table.get, set, TreeNode, sorted, update_tree, local_d.items"
+".inc, TreeNode, len, update_tree, update_header"
+nan
+"prefix_path.append, ascend_tree"
+"ascend_tree, len, frozenset"
+"sorted, header_table.items, pre_fix.copy, new_freq_set.add, freq_item_list.append, find_prefix_path, create_tree, list, update_header, mine_tree"
+nan
+nan
+"print, self.children.values, child.disp"
+nan
+nan
+"range, DecisionTreeRegressor, model.fit, self.models.append, self.gradient, self.predict"
+"np.zeros, np.sign, model.predict"
+np.exp
+"calculate_hypothesis_value, output"
+"range, len"
+nan
+"_hypothesis_value, _hypothesis_value"
+"range, _error, _error"
+summation_of_cost_derivative
+"print, range, np.allclose, len, get_cost_derivative"
+"range, len, print, print, output, calculate_hypothesis_value"
+"np.random.default_rng, rng.integers"
+pairwise_distances
+"centroid_pairwise_dist, np.argmin"
+"range, np.array, member_data_points.mean, new_centroids.append"
+"range, pairwise_distances, np.sum"
+"plt.figure, plt.plot, plt.xlabel, plt.ylabel, plt.title, plt.rcParams.update, plt.show"
+"plt.axes, ax.scatter, ax.scatter, ax.set_xlabel, ax.set_ylabel, ax.set_zlabel, ax.set_title, plt.show"
+"range, assign_clusters, revise_centroids, print, .all, np.sum, compute_heterogeneity, record_heterogeneity.append, print"
+".rename, .copy, pd.DataFrame, clusterproportion.columns.tolist, pd.DataFrame, .Features.tolist, a.columns.tolist, report.drop, pd.concat, .isin, report.columns.tolist, .drop, report.reset_index, report.drop, predicted.fillna, predicted.select_dtypes, abs, .T.reset_index, .to_numpy, .sum, .sort_values, .to_numpy, .to_numpy, .to_numpy, report.assign, .agg, x.Type.map, list, predicted.groupby, reversed, np.mean, .mean, np.mean, x.min, x.quantile, x.quantile, x.quantile, x.quantile, x.quantile, x.max, x.count, x.std, x.median, .sum, range, np.nan_to_num, np.nan_to_num, x.mode, len, x.replace, sorted, round, round, len, len"
+nan
+zip
+"float, np.linalg.norm"
+"self._euclidean_distance, nsmallest, .most_common, Counter"
+"seed, gauss, range"
+"range, range"
+sum
+nan
+"range, len, len, range, sum, len, squared_diff.append"
+"range, len, range, result.index, len, range, results.append, max, len, temp.append, log"
+"sum, len, zip"
+"input_type, condition, print, print, .strip, input"
+"print, print, print, print, valid_input, print, valid_input, print, range, print, range, print, print, enumerate, print, enumerate, print, print, print, y_generator, print, print, enumerate, print, enumerate, print, calculate_variance, print, print, predict_y_values, print, print, print, print, system, .center, valid_input, counts.append, valid_input, user_means.append, print, print, gaussian_distribution, calculate_mean, print, calculate_probabilities, print, sum, .center, .lower, print, range, range, sum, range, accuracy, .strip, .center, input"
+"httpx.get, response.text.splitlines, data.pop, np.matrix, item.split, data.append"
+"np.dot, data_y.transpose, np.dot, data_x.transpose"
+"np.dot, data_y.transpose, np.sum, data_x.transpose, np.square"
+"np.zeros, range, run_steep_gradient_descent, sum_of_square_error, print"
+"sum, len, abs, enumerate"
+"collect_dataset, .astype, .astype, run_linear_regression, print, range, print, np.ones"
+np.exp
+"float, .mean, np.log, np.log"
+"np.dot, np.sum, np.log, np.exp"
+"np.zeros, range, np.dot, sigmoid_function, np.dot, sigmoid_function, cost_function, np.dot, print"
+"sigmoid_function, np.dot"
+"np.clip, np.mean, len, len, ValueError, np.log, np.log"
+"np.clip, np.mean, len, len, ValueError, np.log, np.log"
+"np.clip, ValueError, np.any, np.any, ValueError, np.all, ValueError, np.sum, np.isclose, y_true.sum, np.sum, np.log"
+"np.clip, np.mean, ValueError, np.ones, np.any, np.any, ValueError, len, ValueError, np.all, ValueError, np.sum, np.isclose, y_true.sum, np.sum, np.log, np.power"
+"np.any, np.maximum, np.mean, len, len, ValueError, ValueError"
+".mean, len, len, ValueError, np.abs, np.where, np.abs"
+"np.mean, len, len, ValueError"
+"np.mean, len, len, ValueError, abs"
+"np.mean, len, len, ValueError, np.log1p, np.log1p"
+"np.where, np.abs, np.mean, len, len, ValueError"
+"np.array, .clip, np.exp, np.mean, ValueError, ValueError, np.max, ValueError, np.negative, np.sum, np.mean, list, np.log, np.eye"
+"np.abs, np.where, np.mean, len, len, ValueError"
+"np.sum, len, len, ValueError, np.log"
+"logging.info, logging.info, logging.info, logging.info, normalize, logging.info, logging.info, audio_frames, logging.info, logging.info, get_window, logging.info, logging.info, calculate_fft, logging.info, logging.info, calculate_signal_power, logging.info, logging.info, mel_spaced_filterbank, logging.info, np.dot, logging.info, discrete_cosine_transform, np.dot, logging.info, np.transpose, np.log10, np.min, np.max, np.min, np.max, len"
+"np.max, np.abs"
+".astype, np.pad, np.zeros, range, int, int, np.round, len"
+"np.transpose, np.empty, range, np.transpose, int, fft.fft"
+"np.square, np.abs"
+np.log10
+nan
+"logging.info, logging.info, get_filter_points, get_filters"
+"np.zeros, range, len, np.linspace, np.linspace, int"
+"freq_to_mel, freq_to_mel, logging.info, logging.info, np.linspace, mel_to_freq, .astype, np.floor"
+"np.empty, range, np.sqrt, np.arange, np.cos, np.sqrt"
+"wavfile.read, mfcc"
+list
+nan
+"sns.load_dataset, PolynomialRegression, poly_reg.fit, np.sort, poly_reg.predict, plt.scatter, plt.plot, plt.title, plt.xlabel, plt.ylabel, plt.show"
+ValueError
+"np.vander, ValueError"
+"PolynomialRegression._design_matrix, np.linalg.matrix_rank, ArithmeticError, np.linalg.pinv"
+"ArithmeticError, PolynomialRegression._design_matrix"
+"load_iris, np.array, np.array"
+"StandardScaler, scaler.fit_transform, PCA, pca.fit_transform"
+"collect_dataset, apply_pca, print, print, print, print"
+"np.array, np.array, abs, difference.mean"
+"np.array, np.array, np.square, square_diff.mean"
+"np.array, np.array, np.square, square_diff.mean, np.sqrt"
+"np.array, np.array, np.log, np.log, np.square, square_diff.mean, np.sqrt"
+"np.array, np.array, np.sum, len, np.sum, len, float"
+"np.mean, np.array, np.array"
+nan
+"SelfOrganizingMap, range, self_organizing_map.get_winner, print, print, range, len, self_organizing_map.get_winner, self_organizing_map.update"
+"range, len, math.pow, math.pow"
+"range, len"
+nan
+nan
+"time.time, func, time.time, print"
+"print, pd.read_csv, data.dropna, data.replace, Kernel, np.zeros, SmoSVM, mysvm.fit, mysvm.predict, range, print, print, os.path.exists, urllib.request.Request, urllib.request.urlopen, .decode, np.array, open, f.write, data.columns.tolist, np.float64, np.float64, response.read"
+"print, open, plt.subplot2grid, plt.subplot2grid, plt.subplot2grid, plt.subplot2grid, ax1.set_title, test_linear_kernel, ax2.set_title, test_linear_kernel, ax3.set_title, test_rbf_kernel, ax4.set_title, test_rbf_kernel, print"
+"make_blobs, StandardScaler, scaler.fit_transform, np.hstack, Kernel, SmoSVM, mysvm.fit, plot_partition_boundary, train_y.reshape"
+"make_circles, StandardScaler, scaler.fit_transform, np.hstack, Kernel, SmoSVM, mysvm.fit, plot_partition_boundary, train_y.reshape"
+"np.linspace, np.linspace, .reshape, model.predict, test_tags.reshape, ax.contour, ax.scatter, ax.scatter, train_data_x.min, train_data_x.max, train_data_y.min, train_data_y.max, np.array, len, len, np.asmatrix"
+"np.float64, np.float64, list, self._calculate_k_matrix, np.zeros, self._choose_alphas, np.float64, np.float64, self._norm, np.zeros, range"
+"self._get_new_alpha, np.float64, np.float64, self._is_unbound, self._is_unbound, self.choose_alpha.send, .copy, .copy, self._e, self._e, print, self._is_unbound, np.float64, np.float64, k, k, k, k, k, k"
+"np.array, ValueError, self._norm, self._predict, results.append, results.append"
+self._e
+"isinstance, self.Kernel"
+"self._is_unbound, np.dot"
+"np.zeros, np.float64, self.Kernel"
+"np.sum, k"
+self._choose_a1
+"print, print, print, self._check_obey_kkt, self._choose_a2, print, self._choose_a2, self._check_obey_kkt, self._is_unbound"
+"np.random.default_rng, np.roll, np.roll, len, .tolist, rng.choice, rng.choice, self._is_unbound, self._e, min, max, self._error.copy, enumerate, self._is_unbound"
+"k, k, k, max, min, max, min, k, k, k, k, k, k, k, k, k, k"
+"np.min, np.max"
+bool
+bool
+nan
+"range, self._is_support"
+nan
+"np.float64, np.float64, np.float64, self._get_kernel, self._check"
+np.inner
+np.inner
+"np.exp, np.linalg.norm"
+ValueError
+nan
+self._kernel
+nan
+"time.time, func, time.time, print"
+"math.sqrt, sum, pow, zip"
+"ValueError, TypeError, euclidean, .tolist, answer.append, ValueError, euclidean, TypeError, dataset_value.tolist"
+"float, np.dot, norm, norm"
+np.dot
+nan
+"ValueError, ValueError, isinstance, ValueError, ValueError"
+np.dot
+"np.exp, norm_squared"
+"np.shape, LinearConstraint, Bounds, range, np.shape, range, minimize, range, range, sum, np.ones, self.kernel, self.kernel"
+"sum, self.kernel, range, len"
+"np.shape, range, range, sum, self.kernel"
+"load_iris, np.array, np.array"
+"np.sum, np.add, np.exp, np.fill_diagonal, np.sum, np.square, np.add, np.dot"
+"np.sum, np.fill_diagonal, np.square, np.sum, np.add, np.add, np.dot"
+"np.random.default_rng, compute_pairwise_affinities, np.maximum, np.zeros_like, range, ValueError, rng.standard_normal, compute_low_dim_affinities, np.maximum, int, np.dot, np.multiply, np.sum"
+"collect_dataset, apply_tsne, print, print, isinstance, TypeError"
+".replace, document_without_punctuation.split, len, document.translate, str.maketrans, word.lower, term.lower"
+".translate, corpus_without_punctuation.split, term.lower, str.maketrans, len, len, corpus.lower"
+"round, round, ZeroDivisionError, log10, ValueError, ValueError, log10"
+round
+nan
+"XGBClassifier, classifier.fit"
+"load_iris, data_handling, train_test_split, xgboost, ConfusionMatrixDisplay.from_estimator, plt.title, plt.show"
+nan
+"XGBRegressor, xgb.fit, xgb.predict, predictions.reshape, len"
+"fetch_california_housing, data_handling, train_test_split, xgboost, print, print, mean_absolute_error, mean_squared_error"
+"np.array, np.array, np.dot, abs, np.dot, np.linalg.inv, x.transpose, enumerate, np.dot, x.transpose"
+"simplefilter, SARIMAX, model.fit, model_fit.predict, float, len"
+"SVR, regressor.fit, regressor.predict, float"
+"train_user.sort, np.percentile, np.percentile, float"
+"isinstance, TypeError, abs, abs, abs"
+"len, np.eye, range, np.exp"
+"weight_matrix, np.linalg.inv"
+"np.zeros, enumerate, len, .item, np.dot, local_weight"
+"sns.load_dataset, np.array, np.array, np.ones, np.column_stack, len"
+"np.sort, plt.scatter, plt.plot, plt.title, plt.xlabel, plt.ylabel, plt.show, .argsort"
+nan
+"len, ValueError, abs_val, abs_val"
+"len, ValueError, abs, abs"
+"len, ValueError, sorted"
+"abs_val, abs_val, abs_val, abs_max, abs_max_sort, abs_min"
+nan
+"sum, isinstance, ValueError, ValueError, range"
+"range, ValueError, ValueError, allocation_list.append"
+nan
+ValueError
+ValueError
+ValueError
+ValueError
+ValueError
+ValueError
+ValueError
+"ValueError, ValueError, pow"
+ValueError
+ValueError
+ValueError
+"sqrt, ValueError, ValueError"
+ValueError
+ValueError
+ValueError
+ValueError
+ValueError
+"ValueError, isinstance, ValueError, tan, tan"
+"fnc, range, fnc, abs"
+nan
+"ValueError, sum, len, sum, len, abs"
+"ValueError, sum, len"
+"sorted, len"
+doctest.testmod
+"max, sorted, input_list.count, enumerate"
+"ValueError, _subsum, hex, isinstance, ValueError, _subsum, int, isinstance, _subsum, _subsum"
+"range, pow, pow"
+"int, divmod, str"
+"range, ValueError, pf.append, int, pf.append, int, pf.append, int, math.sqrt"
+"range, ValueError, int, int, int, math.sqrt"
+"range, int, ValueError, int, int, int, math.sqrt"
+"set, int, ValueError, prime_factors"
+"binary_exp_recursive, ValueError, binary_exp_recursive"
+ValueError
+"binary_exp_mod_recursive, ValueError, ValueError, binary_exp_mod_recursive"
+"ValueError, ValueError"
+nan
+nan
+"range, ValueError, min, range"
+"float, ValueError, ValueError, ValueError, ValueError, factorial, factorial, factorial, isinstance, isinstance"
+"int, int, int"
+"max, len, len, ValueError, abs, zip"
+"any, nums.copy, copy_nums.sort, len, ValueError, ValueError, sum"
+extended_euclid
+extended_euclid
+extended_euclid
+"invert_modulo, invert_modulo"
+"ceil, Decimal, range, isinstance, TypeError, getcontext, .sqrt, str, ValueError, factorial, Decimal, Decimal, factorial, factorial"
+"Exception, isinstance"
+"int, tuple, print, print, input, collatz_sequence, len"
+"range, ValueError"
+"num.as_integer_ratio, floor, continued_fraction_list.append"
+"round, int, int"
+"float, int, len, int, ValueError, int, .split, str"
+"ValueError, isinstance"
+"ValueError, isinstance"
+"isinstance, ValueError, ValueError, double_factorial_recursive"
+"range, isinstance, ValueError, ValueError"
+nan
+"Dual, func, callable, ValueError, isinstance, ValueError, isinstance, ValueError, factorial"
+isinstance
+".join, enumerate"
+"self.duals.copy, Dual, cur.pop"
+"self.duals.copy, other.duals.copy, range, Dual, isinstance, Dual, len, len, o_dual.extend, len, new_duals.append, len, len, s_dual.extend, len, len, len, len"
+nan
+"enumerate, range, range, Dual, isinstance, Dual, enumerate, len, len, new_duals.append, len, len"
+"isinstance, Dual, new_duals.append"
+"isinstance, Dual, new_duals.append"
+"range, isinstance, ValueError"
+nan
+"analyze_text, list, sum, print, sum, print, print, single_char_strings.values, two_char_strings.values, math.log2, round, round, round, int, math.log2"
+"Counter, Counter, range, len"
+doctest.testmod
+"np.sqrt, np.sum, np.asarray, np.asarray"
+"sum, zip"
+"print, print, print, print, timeit, timeit, globals, globals"
+"range, range, range, range, primes.append, len"
+"int, np.zeros, range, np.ceil, ode_func"
+"int, np.zeros, range, np.ceil, ode_func, ode_func, ode_func"
+"abs, abs"
+"int, int, print, len, print, extended_euclidean_algorithm"
+"range, int, ValueError, ValueError"
+"isinstance, ValueError, ValueError, factorial_recursive"
+"facs.append, facs.append, range, facs.sort, int, facs.append, sqrt, facs.append"
+"ValueError, struct.unpack, struct.unpack, struct.pack, struct.pack"
+"binary_exponentiation, binary_exponentiation"
+"time, func, time, int, print, print"
+"range, ValueError"
+"range, ValueError, fib.append"
+"ValueError, fib_recursive_term, ValueError, fib_recursive_term, fib_recursive_term, range"
+"ValueError, fib_recursive_term, ValueError, fib_recursive_term, fib_recursive_term, range"
+"ValueError, rec_fn_memoized, rec_fn_memoized, rec_fn_memoized, range"
+"sqrt, ValueError, ValueError, round, range"
+"np.array, ValueError, np.dot, np.dot"
+"np.array, matrix_pow_np, int, ValueError"
+"ValueError, fib_recursive_term, fib_recursive_term"
+"ValueError, fib_recursive_term, fib_recursive_term"
+"rec_fn_memoized, rec_fn_memoized"
+"len, ValueError"
+"find_max_recursive, find_max_recursive, len, ValueError, IndexError, len, len, len, len"
+"len, ValueError, min"
+"find_min_recursive, find_min_recursive, len, ValueError, IndexError, len, len, len, len"
+"int, int, int"
+"ValueError, quad"
+"math.pow, math.exp"
+"ValueError, OverflowError, NotImplementedError, int, math.sqrt, gamma_recursive"
+"exp, sqrt"
+"get_factors, Counter, get_factors, Counter, TypeError"
+"map, Exception, same_factors.items"
+"float, ArithmeticError, abs, round, TypeError, len, len, isinstance, isinstance, len"
+"TypeError, is_prime, is_prime, isinstance"
+"TypeError, is_prime, is_prime, isinstance"
+"abs, greatest_common_divisor"
+abs
+".split, int, int, print, print, print, input, greatest_common_divisor, gcd_by_iterative"
+"int, int, math.sqrt, int"
+"ValueError, isinstance"
+"divmod, len"
+"nums.sort, len, divmod, find_median, sum, find_median, ValueError"
+nan
+"ip.split, len, int, octet.isdigit, len, len, str"
+"len, len, set"
+"ValueError, isinstance, isinstance, len, set_a.intersection, len, isinstance, isinstance, len, len, set_a.union, len, list, len, len, len, len"
+"zip, zip"
+"sum, zip"
+"expectation, sum, zip"
+"expectation, expectation, sum, zip, zip"
+nan
+"ValueError, isinstance, isinstance, josephus_recursive"
+josephus_recursive
+"list, range, len, circle.pop, len"
+"isinstance, TypeError, ValueError, sequence.append, math.floor, math.floor, math.sqrt, math.sqrt, math.sqrt, math.sqrt"
+"max, divmod, divmod, karatsuba, karatsuba, karatsuba, len, len, len, len, str, str, str, str"
+"print, karatsuba"
+"range, list, permutation.append, factorials.append, range, factorials.pop, divmod, permutation.append, elements.remove"
+"AssertionError, math.log10"
+nan
+greatest_common_divisor
+"print, print, timeit, timeit"
+nan
+"enumerate, least_common_multiple_slow, least_common_multiple_fast, self.subTest"
+"fnc, range, fnc, math.hypot"
+math.sin
+"isinstance, TypeError, ValueError, len, prime_factors"
+"range, ValueError"
+"isinstance, TypeError, recursive_lucas_number, recursive_lucas_number"
+"range, isinstance, TypeError"
+"float, sum, isinstance, ValueError, ValueError, isinstance, factorial, range"
+"float, sum, isinstance, ValueError, ValueError, isinstance, factorial, range"
+"_validate_point, _validate_point, float, len, len, ValueError, sum, abs, zip"
+"isinstance, ValueError, TypeError, isinstance, TypeError, type, type"
+"_validate_point, _validate_point, float, len, len, ValueError, sum, abs, zip"
+nan
+Matrix
+"Matrix, modular_exponentiation"
+nan
+"timeit.timeit, print"
+"timeit.timeit, print"
+"matrix_exponentiation_time, simple_fibonacci_time"
+"isinstance, len, range, range"
+"Matrix, range, range, range"
+"sum, range, ValueError, max, len, len"
+"ValueError, len, len, ValueError, sum, abs, zip"
+"prime_factors, is_square_free, len"
+"extended_gcd, greatest_common_divisor"
+extended_euclid
+invert_modulo
+extended_gcd
+extended_euclid
+nan
+nan
+"print, modular_exponential"
+"mean, print, print, print, sqrt, int, is_in_circle, range, abs, uniform, uniform"
+"mean, function_to_integrate, uniform, range"
+"area_under_curve_estimator, print, print, print, print, print, print, abs"
+"area_under_curve_estimator, print, print, print, print, print, print, sqrt, abs"
+sqrt
+nan
+sqrt
+nan
+"range, Dice, round, range, sum, len, dice.roll"
+"list, range"
+random.choice
+"abs, isinstance, TypeError"
+"isinstance, TypeError, math.floor, math.log, abs"
+"len, isinstance, TypeError, str, abs"
+"timeit, print, print, benchmark_a_function, func"
+"timeit, print, func"
+"range, bytearray, int, repeat, list, sqrt, ceil, compress, range"
+nan
+"isinstance, TypeError"
+"isinstance, ValueError, sum, range"
+"math.sqrt, math.sqrt"
+nan
+"str, isinstance, ValueError, ValueError, len, range, str, int, len"
+"str, isinstance, ValueError, ValueError, len, range, str, int, len"
+str
+"print, doctest.testmod, calculate_pi"
+nan
+"range, ValueError, Point.random_unit_square, random_point.is_in_unit_circle"
+nan
+nan
+"cls, random.random, random.random"
+nan
+nan
+"tuple, round"
+"create_vector, create_vector, is_zero_vector, get_3d_vectors_cross"
+"range, ValueError, rand_fn, rand_fn, rand_fn, gcd, pow"
+pow
+"sum, enumerate"
+reversed
+power
+"range, isinstance, isinstance, round, sqrt"
+"list, range, isinstance, isinstance, range, len, range, len"
+"range, isinstance, isinstance, is_prime, ans.append"
+"isinstance, isinstance, ans.append, is_prime, ans.append, is_prime, ans.append"
+"prime_factorization, max, isinstance, isinstance"
+"prime_factorization, min, isinstance, isinstance"
+"isinstance, isinstance"
+"isinstance, isinstance"
+"get_prime_numbers, len, isinstance, is_even, isinstance, is_prime, is_prime, len, ans.append, ans.append"
+"isinstance, isinstance, prime_factorization, prime_factorization, isinstance, max, done.append, prime_fac_2.count, range, done.append, prime_fac_1.count, prime_fac_2.count, range, prime_fac_1.count, range, max"
+"isinstance, isinstance, is_prime, is_prime"
+"is_prime, is_prime, is_prime, ans.append, isinstance, is_prime, len"
+"range, isinstance, ans.append, len"
+"get_divisors, isinstance, isinstance, sum, len"
+"gcd_by_iterative, isinstance, isinstance, abs, abs, isinstance"
+"range, isinstance"
+"range, isinstance"
+"range, ValueError, int, isinstance, math.sqrt"
+nan
+"is_prime, is_prime, is_prime, is_prime, is_prime, is_prime, is_prime, is_prime, is_prime, is_prime"
+"pytest.raises, is_prime, is_prime, is_prime, is_prime, is_prime, is_prime, is_prime, is_prime"
+"factors.append, factors.append"
+"factors.append, factors.append"
+"range, range"
+"range, range, int, math.sqrt"
+"range, range, int, math.sqrt"
+"print, print, print, timeit, timeit, timeit"
+"ValueError, range, range"
+".join, range"
+nan
+"math.sqrt, abs"
+nan
+nan
+"min, np.eye, a.copy, range, np.zeros_like, np.linalg.norm, np.linalg.norm, np.block, np.eye, np.sign, np.eye, np.zeros, np.zeros"
+"ValueError, sqrt, sqrt"
+"quadratic_roots, print"
+nan
+nan
+"len, len, int, complex, self.__multiply, list, list, self.polyA.pop, self.polyB.pop, len, self.polyA.append, len, self.polyB.append, mpmath.root, np.ceil, np.log2, len, len"
+"len, range, range, range, range, range, .append, .append"
+"self.__dft, self.__dft, len, range, complex, inverce_c.pop, range, round, round, range, range, .append, .append"
+".join, .join, .join, enumerate, enumerate, enumerate"
+"isinstance, TypeError, str, range, max, abs, list, len, .pop, range, int, len, .join, list"
+"int, min, isinstance, ValueError, math.sqrt, range, min, in_prime.append, range, range, len, math.floor, prime.append"
+"int, range, ValueError, math.sqrt, prime.append, range, prime.append"
+np.exp
+nan
+"signum, signum, signum, signum, signum, signum, signum, signum, signum"
+"current_set.copy, enumerate, enumerate, range, final_set.append, len, simplify, range, resultant.insert, final_set.append, len, temp_row.append, current_first_column.append, next_iteration.append, len, .insert"
+"any, equations.copy, any, data_set.copy, simplify, len, IndexError, len, IndexError, any, len, data_set.copy, enumerate, data_set.insert, enumerate, solutions.append, final.append, ValueError, ValueError, solutions.append, row.copy, temp_row.pop, len, solutions.append, float, len, data_set.pop, solutions.append, round, isinstance, len"
+"radians, range, round, factorial"
+"sum, .values, Counter"
+"np.exp, np.sum"
+nan
+"range, random.randint, jacobi_symbol, pow"
+"sorted, enumerate, len, enumerate"
+"len, assign_ranks, assign_ranks, sum, zip"
+"isinstance, isinstance"
+nan
+"print, sum_of_series"
+abs
+"abs, sum_of_digits"
+"sum, int, str, abs"
+"timeit, print, print, benchmark_a_function, func"
+"timeit, print, func"
+nan
+"range, sum, arithmetic_progression.append"
+"isinstance, ValueError, sylvester"
+np.exp
+"pytest.mark.parametrize, function"
+"pytest.mark.parametrize, function, function, function"
+"pytest.mark.parametrize, function"
+"pytest.mark.parametrize, pytest.raises, function"
+"pytest.mark.parametrize, pytest.raises, function"
+"nums.sort, range, len, len, ans.append"
+"make_points, f, f, f"
+nan
+nan
+"trapezoidal_rule, print"
+"randint, randint, range"
+"permutations, sum, tuple, sorted"
+"arr.sort, len, range"
+"repeat, repeat, min, min"
+"isinstance, TypeError, is_prime, is_prime"
+len
+enumerate
+"pow, ValueError"
+"ValueError, pow"
+"ValueError, vol_sphere, vol_spherical_cap, vol_spherical_cap, min"
+"ValueError, vol_sphere, vol_spheres_intersect, max, vol_sphere, vol_sphere"
+"float, ValueError"
+ValueError
+"ValueError, pow"
+"float, ValueError"
+ValueError
+"ValueError, pow"
+"ValueError, pow"
+"ValueError, pow"
+"ValueError, ValueError, pow, pow"
+"ValueError, pow, pow"
+"ValueError, pow, pow"
+ValueError
+"print, print, print, print, print, print, print, print, print, print, print, print, print, print, print, print, print, vol_cube, vol_cuboid, vol_cone, vol_right_circ_cone, vol_prism, vol_pyramid, vol_sphere, vol_hemisphere, vol_circular_cylinder, vol_torus, vol_conical_frustum, vol_spherical_cap, vol_spheres_intersect, vol_spheres_union, vol_hollow_circular_cylinder, vol_icosahedron"
+"int, int, int, datetime.date, int, int, int, int, int, int, int, int, round, ValueError, ValueError, ValueError, ValueError, ValueError, ValueError, int, int, int, AssertionError, len, str, str, dt_ck.weekday, str"
+nan
+"ValueError, ValueError, all, ValueError, round, zip"
+"int, np.zeros, range, ValueError, len, len, self.func, self.func"
+"int, np.zeros, range, ValueError, len, len, self.func, self.func, self.func"
+"int, np.zeros, range, ValueError, len, len, self.func, self.func, self.func, self.func"
+"int, np.zeros, range, ValueError, len, len, self.func, self.func, self.func, self.func, self.func"
+"function, function, ValueError, function, function, abs, function, function, function"
+nan
+nan
+"ValueError, equation, equation, equation, equation, equation"
+nan
+"callable, isinstance, isinstance, isinstance, range, round, function, isinstance, function, function, type, function"
+"ZeroDivisionError, abs, function, function, function, function, function"
+math.pow
+"len, range, range, range, range"
+range
+"int, range, range, print, list, print, range, int, range, range, print, input, y.append, range, map, float, input, range, .append, .split, input, math.factorial, ucal, input"
+"f, f"
+"range, ArithmeticError, calc_derivative, abs, steps.append, f, f_derivative, ZeroDivisionError, f, f_derivative"
+calc_derivative
+"exp, tanh"
+"fnc, range, fnc, abs"
+nan
+"ValueError, isinstance, ValueError, range, gcd"
+"int, np.zeros, range, np.ceil, f, f, f, f"
+"int, np.zeros, np.zeros, range, ValueError, ValueError, func, func, func, func, func, func"
+"int, np.zeros, range, ValueError, ValueError, func, func, func, func, sqrt, sqrt, sqrt, sqrt, sqrt, sqrt"
+exp
+"range, f, f, f"
+"make_points, ZeroDivisionError, f, f, f"
+nan
+nan
+"method_2, print"
+math.pow
+nan
+math.pow
+"get_initial_point, range, ValueError, abs, fx, fx_derivative"
+"range, ValueError, np.random.default_rng, np.array, np.asarray, np.array, np.fill_diagonal, np.prod, .astype, np.clip, ValueError, polynomial, np.exp, range, rng.random"
+nan
+"list, len, ValueError"
+"range, Polynomial, range, Polynomial"
+Polynomial
+Polynomial
+"range, Polynomial, range"
+range
+"range, str, abs, str, str, abs, str, abs"
+self.__str__
+"range, Polynomial"
+"range, Polynomial"
+"range, isinstance"
+self.__eq__
+"range, isinstance, ValueError, len, ValueError, len, len"
+"isinstance, ValueError, len, ValueError, len"
+"isinstance, ValueError, len, ValueError, len, range, len"
+"pow, isinstance, ValueError, len, ValueError, len"
+"range, all, int, series.append, series.append, pow, float, float"
+"len, range, range, isinstance, ValueError, len, ValueError, rec_series.append, len, ValueError"
+"isinstance, ValueError, len, ValueError, len"
+"range, int, series.append"
+"ValueError, isinstance, range"
+"int, int, range, int, series.append, pow, int"
+"len, str, isinstance"
+"zip, divmod, range, isinstance, len"
+"len, str, sum, isinstance, int, str"
+"int, print, print, print, .strip, input, armstrong_number, narcissistic_number, pluperfect_number"
+"isinstance, TypeError"
+"range, ValueError, range, _binomial_coefficient"
+"min, range"
+power
+"all, ValueError, isinstance, power, range, greatest_common_divisor"
+"range, isinstance, TypeError, ValueError"
+"int, ValueError, hamming_list.append, min"
+"set, ValueError, seen.add, sum, isinstance, int, str"
+"ValueError, ValueError, divmod"
+"int_to_base, sum, int_to_base, ValueError, int"
+"ValueError, int_to_base, range, int, sum_of_digits"
+"int_to_base, sum_of_digits, ValueError, int, int"
+"isinstance, TypeError, ValueError"
+factorial
+"divmod, factorial"
+"isinstance, ValueError, sum, range"
+ValueError
+"int, isinstance, TypeError"
+"isinstance, TypeError, ValueError, range, int, range, math.log, proth_list.append"
+"isinstance, TypeError, ValueError"
+ValueError
+"range, min, ugly_nums.append"
+"range, sorted, int, values.append, sqrt, int, values.append, int"
+"sum, factors"
+"factors, len, range, range, range, range, range, range"
+"abundant, semi_perfect"
+"int, binary_search, binary_search"
+"binary_search, len, len"
+nan
+nan
+nan
+"range, self.is_safe, self.diffs"
+"range, range, range, range, self.diffs"
+"list, range, range"
+"all, all, sorted, list, sorted, zip"
+"len, len"
+"len, range, len, find_negative_index, len, len"
+len
+"enumerate, len"
+"print, timeit, print"
+"visit.add, depth_first_search, depth_first_search, depth_first_search, depth_first_search, visit.remove, len, len, min"
+"ValueError, ValueError, len, len, ValueError, ValueError"
+"ValueError, float, len, len, len, ValueError, float, array, range, array, range, len, len, len, len, ValueError, range, range, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, float, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, float, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d"
+"update_area_of_max_square, update_area_of_max_square, update_area_of_max_square, update_area_of_max_square, max, min"
+"update_area_of_max_square_using_dp_array, update_area_of_max_square_using_dp_array, update_area_of_max_square_using_dp_array, update_area_of_max_square_using_dp_array, max, range, min"
+"range, range, range, max, min"
+"range, range, max, min"
+"update_area_of_max_square, update_area_of_max_square, update_area_of_max_square, max, min"
+"update_area_of_max_square_using_dp_array, update_area_of_max_square_using_dp_array, update_area_of_max_square_using_dp_array, max, min"
+"ValueError, isinstance"
+"print, len, ValueError, len, ValueError, all, ValueError, char.isalnum"
+ValueError
+"input_str.split, .split, map, moves.append, len, ValueError, pair.strip"
+"set, set, dfs, visited.add, repeated.add, dfs, dfs, dfs, dfs"
+int
+"range, range, new_list.append, new_list.insert"
+"range, all, range, range, empty_columns.append, range, range"
+"find_repeat, len, range, move_y, increment_score, move_x, len"
+"list, play"
+"visited.add, repeated.add, dfs, dfs, dfs, dfs"
+nan
+"TypeError, len, len, len, isinstance"
+"range, len"
+len
+len
+nan
+nan
+"Matrix, range, range"
+"int, int, sum, range, self.cofactors"
+"bool, self.determinant"
+".determinant, range, Matrix, range"
+"self.get_minor, self.get_minor"
+"Matrix, self.get_minor, range, range"
+"Matrix, range, range, self.minors, self.minors, self.minors, self.minors"
+"Matrix, range, range, self.cofactors"
+"self.determinant, TypeError, self.adjugate"
+str
+".join, .join, str, .join, str"
+"TypeError, isinstance, len, ValueError, self.rows.append, isinstance"
+"TypeError, isinstance, len, ValueError, isinstance, range, range"
+isinstance
+nan
+nan
+"Matrix, ValueError, range, range"
+"Matrix, ValueError, range, range"
+"isinstance, Matrix, isinstance, Matrix, TypeError, ValueError, int, Matrix.dot_product, other.columns"
+"range, isinstance, TypeError, ValueError, self.identity, self.is_invertable, ValueError, self.inverse"
+"sum, range, len"
+"set, ValueError, isinstance, ValueError, min, len"
+"len, all, len"
+"sum, zip, zip"
+"multiply, all, ValueError, multiply, len, range, len, len, multiply, len, multiply, is_square, is_square, len, len, len"
+"multiply, len, len, multiply, len, multiply"
+"all, TypeError, _check_not_integer, _verify_matrix_sizes, sum, zip, zip"
+"TypeError, _check_not_integer, _check_not_integer, _verify_matrix_sizes, zip, zip"
+nan
+"_check_not_integer, _check_not_integer, _verify_matrix_sizes, ValueError, sum, zip, zip"
+"int, int, range, range"
+"_check_not_integer, TypeError, map, list, zip, map, zip"
+nan
+"sum, len, enumerate, determinant, minor"
+"determinant, list, scalar_multiply, transpose, determinant, range, range, minor, range, len, enumerate, len, len"
+"isinstance, isinstance"
+"len, len"
+"_shape, _shape, ValueError"
+"print, print, print, print, print, print, add, multiply, identity, minor, determinant, inverse"
+nan
+"len, len, is_safe, seen.add, depth_first_search, depth_first_search, depth_first_search, depth_first_search"
+"set, enumerate, enumerate, max, depth_first_search"
+"sorted, len"
+"len, range, range, matrix_c.append, range, list_1.append"
+"int, range, range"
+"identity, multiply, int, multiply"
+range
+".split, int, print, .join, nth_fibonacci_matrix, nth_fibonacci_bruteforce"
+"generate_pascal_triangle, range, range, range, print, print, print, print"
+"range, isinstance, TypeError, populate_current_row, triangle.append, ValueError"
+"range, calculate_current_element"
+nan
+"range, isinstance, TypeError, sum, row_second_half.reverse, result.append, ValueError, divmod, range"
+"range, timeit, print, print, benchmark_a_function"
+"timeit, print"
+"abs, range, range"
+"reverse_row, transpose"
+"reverse_row, reverse_column"
+"reverse_column, transpose"
+"list, zip"
+nan
+nan
+print
+"print, print"
+"int, print, search_in_a_sorted_matrix, input, len, len"
+nan
+"range, range"
+".join, .join, max, single_line, len, str"
+str
+"isinstance, len"
+self.validate_indices
+self.validate_indices
+"isinstance, Matrix, range, range"
+"Matrix, range, range"
+nan
+"isinstance, Matrix, range, isinstance, range, Matrix, range, TypeError, range, range, type"
+"Matrix, range, range"
+"isinstance, isinstance, v.transpose"
+"Matrix, range, print, Matrix, Matrix, print, print, print, print, ainv.sherman_morrison, v.transpose"
+doctest.testmod
+.join
+"list, isinstance, isinstance, len, len"
+"check_matrix, len, isinstance, range, range, range, print, len, list, len, print, print, range, print, len, spiral_print_clockwise, print, print"
+"list, spiral_traversal, matrix.pop, list, zip"
+"defaultdict, defaultdict, defaultdict, range, any, ValueError, range, len, .add, .add, .add, len"
+"pytest.mark.parametrize, logger.info, pytest.raises, matop.add, logger.info, .tolist, matop.add, logger.info, np.array, np.array, np.array, np.array, pytest.raises, matop.add, np.array, np.array"
+"pytest.mark.parametrize, logger.info, pytest.raises, matop.subtract, logger.info, .tolist, matop.subtract, logger.info, np.array, np.array, np.array, np.array, pytest.raises, matop.subtract, np.array, np.array"
+"pytest.mark.parametrize, logger.info, pytest.raises, matop.add, logger.info, .tolist, matop.multiply, logger.info, np.array, np.array, np.array, np.array, pytest.raises, matop.subtract, np.matmul"
+".tolist, matop.scalar_multiply, np.array"
+".tolist, matop.identity, np.identity"
+"pytest.mark.parametrize, logger.info, .tolist, matop.transpose, np.array, pytest.raises, matop.transpose, np.transpose"
+"queue.append, len, queue.pop, enumerate, queue.append"
+"breadth_first_search, len, int, min"
+"len, queue.pop, range, len, queue.append"
+"bfs, range, len, float, len, range, min, len, res.append"
+np.exp
+nan
+nan
+"np.random.default_rng, rng.normal, np.asarray, BPNN, model.build, model.summary, model.train, model.add_layer, DenseLayer"
+nan
+"np.random.default_rng, np.asmatrix, rng.normal, np.asmatrix, rng.normal"
+"np.dot, np.diag, np.diag"
+"self.activation, np.dot"
+"self.cal_gradient, np.asmatrix, np.asmatrix, np.dot, np.dot, np.dot"
+"plt.figure, self.fig_loss.add_subplot"
+self.layers.append
+"enumerate, layer.initializer"
+"enumerate, print, print, print, np.shape, np.shape"
+"self.ax_loss.hlines, np.shape, range, range, self.train_mse.append, self.plot_loss, self.cal_loss, print, np.asmatrix, np.asmatrix, layer.forward_propagation, layer.back_propagation"
+"np.sum, np.power"
+"self.ax_loss.plot, plt.ion, plt.xlabel, plt.ylabel, plt.show, plt.pause, self.ax_loss.lines.remove"
+nan
+"np.random.default_rng, np.asmatrix, np.asmatrix, np.asmatrix, range, rng.random, rng.random, rng.random, rng.random, rng.random, rng.random"
+"print, open, pickle.dump"
+"model_dic.get, conv_get.append, model_dic.get, model_dic.get, model_dic.get, model_dic.get, model_dic.get, model_dic.get, CNN, model_dic.get, model_dic.get, model_dic.get, model_dic.get, model_dic.get, model_dic.get, open, pickle.load, model_dic.get"
+np.exp
+round
+"range, int, range, np.asarray, np.shape, range, range, .reshape, data_featuremap.append, focus1_list.extend, data_focus.append, len, featuremap.append, self.Expand_Mat, np.sum, self.sig, np.asmatrix, np.multiply"
+"len, int, range, len, range, .reshape, featuremap_pooled.append, range, np.asmatrix, map_pooled.append, np.average, map_pooled.append, np.max"
+"range, np.asarray, len, np.shape, .reshape, data_expanded.extend, .tolist, data_listed.getA"
+"np.asarray, np.shape, data_mat.reshape"
+"range, np.ones, range, np.multiply, pd_all.append, range, np.multiply"
+"print, print, print, print, print, print, range, all_mse.append, plt.plot, plt.plot, plt.xlabel, plt.ylabel, plt.grid, plt.show, draw_error, np.shape, np.shape, len, np.asmatrix, np.asarray, self.convolute, self.pooling, np.shape, self._expand, self.sig, self.sig, np.multiply, np.multiply, np.dot, .tolist, self._calculate_gradient_from_pool, range, np.sum, np.dot, np.dot, np.multiply, np.dot, np.multiply, self._expand_mat, abs, range, pd_conv1_pooled.T.getA, np.dot, delta_w.reshape, int, np.sum"
+"print, print, range, np.asarray, len, np.asmatrix, self.convolute, self.pooling, self._expand, self.sig, self.sig, produce_out.extend, list, np.shape, .tolist, map, bp_out3.getA"
+"np.asmatrix, self.convolute, self.pooling"
+"plt.plot, plt.plot, plt.xlabel, plt.ylabel, plt.grid, plt.show, range, int"
+nan
+".newbyteorder, np.frombuffer, np.dtype, bytestream.read"
+"deprecated, print, gzip.GzipFile, _read32, _read32, _read32, _read32, bytestream.read, np.frombuffer, data.reshape, ValueError"
+"deprecated, np.zeros, np.arange, labels_dense.ravel"
+"deprecated, print, gzip.GzipFile, _read32, _read32, bytestream.read, np.frombuffer, ValueError, _dense_to_one_hot"
+nan
+"deprecated, os.path.join, gfile.Exists, gfile.MakeDirs, gfile.Exists, urllib.request.urlretrieve, print, gfile.GFile, f.size"
+"deprecated, _maybe_download, _maybe_download, _maybe_download, _maybe_download, _DataSet, _DataSet, _DataSet, _Datasets, fake, fake, fake, _Datasets, gfile.Open, _extract_images, gfile.Open, _extract_labels, gfile.Open, _extract_images, gfile.Open, _extract_labels, ValueError, _DataSet, len, len"
+"deprecated, random_seed.get_seed, np.random.default_rng, dtypes.as_dtype, TypeError, images.reshape, images.astype, np.multiply"
+nan
+nan
+nan
+nan
+"np.arange, self._rng.shuffle, np.arange, self._rng.shuffle, np.concatenate, np.concatenate, range, range"
+_DataSet
+math.exp
+"float, range, sigmoid_function, sigmoid_function, random.randint"
+nan
+np.exp
+nan
+"np.array, np.array, TwoHiddenLayerNeuralNetwork, neural_network.train, neural_network.predict, np.array"
+"np.random.default_rng, rng.random, rng.random, rng.random, np.zeros"
+"sigmoid, sigmoid, sigmoid, np.dot, np.dot, np.dot"
+"np.dot, np.dot, np.dot, sigmoid_derivative, np.dot, sigmoid_derivative, np.dot, sigmoid_derivative, sigmoid_derivative, np.dot, sigmoid_derivative, sigmoid_derivative"
+"range, self.feedforward, self.back_propagation, np.mean, print, np.square, self.feedforward"
+"sigmoid, sigmoid, sigmoid, int, np.dot, np.dot, np.dot"
+np.where
+"np.where, np.exp"
+np.exp
+sigmoid
+np.where
+"np.tanh, softplus"
+np.maximum
+"np.where, np.exp"
+"np.exp, np.exp, np.exp, np.exp"
+"np.log, np.exp"
+np.sqrt
+np.exp
+sigmoid
+sigmoid
+"len, print, print, range, print"
+"len, len, range, output_result_list.append, output_result_list.append"
+nan
+nan
+"sum, range, len"
+"np.array, np.array, self.__processes_resource_summation"
+"list, enumerate, np.array, np.array"
+".index, self.__need, self.__need"
+"self.__need, self.__available_resources, self.__need_index_manager, kwargs.items, print, self.__pretty_data, enumerate, print, print, need_index_manager.items, print, need_list.remove, print, np.array, np.array, .join, str"
+"print, print, print, print, print, print, .join, .join, .join, .join, str, str, self.__available_resources, self.__allocated_resources_table.index, self.__maximum_claim_table.index"
+nan
+nan
+"random.randint, Clause, random.randint, random.randint, str, literals.append"
+"set, random.randint, Formula, len, clauses.add, generate_clause"
+symbols_set.append
+"clause.evaluate, literals.append, pure_symbols.append"
+"len, unit_symbols.append, clause.literals.items, len, next, unit_symbols.append, iter, clause.literals.keys, len"
+"find_unit_clauses, clause.evaluate, find_pure_symbols, len, list, dpll_algorithm, len, list, dpll_algorithm, dpll_algorithm, dpll_algorithm, print, tmp_symbols.remove, tmp_symbols.remove"
+dict.fromkeys
+.join
+len
+literal.endswith
+"self.assign, self.literals.values, any, self.literals.values, literal.endswith, literal.rstrip"
+list
+".join, str"
+"len, str"
+"range, len, random.randint, random.randint, len, len"
+"math.floor, math.floor, datetime, datetime, datetime, timedelta, int"
+nan
+"degrees, atan2"
+"degrees, degrees, atan2, atan2"
+"enumerate, points.pop, sorted, sorted_points.insert, deque, stack.append, stack.append, stack.append, range, list, len, ValueError, len, len, stack.append, check_direction, angle_comparer, stack.pop, stack.pop"
+nan
+nan
+"range, len, menu.append, Things"
+"sorted, range, len, result.append, .get_weight, .get_value, .get_weight"
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+"isinstance, isinstance, isinstance, ValueError"
+int
+"print, print, print, isinstance, isinstance, isinstance, ValueError, ValueError, get_avg, last_numbers.append, answer, answer"
+"int, int, int, guess_the_number, .strip, .strip, .strip, input, input, input"
+nan
+"citations.sort, len, range, ValueError, isinstance, all, isinstance"
+nan
+"deque, set, ValueError"
+"self.dq_store.appendleft, self.key_reference.add, self.dq_store.remove, len, self.dq_store.pop, self.key_reference.remove"
+print
+list
+nan
+nan
+nan
+nan
+nan
+"DoubleLinkedListNode, DoubleLinkedListNode"
+"rep.append, .join, rep.append, str, str"
+self._position_node
+nan
+nan
+DoubleLinkedList
+nan
+nan
+"self.list.remove, self.list.add"
+"DoubleLinkedListNode, self.list.add, self.list.remove, self.list.add, self.list.remove"
+"setattr, .get, LFUCache, func, .put"
+"setattr, .get, LFUCache, func, .put"
+".get, LFUCache, func, .put"
+nan
+nan
+"int, time"
+nan
+nan
+nan
+nan
+nan
+"bool, bool"
+"DoubleLinkedListNode, DoubleLinkedListNode"
+"rep.append, .join, rep.append, str, str"
+nan
+nan
+DoubleLinkedList
+nan
+nan
+"self.list.remove, self.list.add"
+"DoubleLinkedListNode, self.list.add, self.list.remove, self.list.add, self.list.remove"
+"setattr, .get, LRUCache, func, .put"
+"setattr, .get, LRUCache, func, .put"
+".get, LRUCache, func, .put"
+nan
+"range, range, range"
+"range, range, range"
+"floyd, reverse_floyd"
+"Counter, Counter, len, Counter, set, len"
+"range, ValueError, len, max"
+"stack.append, open_to_closed.values, stack.pop"
+"input, print, is_balanced"
+nan
+nan
+"isinstance, ValueError, list, len, isinstance, TypeError, array.pop"
+"isinstance, array.insert, list, len, isinstance, TypeError, array.insert"
+"self.binary_search_insert, len, self.binary_search_delete"
+self.numbermap.get
+".join, secrets.choice, range"
+"len, list, shuffle, .join, random, random, random"
+".join, secrets.choice, range"
+"any, any, any, any, len"
+"int, .strip, print, print, print, .strip, password_generator, alternative_password_generator, input, input"
+"enumerate, .append, len, data_lists.append, float"
+"zip, min, max, score_lists.append, ValueError, score.append, score.append, score.append, score.append"
+"enumerate, range, len"
+"get_data, calculate_each_score, generate_final_scores, enumerate, .append"
+nan
+nan
+"range, len"
+"int, int, bin"
+"apply_table, xor, apply_sbox, apply_sbox, apply_table, xor, len, len"
+"move_tower, move_disk, move_tower"
+print
+"int, move_tower, .strip, input"
+nan
+"range, print, WordSearch, word_search.generate_board, len, range, len, chr, randint"
+range
+"len, all, range, range"
+"len, all, range, range"
+"len, all, range, range"
+"len, all, range, range"
+"len, all, range, range"
+"len, all, range, range"
+"len, all, range, range"
+"len, all, range, range"
+"shuffle, shuffle, , list, list, choice, range, range"
+"ValueError, ValueError"
+"ValueError, ValueError, ValueError"
+"round, ValueError, ValueError, ValueError, sqrt, pow"
+"round, ValueError, pow"
+"ValueError, .count, ValueError, ValueError, ValueError, ValueError"
+"any, sum, round, round, round, Coord3D, ValueError, ValueError, sum, sum, sum"
+"ValueError, ValueError"
+"round, ValueError"
+"ZeroDivisionError, ValueError"
+"math.sqrt, round, ZeroDivisionError"
+"all, len"
+"validate, round, ValueError, sqrt"
+"validate, round, ValueError, sqrt"
+"validate, round, ValueError, sqrt"
+"validate, round, ValueError, pow"
+"validate, round, ValueError, pow"
+"isinstance, TypeError, isinstance, TypeError, ValueError, ValueError"
+"check_args, deg_to_rad, round, sin"
+"check_args, deg_to_rad, round, sin"
+"check_args, deg_to_rad, round, sin"
+"horizontal_distance, max_height, total_time"
+"any, any, ValueError, ValueError"
+ValueError
+ValueError
+ValueError
+ValueError
+"cos, sin, cos, sin, radians, radians"
+"cross, sum, bool, abs"
+"ValueError, abs, abs"
+ValueError
+ValueError
+ValueError
+"ValueError, ValueError"
+"sqrt, beta"
+"np.array, gamma, gamma, beta, beta, gamma, gamma"
+"np.array, transformation_matrix"
+"ValueError, ValueError, math.cos, math.radians"
+ValueError
+ValueError
+ValueError
+ValueError
+ValueError
+"ValueError, .count, ValueError, ValueError, ValueError, ValueError"
+nan
+nan
+nan
+"body_system.update_system, zip"
+"plt.figure, fig.canvas.manager.set_window_title, plt.axes, .set_aspect, animation.FuncAnimation, plt.show, plt.Circle, ax.add_patch, update_step, plt.gca"
+"BodySystem, Body, Body, Body"
+"Body, Body, BodySystem"
+"range, BodySystem, random.uniform, random.uniform, bodies.append, bodies.append, Body, Body, random.uniform, random.uniform, random.uniform, random.uniform"
+nan
+nan
+nan
+nan
+nan
+nan
+len
+"body1.update_velocity, body.update_position"
+update_step
+ValueError
+ValueError
+"max, ValueError, max"
+"ValueError, ValueError"
+ValueError
+"ValueError, abs"
+"Exception, Exception"
+".count, ValueError, ValueError, ValueError, ValueError"
+"Exception, Exception"
+"Exception, Exception"
+"ValueError, ValueError"
+ValueError
+"sum, range"
+nan
+nan
+"list, sum, set, zmulti.append, xmulti.append"
+"sum, range"
+nan
+range
+nan
+"sum, even_fibs.append"
+nan
+"int, int, ValueError, getcontext, Decimal, Decimal, TypeError, round, Decimal, Decimal, math.floor, Decimal, math.log"
+"range, fib.append, len"
+"range, int, math.sqrt"
+"is_prime, is_prime, range, int, ValueError, TypeError, int, is_prime, math.sqrt, is_prime"
+"int, int, ValueError, TypeError"
+"int, int, ValueError, TypeError"
+"range, ValueError, str, len, str"
+"range, range, str, max"
+"int, ValueError, range, TypeError"
+greatest_common_divisor
+"range, lcm"
+range
+nan
+"sum, int, math.pow, sum, range, range"
+int
+"range, int, sqrt"
+"is_prime, is_prime"
+"range, int, math.sqrt"
+"int, ValueError, len, is_prime, TypeError, primes.append, len"
+"range, int, math.sqrt"
+is_prime
+"next, itertools.islice, prime_generator"
+"range, range, max, len, int"
+"max, int, reduce, range, str, len, int, int"
+int
+"len, int, int, max, str_eval"
+"range, range, range"
+"range, range"
+"print, print, timeit.timeit, timeit.timeit"
+"range, max"
+"next, iter, range, range"
+range
+"get_squares, set, range, range"
+"range, int, math.sqrt"
+"sum, range, is_prime"
+"range, int, math.sqrt"
+is_prime
+"sum, takewhile, prime_generator"
+"range, range, range, int, range"
+"len, len, range, range, max, max"
+"largest_product, open, grid.append, int, range, os.path.dirname, .split, len, line.strip"
+"open, range, range, range, range, range, grid.append, range, range, range, range, os.path.dirname, max, max, max, max, int, .split, f.readline"
+nan
+count_divisors
+range
+nan
+"next, triangle_number_generator, count_divisors"
+"os.path.join, os.path.dirname, open, str, sum, int"
+range
+collatz_sequence_length
+"max, collatz_sequence_length, range"
+"int, factorial, factorial, factorial"
+"str, list, int"
+nan
+range
+"os.path.dirname, os.path.join, range, max, os.path.realpath, open, f.readlines, len, range, int, len, max, .split, len, x.rstrip"
+nan
+range
+nan
+"factorial, split_and_add"
+"sum, int, str, factorial"
+"sum, map, str, factorial"
+"range, str, int"
+"range, int, sqrt, sqrt, sqrt"
+"sum, range, sum_of_divisors, sum_of_divisors, sum_of_divisors"
+"names.sort, enumerate, open, str, .split, os.path.dirname, file.readlines, names.replace, ord"
+"name.sort, range, open, str, .split, len, os.path.dirname, file.readlines, name.replace, ord, ord"
+"range, set, range, range, int, abundants.add, any"
+"list, map, permutations"
+"isinstance, range, sequence.append"
+"len, str, fibonacci"
+fibonacci_digits_index
+nan
+"fibonacci_generator, len, str, next"
+str
+"range, range, has_been_divided.append, len, len"
+"range, int, math.sqrt"
+"range, range, is_prime, is_prime"
+"range, ceil"
+"set, range, len, range, collect_powers.add"
+"sum, str"
+"sum, range, digits_fifth_powers_sum"
+nan
+"two_pence, one_pence"
+"five_pence, two_pence"
+"ten_pence, five_pence"
+"twenty_pence, ten_pence"
+"fifty_pence, twenty_pence"
+"one_pound, fifty_pence"
+"two_pound, one_pound"
+two_pound
+range
+"int, int, int, int, .join, int, int, .join, .join, .join, .join, .join"
+"sum, int, .join, itertools.permutations, is_combination_valid"
+nan
+"int, range, is_digit_cancelling, solutions.append"
+"fraction_list, int, Fraction"
+"sum, str"
+"sum, factorial, range, sum_of_digit_factorial"
+nan
+"any, str"
+"range, is_prime, str, all, contains_an_even_digit, int, result.append, range, is_prime, len"
+"len, find_circular_primes"
+str
+"range, is_palindrome, is_palindrome, .split, bin"
+"range, int, math.sqrt"
+"str, range, len, list_nums.append, list_nums.append, int, int"
+"len, str, is_prime, is_prime, int, int, str, str"
+"len, validate, list_truncated_nums, all, list_truncated_primes.append, is_prime"
+"sum, compute_truncated_primes"
+"str, len, set, set"
+"range, range, is_9_pandigital, is_9_pandigital"
+"Counter, range, range, int, int"
+"pythagorean_triple, triplets.most_common"
+".join, len, constant.append, int, str, int, int, int, int, int, int"
+"range, int, math.sqrt"
+".join, int, max, str, .join, permutations, is_prime, range"
+"os.path.dirname, os.path.join, len, os.path.realpath, open, f.readline, word.strip, .split, sum, words.strip, ord"
+enumerate
+"sum, int, .join, permutations, is_substring_divisible, map, range"
+nan
+"enumerate, range, range, len, is_pentagonal, is_pentagonal"
+nan
+nan
+"hexagonal_num, is_pentagonal, hexagonal_num"
+"range, int, math.sqrt"
+"range, isinstance, ValueError, ValueError, len, is_prime, list_nums.append, len"
+compute_nums
+"set, factors.add, factors.add"
+"len, unique_prime_factors"
+"len, set"
+"checker.append, equality, upf_len, range"
+"run, len"
+"range, str"
+"range, int, math.sqrt"
+len
+"set, max, permutations, tmp_numbers.sort, len, range, answer.add, range, is_prime, list, int, search, len, candidates.append, range, .join, int, str, .join, tmp_numbers.append, range, str, passed.append, abs, abs, len, sorted"
+"range, range, int, primes.append"
+"prime_sieve, range, len, range, len, sum"
+"range, range, int, primes.append"
+"str, Counter, Counter, replacements.append, set, int, number_str.replace"
+"set, digit_replacements, set, numbers_checked.update, primes.intersection, min, prime_sieve, len, len, len, str, set, str"
+"sorted, sorted, sorted, sorted, sorted, sorted, str, str, str, str, str, str"
+"factorial, factorial, factorial"
+"range, range, combinations"
+nan
+"os.path.abspath, os.path.join, os.path.dirname, open, .strip, .strip, player.compare_with, PokerHand, PokerHand"
+"self._internal_state, self._get_hand_type, isinstance, TypeError, len, ValueError, hand.split"
+nan
+self._compare_cards
+nan
+enumerate
+"self._is_flush, self._is_same_kind, self._is_five_high_straight, self._is_straight, self._is_five_high_straight, self._is_straight, sum"
+len
+"sorted, self._card_values.pop, self._card_values.append"
+range
+"range, max, min, self._card_values.count"
+".split, int, sorted, self._hand.translate, str.maketrans"
+nan
+nan
+"isinstance, self.compare_with"
+"isinstance, self.compare_with"
+isinstance
+isinstance
+isinstance
+object.__hash__
+"randrange, randrange, len, len"
+"generate_random_hand, range"
+"pytest.mark.parametrize, ._is_flush, PokerHand"
+"pytest.mark.parametrize, ._is_straight, PokerHand"
+"pytest.mark.parametrize, PokerHand, player._is_five_high_straight"
+"pytest.mark.parametrize, ._is_same_kind, PokerHand"
+"pytest.mark.parametrize, PokerHand"
+"pytest.mark.parametrize, .compare_with, PokerHand, PokerHand"
+"pytest.mark.parametrize, generate_random_hands, .compare_with, PokerHand, PokerHand"
+"poker_hands.copy, shuffle, chain, enumerate, PokerHand, sorted"
+"pokerhands.sort, PokerHand, PokerHand, .__str__"
+"PokerHand, range, pokerhand._is_five_high_straight"
+"os.path.abspath, os.path.join, os.path.dirname, open, .strip, .strip, player.compare_with, PokerHand, PokerHand"
+"str, str"
+"int, int, str"
+"range, len, sum_reverse, is_palindrome, lychrel_nums.append"
+"max, sum, range, range, int, str"
+"range, len, len, len, result.append, str, str"
+"range, int, math.sqrt"
+"range, is_prime"
+"zip, cycle, chr"
+"product, try_key, possibles.append"
+possible.lower
+".read_text, filter_valid_chars, sum, int, filter_common_word, .parent.joinpath, .split, len, ord, data.strip, Path"
+"defaultdict, get_digits, .append, len"
+".join, sorted, str"
+"range, range, sum, len, str"
+"int, sqrt, int"
+"range, sqrt, floor, continuous_fraction_period"
+nan
+"range, sum_digits"
+"os.path.dirname, os.path.join, range, max, os.path.realpath, open, f.readlines, .split, a.append, len, range, numbers_from_line.append, len, max, line.strip, int, len"
+"os.path.dirname, os.path.join, os.path.realpath, open, len, triangle.pop, range, max, int, len, line.split"
+"list, list, permutations, ValueError, ValueError, range, range, generate_gon_ring, is_magic_gon, list, int, .join, str"
+"perm.append, range, len"
+"sum, all, ValueError, min, len, sum, range, len"
+"list, range, range, ValueError, range, range"
+"np.arange, range, totients.tolist, np.arange"
+"sorted, sorted, str, str"
+"get_totients, range, has_same_digits"
+range
+"np.arange, range, int, np.sum, np.arange"
+"set, primes.add, range, int, range, primes.difference_update, float, range, sum, set, range, range"
+"range, range, gcd"
+"sum, str"
+"sum_digit_factorials, set, previous.add, chain_length"
+"sum, range, chain_length"
+"sum, isinstance, TypeError, ValueError, str"
+"range, TypeError, ValueError, set, isinstance, isinstance, chain_set.add, digit_factorial_sum"
+"defaultdict, sum, range, range, gcd, frequencies.values"
+"range, range, range, range, range"
+"lru_cache, set, set, partition, ret.add"
+"range, len, partition"
+"itertools.count, len, itertools.count, partitions.append"
+"itertools.permutations, Exception, tuple, int, .join, permutation.index, permutation.index, permutation.index"
+".splitlines, find_secret_passcode, .read_text, .parent.joinpath, Path"
+"decimal.Context, range, decimal.Decimal, number.sqrt, len, int, sum, str, str, str, int"
+"len, range, range, range, open, in_file.read, range, os.path.join, int, .splitlines, range, os.path.dirname, row.split, range, min, data.strip"
+"len, len, range, range, min, open, range, range, range, os.path.join, range, min, min, os.path.dirname, int, input_file.readlines, range, line.split"
+"range, enumerate, ceil, triangle_numbers.append, floor, ceil, abs, abs, abs, abs, sqrt, sqrt"
+"range, .is_integer, sqrt, min, max"
+"set, int, set, primes.add, range, len, range, primes.difference_update, set, range, ret.add"
+len
+nan
+"open, file1.readlines, line.strip, parse_roman_numerals, generate_roman_numerals, len, len, os.path.dirname"
+nan
+"sum, combinations, is_right, product, range"
+nan
+"chain, next_number"
+"range, .count, chain"
+nan
+"range, isqrt, range, enumerate"
+"primes_degrees.get, range, len, multiply, primes_degrees.copy"
+"range, len, visited.add"
+"generate_primes, enumerate, find_longest_chain, multiply"
+"str, ValueError, isinstance, pow"
+"enumerate, open, list, os.path.join, map, os.path.dirname, line.split, log10, log10"
+nan
+"len, range, range, range, range, range, range, max, range, range, round, range, range, abs, range"
+"len, enumerate, solve, range, sum, range, range, range, round, range"
+nan
+"func, interpolate, poly, range, range, func, poly"
+"sum, round, range"
+nan
+"vector_product, vector_product, vector_product, vector_product"
+".read_text, .split, triangles.append, contains_origin, .parent.joinpath, data.strip, int, line.split, Path"
+"range, range, int, range, range, int, str, int"
+"range, range, int"
+"range, range, check1, check"
+nan
+"os.path.abspath, os.path.join, range, Graph, graph.prims_algorithm, sum, sum, os.path.dirname, open, .split, line.split, len, range, set, graph.edges.values, subgraph.edges.values, range, .strip, int, len, f.read"
+"min, max, edges.items"
+"self.vertices.add, self.vertices.add, min, max"
+"Graph, len, len, self.edges.items, subgraph.add_edge, min, max, self.edges.values"
+"combinations_with_replacement, list, range, range, range"
+"str, .join, isinstance, ValueError, sorted"
+"ValueError, check_bouncy"
+"range, round"
+"choose, choose"
+"sum, non_bouncy_exact, range"
+non_bouncy_upto
+"range, range, range"
+"count, fill_count_functions.append, range, range"
+"range, sum, range, range, range"
+"range, range, range"
+"sum, int, str"
+"range, digit_to_powers.sort, range, int, math.pow, digit_sum, digit_to_powers.append"
+"sum, range"
+"product, int, range, series.count, enumerate"
+"len, nums.append, solve"
+"range, solve"
+factor_map.pop
+"sieve, next, next"
+str
+"set, sum, is_palindrome, answer.add"
+nan
+least_divisible_repunit
+"all, range, isqrt"
+is_prime
+"range, sum, range"
+"range, range, range"
+"isclose, sqrt, sqrt"
+next_point
+"range, range, range, slow_reversible_numbers, slow_reversible_numbers"
+"range, slow_reversible_numbers"
+slow_reversible_numbers
+"range, reversible_numbers"
+"print, print, print, timeit, timeit, globals, globals"
+"range, solve"
+solve
+"range, max, ceil, sqrt"
+"defaultdict, range, sum, range, max, ceil, count.values, sqrt"
+int
+gcd
+"set, Fraction, range, range, Fraction, range, range, gcd, gcd, add_three, unique_s.add, is_sq, is_sq, int, int, gcd, add_three, unique_s.add, is_sq, is_sq, int, int, gcd, sqrt, sqrt, add_three, unique_s.add, sqrt, sqrt, add_three, unique_s.add"
+"range, isqrt, range, range"
+"range, isqrt, len, range, range"
+"slow_calculate_prime_numbers, len"
+"calculate_prime_numbers, len"
+"calculate_prime_numbers, range, len, len, range"
+"print, print, print, print, timeit, timeit, timeit, globals, globals, globals"
+"_modexpt, _modexpt"
+"range, _modexpt"
+"range, range, int"
+"_calculate, _calculate, _calculate"
+_calculate
+"range, zip, coefficients.add, previous_coefficients.append"
+"set, unique_coefficients.difference, non_squarefrees.add"
+"get_pascal_triangle_unique_coefficients, get_squarefrees, sum"
+"range, product, sum"
+"total_frequency_distribution, total_frequency_distribution, range, round, sum"
+nan
+is_square_form
+"math.log2, int, math.sqrt"
+"int, int, check_partition_perfect, int"
+"range, range, int, primes.append"
+"prime_sieve, math.floor, math.sqrt"
+int
+"len, max, sorted, int, solve"
+"len, np.empty, enumerate, solve, matrix_row_str.split, enumerate, int, set, range"
+"math.comb, math.comb"
+"sum, sum, memo.get, .insert, sub_memo.get, compute, len, range, next_term, range, range, len, range, len, min, len, min, divmod, add, len, len"
+"range, len, a_i.extend, len, range, add, divmod, range, len"
+"range, len, divmod, digits.append, divmod"
+"range, next_term, len"
+"asin, sqrt, sqrt"
+"circle_bottom_arc_integral, circle_bottom_arc_integral, sqrt"
+"count, concave_triangle_area"
+"round, math.log, int"
+"math.log, math.log, log_difference"
+"range, isqrt, range, range"
+"int, calculate_prime_numbers, log2, len, log2, log2"
+"isinstance, QuantumRegister, ClassicalRegister, QuantumCircuit, range, range, quantum_circuit.measure, Aer.get_backend, execute, .get_counts, TypeError, ValueError, math.floor, ValueError, ValueError, quantum_circuit.h, range, quantum_circuit.swap, quantum_circuit.cp, job.result"
+"range, len, len"
+enumerate
+"sum, len"
+"sum, len"
+"arrival_time.sort, max, range, np.argsort, np.argsort"
+range
+nan
+"sorted, Task, attrgetter, enumerate, enumerate"
+"sorted, max, range"
+nan
+nan
+nan
+deque
+"range, len, sequence.append"
+"range, len, waiting_times.append"
+"range, len, turnaround_times.append"
+"range, len, completion_times.append"
+nan
+nan
+"deque, self.finish_queue.extend, len, ready_queue.popleft, self.update_waiting_time, finished.append"
+"deque, range, self.finish_queue.extend, len, ready_queue.popleft, self.update_waiting_time, ready_queue.append, finished.append"
+"range, self.first_come_first_served, self.round_robin"
+"range, range, len, ready_process.append"
+range
+"list, len, enumerate"
+zip
+"range, range, max"
+range
+"range, print, print"
+"os.walk, os.path.splitext, .lstrip, os.path.join"
+nan
+"old_path.split, enumerate, new_path.split, print, len, md_prefix, .title, new_part.replace"
+"sorted, good_file_paths, os.path.split, .replace, print, print_path, os.path.splitext, filepath.count, .title, md_prefix, filename.replace"
+"importlib.util.spec_from_file_location, importlib.util.module_from_spec, spec.loader.exec_module, str"
+"PROJECT_EULER_DIR_PATH.iterdir, problem_dir_path.iterdir, problem_dir_path.is_file, problem_dir_path.name.startswith, solution_file_paths.append, file_path.name.startswith"
+"open, json.load"
+".json, .joinpath, solution_file_paths.append, httpx.get, filepath.name.startswith, get_files_url, pathlib.Path.cwd, filepath.name.startswith"
+"all_solution_file_paths, os.environ.get, os.environ.get, added_solution_file_path"
+"pytest.mark.parametrize, .zfill, convert_path_to_module, str, .hexdigest, collect_solution_file_paths, solution_module.solution, hashlib.sha256, answer.encode"
+len
+len
+"sorted_collection.insert, bisect_left"
+"sorted_collection.insert, bisect_right"
+"list, sorted, ValueError, len"
+"bisect.bisect_left, list, sorted, ValueError, len"
+"list, sorted, ValueError, len, binary_search_by_recursion, binary_search_by_recursion"
+"min, binary_search_by_recursion, list, sorted, ValueError, len, len"
+nan
+"print, .lower, queue.Queue, TreeNode, q.put, ValueError, int, q.empty, q.get, TreeNode, q.put, TreeNode, q.put, .strip, .lower, int, .lower, int, input, .strip, .strip, input, input"
+"print, pre_order, pre_order, isinstance"
+"in_order, print, in_order, isinstance"
+"post_order, post_order, print, isinstance"
+"queue.Queue, q.put, q.empty, q.get, print, isinstance, q.put, q.put"
+"queue.Queue, q.put, q.empty, print, isinstance, q.empty, q.get, print, q.put, list_.append, list_.append"
+"stack.pop, isinstance, print, stack.append"
+"stack.pop, print, isinstance, stack.append"
+"stack1.append, stack1.pop, stack2.append, print, isinstance, stack1.append, stack1.append, stack2.pop"
+"divmod, len"
+nan
+len
+"len, search"
+"list, sorted, ValueError, len, binary_search_by_recursion, binary_search_by_recursion"
+"min, binary_search_by_recursion, list, sorted, ValueError, len, len"
+"isinstance, TypeError, ValueError, fibonacci, fibonacci"
+"len, min, fibonacci, fibonacci, fibonacci"
+nan
+"set, visited.add, current_state.score, scores.append, current_state.get_neighbors, plt.plot, plt.xlabel, plt.ylabel, plt.show, range, neighbor.score"
+nan
+self.function
+SearchProblem
+"hash, str"
+"isinstance, hash, hash, str, str"
+nan
+nan
+nan
+"len, len"
+"interpolation_search_by_recursion, interpolation_search_by_recursion, interpolation_search_by_recursion, interpolation_search_by_recursion, len, len"
+nan
+"len, int, math.sqrt, min, min"
+nan
+enumerate
+"rec_linear_search, Exception, len, len"
+"sorted, len"
+"median_of_medians, len, median_of_five, len, len, medians.append, medians.append, median_of_five, median_of_five, .copy, .copy"
+"median_of_medians, range, len, len, len, left.append, quick_select, right.append, quick_select, right.append"
+"less.append, greater.append, equal.append"
+"_partition, len, len, random.randint, len, quick_select, quick_select, len"
+"divmod, len, quick_select, quick_select, quick_select"
+"sequence.append, sequence.pop, len"
+"len, len, binary_search, binary_search"
+"current_state.score, scores.append, current_state.get_neighbors, plt.plot, plt.xlabel, plt.ylabel, plt.show, random.randint, neighbors.pop, range, best_state.score, picked_neighbor.score, len, random.random"
+nan
+nan
+"open, _list.append, .append, _list.append, .append, line.split, line.split, line.split, line.split, line.split, line.split, line.split, line.split, line.split, line.split, line.split, line.split, line.split, line.split"
+"first_solution.append, open, f.read, first_solution.append, int, int, int, int"
+"neighborhood_of_solution.sort, solution.index, len, solution.index, copy.deepcopy, _tmp.append, neighborhood_of_solution.append, _tmp.index, int"
+"find_neighborhood, len, len, tabu_list.pop, len, tabu_list.append"
+"generate_neighbours, generate_first_solution, tabu_search, print"
+range
+"len, lin_search"
+"lin_search, rec_ternary_search, rec_ternary_search, rec_ternary_search"
+"any, range, TypeError, len, enumerate, zip, isinstance"
+"len, range, range"
+nan
+"int, range, bitonic_merge, bitonic_merge, comp_and_swap"
+"int, bitonic_sort, bitonic_sort, bitonic_merge"
+"range, is_sorted, random.shuffle, len"
+"range, len"
+"len, reversed, range, range"
+"len, range, bubble_sort_recursive"
+"min, max, min, .append, len, range, int, sorted"
+"len, circle_sort_util, circle_sort_util, circle_sort_util, int, len"
+"circle_sort_util, circle_sort_util, int"
+"range, range, len"
+"len, int, len"
+"len, max, min, range, reversed, range"
+".join, chr, counting_sort, ord"
+"len, range, range, range"
+len
+"len, range, int, range"
+"len, list, len, ValueError"
+"len, range, range"
+nan
+nan
+nan
+nan
+nan
+".lower, int, .lower, .lower, int, int, int"
+"argparse.ArgumentParser, parser.add_argument, parser.add_argument, parser.parse_args, ExternalSort, sorter.sort, parse_memory"
+nan
+"self.BLOCK_FILENAME_FORMAT.format, self.block_filenames.append, open, file.write"
+nan
+"open, file.readlines, self.write_block, lines.sort, lines.sort, .join"
+map
+"range, len"
+"set, len, dict.fromkeys, range"
+range
+"range, len, .readline, self.empty.add, .close"
+nan
+nan
+"FilesArray, self.get_file_handles, open, buffers.refresh, self.merge_strategy.select, outfile.write, buffers.get_dict, buffers.unshift"
+"range, len, open"
+nan
+"self.get_number_blocks, FileSplitter, splitter.split, FileMerger, merger.merge, splitter.cleanup, NWayMerge, splitter.get_block_filenames"
+os.stat
+"len, len"
+heapify
+"len, range, range, heapify, heapify"
+nan
+"range, len"
+nan
+"range, len"
+heapify
+"len, range, range, heapify, heapify"
+nan
+nan
+"intro_sort, len, math.ceil, len, math.log2, len"
+"insertion_sort, median_of_3, partition, intro_sort, heap_sort"
+"result.append, .pop"
+"list, len, len, range, len, merge, len, merge, len"
+"sorted_list.insert, len"
+"result.append, result.append, left.pop, right.pop"
+"len, merge, sortlist_2d, sortlist_2d"
+"range, sortlist_2d, result.append, range, len, len, binary_search_insertion, len, len, two_paired_list.append, two_paired_list.append, binary_search_insertion, binary_search_insertion"
+"merge, result.extend, result.extend, len, len, merge_sort, merge_sort, result.append, left.pop, right.pop"
+"result.extend, result.extend, result.append, left.pop, right.pop"
+"max, _msd_radix_sort, min, ValueError, len, bin"
+"_msd_radix_sort, _msd_radix_sort, res.extend, len, ones.append, zeros.append"
+"len, max, _msd_radix_sort_inplace, min, ValueError, len, bin"
+"_msd_radix_sort_inplace, _msd_radix_sort_inplace"
+"sorted, s.isdigit, int, s.lower, re.split"
+"s.isdigit, int, s.lower, re.split"
+"range, range, len, len"
+"multiprocessing_context.Lock, range, .send, min, .send, .recv, max, .send, .recv"
+"mp.get_context, multiprocessing_context.Pipe, multiprocessing_context.Pipe, process_array_.append, range, process_array_.append, range, result_pipe.append, multiprocessing_context.Process, multiprocessing_context.Pipe, multiprocessing_context.Pipe, process_array_.append, multiprocessing_context.Process, p.start, len, .recv, .join, multiprocessing_context.Pipe, len, multiprocessing_context.Process, len, len, len"
+"list, print, print, odd_even_transposition, print, print, range"
+"len, range, range"
+"len, arr.index, max, len, len"
+nan
+"merge, Stack, bisect_left, len, .append, stacks.append, reversed"
+nan
+nan
+"min, max, range, isinstance"
+"pigeonhole_sort, print, .join"
+"range, len, min, max"
+"randrange, collection.pop, len, len, quick_sort, quick_sort"
+"quick_sort_3partition, quick_sort_3partition"
+"lomuto_partition, quick_sort_lomuto_partition, quick_sort_lomuto_partition"
+range
+"len, three_way_radix_quicksort, three_way_radix_quicksort"
+"max, range, int, .append, range"
+"insert_next, rec_insertion_sort, len"
+"insert_next, len"
+"len, len, len, merge, merge, len"
+"len, quick_sort, quick_sort"
+"len, range, range"
+"range, len"
+"len, int, range, len"
+"slowsort, slowsort, slowsort, len"
+result.append
+"stooge, len"
+"int, stooge, stooge, stooge"
+"enumerate, strand_sort, arr.pop, _operator, solution.extend, sublist.append, arr.pop, sublist.pop, enumerate, solution.append, _operator, solution.insert"
+"binary_search, binary_search"
+"len, range, binary_search"
+"merge, merge"
+"len, runs.append, sorted_runs.append, merge, runs.append, new_run.append, insertion_sort"
+"tim_sort, print"
+"visited.append, sort.append, len, len, topological_sort, topological_sort"
+nan
+"Node, tuple, len, tuple, root.insert"
+nan
+sum
+"Node, self.left.insert, Node, self.right.insert"
+"end.reverse, len, start.append, end.append, collection.remove, collection.remove, min, max"
+enumerate
+nan
+"self.adlist.append, self.set_fail_transitions, self.add_keyword"
+nan
+".append, self.find_next_state, self.adlist.append, .append, len, len"
+"deque, q.append, q.popleft, q.append, self.find_next_state, self.find_next_state"
+"range, len, self.find_next_state, self.find_next_state, .append, len"
+"len, len, range, .join, output_list.append, output_list.append"
+"collections.Counter, .join, sorted, frequencies.items"
+signature
+nan
+"trie.find_word, tuple"
+"print, autocomplete_using_trie"
+nan
+nan
+self._elements
+"d.items, tuple, result.extend, self._elements"
+nan
+"len, get_check_digit, str"
+".isalpha, ValueError, str, int, ValueError, int"
+"len, enumerate, enumerate, len, ord, ord, ord, ord"
+nan
+"len, len"
+range
+range
+"range, self.mismatch_in_text, positions.append, self.match_in_pattern"
+"enumerate, isinstance, ValueError, char.isupper, type, char.lower, .isdigit, char.islower, .isalpha, char.isnumeric, char.lower, char.isalnum"
+"sum, .values, Counter, .lower, input_str.replace"
+".lower, character_freq_dict.values, len, input_str.replace, character_freq_dict.get"
+"print, print, print, can_string_be_rearranged_as_palindrome_counter, timeit, can_string_be_rearranged_as_palindrome, timeit"
+.upper
+".strip, .strip, first_str.replace, second_str.replace, defaultdict, range, all, len, len, len, first_str.lower, second_str.lower, count.values"
+"sum, isinstance, ValueError"
+credit_card_number.startswith
+"range, range, len, int, int, len, str"
+"print, credit_card_number.isdigit, print, print, validate_initial_digits, print, luhn_validation, print, len"
+"range, range, enumerate, enumerate, range, len, len, int, min, len, min, len"
+"os.path.split, os.path.realpath, open, .split, dictionary_file.read"
+"message.upper, remove_non_letters, message.split, len, float, len"
+.join
+"len, remove_non_letters, get_english_count, float, len"
+"dna.translate, len, len, ValueError, dna.maketrans, re.findall"
+"int, min, len, len, len, len, edit_distance, edit_distance, edit_distance"
+"dict.fromkeys, message.upper"
+nan
+"get_letter_count, list, freq_pairs.sort, .join, .append, .sort, .join, freq_to_letter_str.items, letter_to_freq.items"
+get_frequency_order
+"zip, len, len, ValueError"
+"re.compile, re.search"
+"ord, pow"
+"sorted, all, ValueError, string.lower, len, len, set, x.isalpha"
+"set, input_str.replace, len, alpha.lower, frequency.add, alpha.lower"
+"all, char.islower, char.isupper, ord, ord"
+"len, input_str.lower, char.isalpha"
+"print, print, print, timeit, timeit, timeit"
+"int, int, enumerate, isinstance, ValueError, int, range, str, ValueError, range, range, range, range, range, type, int"
+".upper, letter.isdigit, isinstance, TypeError, len, ValueError, int, ValueError, spanish_id.replace, ValueError, type"
+"re.compile, bool, re.search"
+"email.split, any, any, email.count, local_part.startswith, local_part.endswith, domain.startswith, domain.endswith, len, len, domain.startswith, domain.endswith"
+"get_matched_characters, get_matched_characters, len, zip, enumerate, .join, len, min, int, int, len, len, max, min, matched.append, len, zip, len, len, _str2.index, _str2.index"
+"enumerate, .join, min, int, int, len, len, max, min, matched.append, len, _str2.index, _str2.index"
+"len, isinstance, Exception"
+"get_failure_array, len, len"
+"len, failure.append"
+"list, enumerate, len, len, levenshtein_distance, len, len, range, enumerate, current_row.append, len, min"
+"list, enumerate, len, len, levenshtein_distance_optimized, len, len, range, enumerate, min, len, len"
+"timeit, print"
+".join, chr, ord"
+"range, len, range, min, len, len, len"
+"list, list, len, len, range, range, range, range, range, range, range, range, str"
+"assemble_transformation, seq.append, assemble_transformation, seq.append, assemble_transformation, seq.append"
+"len, range, range, position.append, len"
+"range, len"
+len
+"len, all, len, range"
+"len, is_palindrome_recursive, len"
+nan
+"timeit, print"
+"word.lower, enumerate, .strip"
+"range, len, len"
+"max, prefix_function"
+"len, len, range, range, ord, ord, ord, ord"
+"rabin_karp, rabin_karp, rabin_karp, rabin_karp, rabin_karp, print, rabin_karp, rabin_karp"
+".join, sorted, set, sentence.split"
+".join, .join, sentence.split, len"
+".join, input_str.split"
+"input_str.split, .join, isinstance, ValueError, isinstance, ValueError, .upper, type, type"
+"enumerate, split_words.append, len, split_words.append"
+"char.split, re.split"
+"split_input, .join, .join, char.capitalize"
+"split_input, .join, .join, separator.join, separator.join, char.upper, char.lower"
+to_simple_case
+"to_simple_case, .lower"
+to_complex_case
+to_complex_case
+len
+"word.split, answer.append, len, len, len, range, range, aligned_words_list.append, .join, line.append, len, answer.append, .join, aligned_words_list.append, aligned_words_list.append, len, justify, len, len"
+"len, len, range, range, aligned_words_list.append, .join, aligned_words_list.append, aligned_words_list.append"
+"range, len, chr, ord, chr, ord"
+".join, to_title_case, input_str.split"
+nan
+"Heap, Counter, heap.build_max_heap, WordCount, heap.extract_max, range, count_by_word.items, min, len"
+nan
+isinstance
+isinstance
+".join, chr, ord"
+"range, .isalpha, .upper, len"
+"range, range, range, bool, len, len, range, range, range"
+"defaultdict, sentence.split"
+"word.upper, .join, word_pattern.append, str"
+"range, len, go_next, range, min, len"
+len
+"z_function, len"
+".json, httpx.get"
+".json, httpx.get"
+nan
+".xpath, CovidData, .raise_for_status, len, print, print, CovidData, print, CovidData, html.fromstring, httpx.get"
+"BeautifulSoup, soup.find, .find_all, .get_text, httpx.get, div.find"
+"locals, params.pop, .json, str, httpx.get"
+"BeautifulSoup, httpx.get, soup.find, specific_fin_streamer_tag.get_text"
+"httpx.get, weather_data.append, httpx.get, weather_data.append, ValueError, response_openweathermap.json, response_weatherstack.json"
+"BeautifulSoup, httpx.get, soup.find"
+"min, httpx.get, BeautifulSoup, .join, json.dumps, json.loads, re.findall, re.sub, re.findall, enumerate, re.findall, str, .decode, .decode, urllib.request.build_opener, urllib.request.install_opener, urllib.request.urlretrieve, str, os.path.exists, os.makedirs, soup.select, bytes, bytes, query.replace"
+nan
+".join, .split, get_sub_domain_name"
+parse.urlparse
+"get_domain_name, Parser, sorted, httpx.get, parser.feed, set, SystemExit, link.startswith, httpx.get, re.findall, link.startswith, link.startswith, parse.urljoin, valid_emails.add"
+".__init__, super"
+"parse.urljoin, self.urls.append"
+"httpx.get, response.raise_for_status, BeautifulSoup, soup.find, isinstance, ValueError, isinstance, anime.find, anime.find, anime_list.append, isinstance, isinstance, UserAgent"
+"httpx.get, response.raise_for_status, BeautifulSoup, soup.find, isinstance, ValueError, isinstance, episode.find, episode.find, episode_list.append, isinstance, isinstance, UserAgent, title.text.replace"
+"httpx.get, response.raise_for_status, BeautifulSoup, soup.find, isinstance, RuntimeError, isinstance, RuntimeError, episode_url.replace, UserAgent"
+".json, enumerate, print, httpx.get"
+".json, httpx.get"
+"BeautifulSoup, soup.find_all, .text.strip, .text.strip, httpx.get, job.find, job.find"
+".json, httpx.get"
+".json, httpx.get"
+"BASE_URL.format, .raise_for_status, BeautifulSoup, soup.find_all, httpx.get, len, pharmacy_price_list.append, grid.find, grid.find"
+"BeautifulSoup, DataFrame, zip_longest, soup.find_all, soup.find_all, httpx.get, str, item.find, float, len, item.find, float, .text.split, float, float, float, .replace, item.find, .replace, .replace, product_mrp.strip, product_mrp.strip, product_price.strip"
+"BeautifulSoup, soup.find_all, soup.find_all, float, httpx.get, zip"
+"get_imdb_top_250_movies, open, csv.writer, writer.writerow, movies.items, writer.writerow"
+"httpx.get, response.raise_for_status, response.json"
+".date, TODAY.date, datetime.fromtimestamp"
+".json, httpx.get, str, years_old"
+"rich_table.Table, .print, table.add_column, table.add_row, rich_console.Console, billionaire.values"
+".json, httpx.get"
+".json, get_hackernews_story, httpx.get"
+"hackernews_top_stories, .join, .format"
+".join, query.split, .json, httpx.get"
+"json.loads, data.find"
+nan
+"os.environ.get, InstagramUser, isinstance, instagram_user.profile_picture_url.startswith"
+self.get_json
+".find_all, httpx.get, extract_user_profile, BeautifulSoup, extract_user_profile"
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+"BeautifulSoup, soup.find, image_meta_tag.get, httpx.get, response.raise_for_status, open, out_file.write, httpx.get, .astimezone, datetime.now"
+"httpx.get, httpx.get"
+".json, httpx.get"
+"get_apod_data, httpx.get, img_url.split, open, img_file.write"
+".json, httpx.get"
+"httpx.get, open, file.write"
+"BeautifulSoup, .get_text, os.path.splitext, .replace, save_image, os.path.basename, httpx.get, soup.find, soup.find, soup.find, title.strip"
+"request.POST.get, request.POST.get, request.POST.get, httpx.post, .get, render, render, authenticate, response.json, login, redirect"
+"httpx.get, response.raise_for_status, response.json, range, .join, ValueError, httpx.HTTPError, sorted, range, set"
+".strip, .json, new_olid.count, ValueError, olid.strip, httpx.get"
+"data.items, isinstance, desired_keys.items, get_openlibrary_data, .join"
+"httpx.post, ValueError"
+"monkeypatch.setattr, fetch_github_info, .startswith, FakeResponse, isinstance, json.loads"
+nan
+".startswith, FakeResponse"
+isinstance
+json.loads
+"BeautifulSoup, soup.find_all, soup.find_all, soup.find_all, soup.find_all, key.text.strip, value.text.strip, httpx.get, zip"
