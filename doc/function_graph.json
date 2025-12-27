@@ -1,0 +1,6190 @@
+{
+    "make_lowpass": [
+        "sqrt",
+        "sin",
+        "cos",
+        "IIRFilter"
+    ],
+    "make_highpass": [
+        "sqrt",
+        "sin",
+        "cos",
+        "IIRFilter"
+    ],
+    "make_bandpass": [
+        "sqrt",
+        "sin",
+        "cos",
+        "IIRFilter"
+    ],
+    "make_allpass": [
+        "sqrt",
+        "sin",
+        "cos",
+        "IIRFilter"
+    ],
+    "make_peak": [
+        "sqrt",
+        "sin",
+        "cos",
+        "IIRFilter"
+    ],
+    "make_lowshelf": [
+        "sqrt",
+        "sin",
+        "cos",
+        "sqrt",
+        "IIRFilter"
+    ],
+    "make_highshelf": [
+        "sqrt",
+        "sin",
+        "cos",
+        "sqrt",
+        "IIRFilter"
+    ],
+    "__init__": [
+        "hexlify",
+        "urandom",
+        "random",
+        "Node",
+        "SuffixTreeNode",
+        "defaultdict",
+        "AStar",
+        "AStar",
+        "BreadthFirstSearch",
+        "BreadthFirstSearch",
+        "Node",
+        "Node",
+        "deprecated",
+        "time",
+        "deque"
+    ],
+    "set_coefficients": [],
+    "process": [],
+    "get_bounds": [],
+    "show_frequency_response": [
+        "get_bounds"
+    ],
+    "show_phase_response": [],
+    "combination_lists": [
+        "combinations"
+    ],
+    "generate_all_combinations": [
+        "create_all_state"
+    ],
+    "create_all_state": [
+        "create_all_state"
+    ],
+    "generate_all_permutations": [
+        "create_state_space_tree"
+    ],
+    "create_state_space_tree": [
+        "create_state_space_tree",
+        "create_state_space_tree",
+        "create_state_space_tree",
+        "create_state_space_tree"
+    ],
+    "generate_all_subsequences": [
+        "create_state_space_tree"
+    ],
+    "valid_coloring": [],
+    "util_color": [
+        "valid_coloring",
+        "util_color"
+    ],
+    "color": [
+        "util_color"
+    ],
+    "backtrack": [
+        "backtrack",
+        "backtrack",
+        "backtrack",
+        "backtrack",
+        "backtrack",
+        "backtrack",
+        "backtrack",
+        "backtrack",
+        "backtrack",
+        "backtrack"
+    ],
+    "combination_sum": [
+        "backtrack"
+    ],
+    "main": [
+        "combination_sum",
+        "minimax",
+        "simplify_kmap",
+        "decimal_to_binary",
+        "check",
+        "prime_implicant_chart",
+        "selection",
+        "encode",
+        "decode",
+        "encrypt_message",
+        "decrypt_message",
+        "generate_key",
+        "cipher_text",
+        "original_text",
+        "decrypt",
+        "make_key_files",
+        "HillCipher",
+        "encrypt_message",
+        "decrypt_message",
+        "encrypt",
+        "decrypt",
+        "encrypt",
+        "decrypt",
+        "dencrypt",
+        "dencrypt",
+        "encrypt_and_write_to_file",
+        "read_from_file_and_decrypt",
+        "make_key_files",
+        "create_cipher_map",
+        "func",
+        "check_valid_key",
+        "encrypt_message",
+        "decrypt_message",
+        "encrypt_message",
+        "decrypt_message",
+        "encrypt_message",
+        "decrypt_message",
+        "get_dataset",
+        "update_image_and_anno",
+        "random_chars",
+        "get_dataset",
+        "update_image_and_anno",
+        "random_chars",
+        "decimal_to_octal",
+        "decimal_to_octal",
+        "decimal_to_octal",
+        "decimal_to_octal",
+        "decimal_to_octal",
+        "peak_signal_to_noise_ratio",
+        "peak_signal_to_noise_ratio",
+        "make_tree",
+        "inorder",
+        "reverse_inorder",
+        "preorder",
+        "postorder",
+        "height",
+        "level_order",
+        "height",
+        "get_nodes_from_left_to_right",
+        "zigzag",
+        "make_tree",
+        "inorder",
+        "breadth_first_search",
+        "create_sparse",
+        "lowest_common_ancestor",
+        "lowest_common_ancestor",
+        "lowest_common_ancestor",
+        "lowest_common_ancestor",
+        "lowest_common_ancestor",
+        "lowest_common_ancestor",
+        "Node",
+        "make_tree_seven",
+        "make_tree_nine",
+        "print_results",
+        "test_rotations",
+        "print_results",
+        "test_insert",
+        "print_results",
+        "test_insert_and_search",
+        "print_results",
+        "test_insert_delete",
+        "print_results",
+        "test_floor_ceil",
+        "print_results",
+        "test_tree_traversal",
+        "print_results",
+        "test_tree_chaining",
+        "test_insertion_speed",
+        "interact_treap",
+        "hypercube_points",
+        "build_kdtree",
+        "nearest_neighbour_search",
+        "testmod",
+        "LinkedList",
+        "SuffixTree",
+        "RadixNode",
+        "print_results",
+        "test_trie",
+        "convex_hull_bf",
+        "convex_hull_recursive",
+        "convex_hull_melkman",
+        "count_inversions_bf",
+        "count_inversions_recursive",
+        "count_inversions_bf",
+        "count_inversions_recursive",
+        "count_inversions_bf",
+        "count_inversions_recursive",
+        "Fibonacci",
+        "matrix_chain_order",
+        "print_optimal_solution",
+        "Node",
+        "randint",
+        "find_optimal_binary_search_tree",
+        "top_down_cut_rod",
+        "bottom_up_cut_rod",
+        "naive_cut_rod_recursive",
+        "draw_vicsek_fractal",
+        "city_select",
+        "pheromone_update",
+        "bidirectional_search",
+        "bidirectional_search",
+        "bidirectional_search",
+        "check_euler",
+        "check_euler",
+        "check_euler",
+        "check_euler",
+        "check_euler",
+        "Node",
+        "page_rank",
+        "SHA1Hash",
+        "SHA256",
+        "DecisionTree",
+        "valid_input",
+        "valid_input",
+        "valid_input",
+        "valid_input",
+        "gaussian_distribution",
+        "y_generator",
+        "calculate_mean",
+        "calculate_probabilities",
+        "calculate_variance",
+        "predict_y_values",
+        "accuracy",
+        "system",
+        "collect_dataset",
+        "run_linear_regression",
+        "PolynomialRegression",
+        "collect_dataset",
+        "apply_pca",
+        "SelfOrganizingMap",
+        "collect_dataset",
+        "apply_tsne",
+        "load_iris",
+        "data_handling",
+        "train_test_split",
+        "xgboost",
+        "fetch_california_housing",
+        "data_handling",
+        "train_test_split",
+        "xgboost",
+        "mean_absolute_error",
+        "mean_squared_error",
+        "collatz_sequence",
+        "extended_euclidean_algorithm",
+        "greatest_common_divisor",
+        "gcd_by_iterative",
+        "karatsuba",
+        "matrix_exponentiation_time",
+        "simple_fibonacci_time",
+        "modular_exponential",
+        "calculate_pi",
+        "quadratic_roots",
+        "sum_of_series",
+        "trapezoidal_rule",
+        "vol_cube",
+        "vol_cuboid",
+        "vol_cone",
+        "vol_right_circ_cone",
+        "vol_prism",
+        "vol_pyramid",
+        "vol_sphere",
+        "vol_hemisphere",
+        "vol_circular_cylinder",
+        "vol_torus",
+        "vol_conical_frustum",
+        "vol_spherical_cap",
+        "vol_spheres_intersect",
+        "vol_spheres_union",
+        "vol_hollow_circular_cylinder",
+        "vol_icosahedron",
+        "ucal",
+        "method_2",
+        "armstrong_number",
+        "narcissistic_number",
+        "pluperfect_number",
+        "add",
+        "multiply",
+        "identity",
+        "minor",
+        "determinant",
+        "inverse",
+        "nth_fibonacci_matrix",
+        "nth_fibonacci_bruteforce",
+        "search_in_a_sorted_matrix",
+        "guess_the_number",
+        "is_balanced",
+        "password_generator",
+        "alternative_password_generator",
+        "move_tower",
+        "generate_neighbours",
+        "generate_first_solution",
+        "tabu_search",
+        "ExternalSort",
+        "parse_memory",
+        "odd_even_transposition",
+        "pigeonhole_sort",
+        "tim_sort",
+        "autocomplete_using_trie"
+    ],
+    "is_valid": [
+        "get_check_digit"
+    ],
+    "place_word": [],
+    "remove_word": [],
+    "solve_crossword": [
+        "is_valid",
+        "place_word",
+        "solve_crossword",
+        "remove_word"
+    ],
+    "generate_parenthesis": [
+        "backtrack"
+    ],
+    "generate_parentheses_iterative": [],
+    "valid_connection": [],
+    "util_hamilton_cycle": [
+        "valid_connection",
+        "util_hamilton_cycle"
+    ],
+    "hamilton_cycle": [
+        "util_hamilton_cycle"
+    ],
+    "get_valid_pos": [],
+    "is_complete": [],
+    "open_knight_tour_helper": [
+        "is_complete",
+        "get_valid_pos",
+        "open_knight_tour_helper"
+    ],
+    "open_knight_tour": [
+        "open_knight_tour_helper"
+    ],
+    "match_word_pattern": [
+        "backtrack"
+    ],
+    "minimax": [
+        "minimax",
+        "minimax",
+        "minimax",
+        "minimax"
+    ],
+    "is_safe": [],
+    "solve": [
+        "printboard",
+        "is_safe",
+        "solve",
+        "backtrack",
+        "search",
+        "parse_grid",
+        "solve",
+        "solve",
+        "solve"
+    ],
+    "printboard": [],
+    "depth_first_search": [
+        "depth_first_search",
+        "depth_first_search",
+        "depth_first_search",
+        "depth_first_search",
+        "depth_first_search",
+        "depth_first_search",
+        "depth_first_search",
+        "depth_first_search",
+        "depth_first_search",
+        "depth_first_search",
+        "is_safe",
+        "depth_first_search",
+        "depth_first_search",
+        "depth_first_search",
+        "depth_first_search"
+    ],
+    "n_queens_solution": [
+        "depth_first_search"
+    ],
+    "solve_maze": [
+        "run_maze"
+    ],
+    "run_maze": [
+        "run_maze",
+        "run_maze",
+        "run_maze",
+        "run_maze"
+    ],
+    "find_empty_location": [],
+    "sudoku": [
+        "find_empty_location",
+        "is_safe",
+        "sudoku"
+    ],
+    "print_solution": [],
+    "generate_sum_of_subsets_solutions": [
+        "create_state_space_tree"
+    ],
+    "word_break": [
+        "backtrack",
+        "is_breakable"
+    ],
+    "word_ladder": [
+        "backtrack"
+    ],
+    "get_point_key": [],
+    "exits_word": [
+        "get_point_key",
+        "exits_word"
+    ],
+    "word_exists": [
+        "exits_word",
+        "get_point_key"
+    ],
+    "binary_and": [],
+    "binary_coded_decimal": [],
+    "binary_count_setbits": [],
+    "binary_count_trailing_zeros": [
+        "log2"
+    ],
+    "binary_or": [],
+    "logical_left_shift": [],
+    "logical_right_shift": [],
+    "arithmetic_right_shift": [],
+    "twos_complement": [],
+    "binary_xor": [],
+    "bitwise_addition_recursive": [
+        "bitwise_addition_recursive"
+    ],
+    "get_1s_count": [],
+    "get_set_bits_count_using_brian_kernighans_algorithm": [],
+    "get_set_bits_count_using_modulo_operator": [],
+    "benchmark": [
+        "do_benchmark",
+        "timeit",
+        "timeit",
+        "timeit",
+        "timeit",
+        "timeit",
+        "timeit",
+        "benchmark_a_function",
+        "timeit",
+        "timeit",
+        "timeit",
+        "benchmark_a_function",
+        "timeit",
+        "benchmark_a_function",
+        "timeit",
+        "timeit",
+        "timeit",
+        "timeit",
+        "timeit",
+        "can_string_be_rearranged_as_palindrome_counter",
+        "timeit",
+        "can_string_be_rearranged_as_palindrome",
+        "timeit",
+        "timeit",
+        "timeit",
+        "timeit"
+    ],
+    "do_benchmark": [
+        "get_set_bits_count_using_modulo_operator",
+        "timeit",
+        "get_set_bits_count_using_brian_kernighans_algorithm",
+        "timeit"
+    ],
+    "excess_3_code": [],
+    "find_previous_power_of_two": [],
+    "find_unique_number": [],
+    "gray_code": [
+        "gray_code_sequence_string"
+    ],
+    "gray_code_sequence_string": [
+        "gray_code_sequence_string"
+    ],
+    "get_highest_set_bit_position": [],
+    "get_index_of_rightmost_set_bit": [],
+    "is_even": [],
+    "is_power_of_two": [],
+    "largest_pow_of_two_le_num": [],
+    "find_missing_number": [],
+    "different_signs": [],
+    "power_of_4": [],
+    "get_reverse_bit_string": [],
+    "reverse_bit": [],
+    "set_bit": [],
+    "clear_bit": [],
+    "flip_bit": [],
+    "is_bit_set": [],
+    "get_bit": [],
+    "show_bits": [],
+    "swap_odd_even_bits": [],
+    "diophantine": [
+        "greatest_common_divisor",
+        "extended_gcd"
+    ],
+    "diophantine_all_soln": [
+        "diophantine",
+        "greatest_common_divisor"
+    ],
+    "extended_gcd": [
+        "extended_gcd",
+        "extended_gcd"
+    ],
+    "and_gate": [],
+    "n_input_and_gate": [],
+    "imply_gate": [],
+    "recursive_imply_list": [
+        "imply_gate",
+        "recursive_imply_list"
+    ],
+    "simplify_kmap": [],
+    "mux": [],
+    "nand_gate": [],
+    "nimply_gate": [],
+    "nor_gate": [],
+    "truth_table": [
+        "make_table_row",
+        "make_table_row",
+        "func"
+    ],
+    "make_table_row": [],
+    "not_gate": [],
+    "or_gate": [],
+    "compare_string": [],
+    "check": [
+        "compare_string"
+    ],
+    "decimal_to_binary": [],
+    "is_for_table": [],
+    "selection": [],
+    "prime_implicant_chart": [
+        "is_for_table"
+    ],
+    "xnor_gate": [],
+    "xor_gate": [],
+    "new_generation": [],
+    "generate_images": [
+        "new_generation"
+    ],
+    "create_canvas": [],
+    "seed": [],
+    "run": [
+        "create_canvas",
+        "__judge_point",
+        "randint",
+        "shuffle",
+        "shuffle",
+        "upf_len",
+        "equality"
+    ],
+    "__judge_point": [],
+    "move_ant": [],
+    "display": [
+        "FuncAnimation",
+        "partial"
+    ],
+    "construct_highway": [
+        "randint",
+        "randint"
+    ],
+    "get_distance": [
+        "get_distance"
+    ],
+    "update": [
+        "get_distance",
+        "random",
+        "update_step"
+    ],
+    "simulate": [
+        "update"
+    ],
+    "format_ruleset": [],
+    "generate_image": [],
+    "reset_reproduction_time": [],
+    "__repr__": [
+        "pformat",
+        "pformat",
+        "pformat"
+    ],
+    "set_planet": [],
+    "add_entity": [
+        "randint",
+        "randint",
+        "Entity"
+    ],
+    "get_entities": [],
+    "balance_predators_and_prey": [
+        "shuffle"
+    ],
+    "get_surrounding_prey": [],
+    "move_and_reproduce": [
+        "Entity"
+    ],
+    "perform_prey_actions": [],
+    "perform_predator_actions": [],
+    "visualise": [
+        "sleep"
+    ],
+    "encode": [
+        "generate_table",
+        "prepare_input",
+        "chunker"
+    ],
+    "decode": [
+        "generate_table",
+        "chunker"
+    ],
+    "check_keys": [
+        "gcd_by_iterative"
+    ],
+    "encrypt_message": [
+        "check_keys",
+        "translate_message",
+        "get_blocks_from_text",
+        "translate_message",
+        "__prepare",
+        "__encrypt_part",
+        "translate_message"
+    ],
+    "decrypt_message": [
+        "check_keys",
+        "translate_message",
+        "get_text_from_blocks",
+        "translate_message",
+        "__prepare",
+        "__decrypt_part",
+        "translate_message"
+    ],
+    "get_random_key": [
+        "gcd_by_iterative"
+    ],
+    "atbash_slow": [],
+    "atbash": [],
+    "encrypt": [
+        "generate_valid_block_size",
+        "generate_permutation_key",
+        "generate_table",
+        "get_opponent"
+    ],
+    "decrypt": [
+        "encrypt",
+        "encrypt"
+    ],
+    "base16_encode": [],
+    "base16_decode": [],
+    "base32_encode": [],
+    "base32_decode": [],
+    "base64_encode": [],
+    "base64_decode": [],
+    "_base10_to_85": [
+        "_base10_to_85"
+    ],
+    "_base85_to_10": [],
+    "ascii85_encode": [
+        "_base10_to_85"
+    ],
+    "ascii85_decode": [
+        "_base85_to_10"
+    ],
+    "generate_key": [
+        "primitive_root",
+        "gcd_by_iterative"
+    ],
+    "cipher_text": [],
+    "original_text": [],
+    "letter_to_numbers": [],
+    "numbers_to_letter": [],
+    "brute_force": [
+        "decrypt"
+    ],
+    "find_mod_inverse": [
+        "gcd_by_iterative"
+    ],
+    "decrypt_caesar_with_chi_squared": [],
+    "chi_squared_statistic_values_sorting_key": [],
+    "miller_rabin": [],
+    "test_miller_rabin": [
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin",
+        "miller_rabin"
+    ],
+    "find_primitive": [],
+    "get_private_key": [],
+    "generate_public_key": [],
+    "is_valid_public_key": [],
+    "generate_shared_key": [
+        "sha256"
+    ],
+    "is_valid_public_key_static": [],
+    "generate_shared_key_static": [
+        "sha256"
+    ],
+    "primitive_root": [],
+    "make_key_files": [
+        "generate_key",
+        "generate_key"
+    ],
+    "_validator": [
+        "_plugboard"
+    ],
+    "_plugboard": [],
+    "enigma": [
+        "_validator"
+    ],
+    "encode_to_morse": [],
+    "encrypt_fractionated_morse": [
+        "encode_to_morse"
+    ],
+    "decrypt_fractionated_morse": [],
+    "gronsfeld": [],
+    "replace_letters": [],
+    "replace_digits": [],
+    "check_determinant": [
+        "greatest_common_divisor"
+    ],
+    "process_text": [],
+    "make_decrypt_key": [],
+    "mixed_keyword": [],
+    "translate_message": [],
+    "generate_valid_block_size": [],
+    "generate_permutation_key": [],
+    "chunker": [],
+    "prepare_input": [],
+    "generate_table": [],
+    "get_position": [],
+    "get_opponent": [
+        "get_position"
+    ],
+    "rabin_miller": [],
+    "is_prime_low_num": [
+        "rabin_miller"
+    ],
+    "generate_large_prime": [
+        "is_prime_low_num"
+    ],
+    "bruteforce": [
+        "decrypt"
+    ],
+    "dencrypt": [],
+    "get_blocks_from_text": [],
+    "get_text_from_blocks": [],
+    "read_key_file": [],
+    "encrypt_and_write_to_file": [
+        "read_key_file",
+        "encrypt_message"
+    ],
+    "read_from_file_and_decrypt": [
+        "read_key_file",
+        "decrypt_message"
+    ],
+    "rsafactor": [],
+    "running_key_encrypt": [],
+    "running_key_decrypt": [],
+    "test_running_key_encrypt": [],
+    "__str__": [
+        "MyQueue",
+        "single_line"
+    ],
+    "__neg_pos": [],
+    "__passcode_creator": [],
+    "__make_key_list": [],
+    "__make_shift_key": [],
+    "test_end_to_end": [
+        "ShuffledShiftCipher"
+    ],
+    "remove_duplicates": [],
+    "create_cipher_map": [
+        "remove_duplicates"
+    ],
+    "encipher": [],
+    "decipher": [],
+    "check_valid_key": [],
+    "__encrypt_part": [],
+    "__decrypt_part": [],
+    "__prepare": [],
+    "vernam_encrypt": [],
+    "vernam_decrypt": [],
+    "encrypt_string": [],
+    "decrypt_string": [],
+    "encrypt_file": [],
+    "decrypt_file": [],
+    "get_dataset": [],
+    "update_image_and_anno": [],
+    "random_chars": [],
+    "root_mean_square_error": [],
+    "normalize_image": [],
+    "normalize_array": [],
+    "grayscale": [],
+    "binarize": [],
+    "transform": [
+        "apply",
+        "transformation_matrix"
+    ],
+    "opening_filter": [
+        "transform",
+        "transform"
+    ],
+    "closing_filter": [
+        "transform",
+        "transform"
+    ],
+    "binary_mask": [],
+    "matrix_concurrency": [],
+    "haralick_descriptors": [],
+    "get_descriptors": [
+        "haralick_descriptors",
+        "matrix_concurrency"
+    ],
+    "euclidean": [],
+    "get_distances": [
+        "euclidean",
+        "normalize_array"
+    ],
+    "detect": [],
+    "warp": [],
+    "horn_schunck": [
+        "warp",
+        "convolve",
+        "convolve",
+        "convolve",
+        "convolve",
+        "convolve",
+        "convolve",
+        "convolve",
+        "convolve"
+    ],
+    "segment_image": [],
+    "mean_threshold": [],
+    "maxpooling": [],
+    "avgpooling": [],
+    "length_conversion": [],
+    "bin_to_decimal": [],
+    "bin_to_hexadecimal": [],
+    "bin_to_octal": [],
+    "max_value": [],
+    "convert_small_number": [],
+    "convert_number": [
+        "convert_number",
+        "convert_small_number",
+        "convert_small_number"
+    ],
+    "decimal_to_any": [],
+    "decimal_to_binary_iterative": [],
+    "decimal_to_binary_recursive_helper": [
+        "decimal_to_binary_recursive_helper"
+    ],
+    "decimal_to_binary_recursive": [
+        "decimal_to_binary_recursive_helper"
+    ],
+    "decimal_to_hexadecimal": [],
+    "decimal_to_octal": [],
+    "energy_conversion": [],
+    "excel_title_to_column": [],
+    "hex_to_decimal": [],
+    "hex_to_bin": [],
+    "ipv4_to_decimal": [],
+    "alt_ipv4_to_decimal": [],
+    "decimal_to_ipv4": [],
+    "molarity_to_normality": [],
+    "moles_to_pressure": [],
+    "moles_to_volume": [],
+    "pressure_and_volume_to_temperature": [],
+    "octal_to_binary": [],
+    "oct_to_decimal": [],
+    "octal_to_hex": [],
+    "convert_si_prefix": [],
+    "convert_binary_prefix": [],
+    "get_positive": [],
+    "get_negative": [],
+    "add_si_prefix": [],
+    "add_binary_prefix": [],
+    "pressure_conversion": [],
+    "rectangular_to_polar": [],
+    "rgb_to_cmyk": [],
+    "hsv_to_rgb": [],
+    "rgb_to_hsv": [],
+    "approximately_equal_hsv": [],
+    "roman_to_int": [],
+    "int_to_roman": [],
+    "convert_speed": [],
+    "celsius_to_fahrenheit": [],
+    "celsius_to_kelvin": [],
+    "celsius_to_rankine": [],
+    "fahrenheit_to_celsius": [],
+    "fahrenheit_to_kelvin": [],
+    "fahrenheit_to_rankine": [],
+    "kelvin_to_celsius": [],
+    "kelvin_to_fahrenheit": [],
+    "kelvin_to_rankine": [],
+    "rankine_to_celsius": [],
+    "rankine_to_fahrenheit": [],
+    "rankine_to_kelvin": [],
+    "reaumur_to_kelvin": [],
+    "reaumur_to_fahrenheit": [],
+    "reaumur_to_celsius": [],
+    "reaumur_to_rankine": [],
+    "convert_time": [],
+    "volume_conversion": [],
+    "weight_conversion": [],
+    "all_rotations": [],
+    "bwt_transform": [
+        "all_rotations"
+    ],
+    "reverse_bwt": [],
+    "compress_coordinates": [],
+    "compress": [
+        "read_file_binary",
+        "compress_data",
+        "add_file_length",
+        "write_file_binary",
+        "read_file_binary",
+        "remove_prefix",
+        "decompress_data",
+        "write_file_binary"
+    ],
+    "decompress": [],
+    "parse_file": [
+        "Letter"
+    ],
+    "build_tree": [
+        "TreeNode",
+        "TreeNode",
+        "TreeNode",
+        "TreeNode",
+        "TreeNode",
+        "TreeNode",
+        "TreeNode",
+        "TreeNode",
+        "build_tree",
+        "build_tree",
+        "Node",
+        "build_tree",
+        "build_tree",
+        "TreeNode",
+        "TreeNode",
+        "TreeNode"
+    ],
+    "traverse_tree": [
+        "traverse_tree",
+        "traverse_tree"
+    ],
+    "huffman": [
+        "parse_file",
+        "build_tree",
+        "traverse_tree"
+    ],
+    "read_file_binary": [],
+    "add_key_to_lexicon": [],
+    "compress_data": [
+        "add_key_to_lexicon"
+    ],
+    "add_file_length": [],
+    "write_file_binary": [],
+    "decompress_data": [],
+    "remove_prefix": [],
+    "_find_encoding_token": [
+        "Token",
+        "Token"
+    ],
+    "_match_length_from_index": [],
+    "peak_signal_to_noise_ratio": [],
+    "run_length_encode": [],
+    "run_length_decode": [],
+    "equilibrium_index": [],
+    "find_triplets_with_0_sum": [
+        "combinations"
+    ],
+    "find_triplets_with_0_sum_hashing": [],
+    "__iter__": [],
+    "index_2d_array_in_1d": [],
+    "partition": [
+        "partition",
+        "lru_cache"
+    ],
+    "kth_largest_element": [
+        "partition"
+    ],
+    "find_median_sorted_arrays": [],
+    "is_monotonic": [],
+    "pairs_with_sum": [
+        "combinations"
+    ],
+    "permute_recursive": [
+        "permute_recursive"
+    ],
+    "permute_backtrack": [
+        "backtrack"
+    ],
+    "get_sum": [],
+    "contains_sum": [],
+    "product_sum": [
+        "product_sum"
+    ],
+    "product_sum_array": [
+        "product_sum"
+    ],
+    "rotate_array": [
+        "reverse",
+        "reverse",
+        "reverse"
+    ],
+    "reverse": [],
+    "build_sparse_table": [
+        "log2"
+    ],
+    "query": [
+        "log2"
+    ],
+    "cross": [],
+    "test": [],
+    "parse_grid": [
+        "grid_values",
+        "assign"
+    ],
+    "grid_values": [],
+    "assign": [
+        "eliminate"
+    ],
+    "eliminate": [
+        "eliminate",
+        "assign"
+    ],
+    "some": [],
+    "search": [
+        "some",
+        "search",
+        "assign",
+        "search",
+        "search",
+        "search"
+    ],
+    "solve_all": [
+        "time_solve"
+    ],
+    "time_solve": [
+        "solve",
+        "display",
+        "grid_values",
+        "display",
+        "solved"
+    ],
+    "solved": [
+        "unitsolved"
+    ],
+    "unitsolved": [],
+    "from_file": [],
+    "random_puzzle": [
+        "shuffled",
+        "assign",
+        "random_puzzle"
+    ],
+    "shuffled": [],
+    "is_empty": [],
+    "push": [
+        "Node",
+        "Node"
+    ],
+    "pop": [],
+    "count": [],
+    "print_queue": [],
+    "get_data": [],
+    "get_left": [],
+    "get_right": [],
+    "get_height": [
+        "get_height"
+    ],
+    "set_data": [],
+    "set_left": [],
+    "set_right": [],
+    "set_height": [],
+    "my_max": [],
+    "right_rotation": [
+        "my_max",
+        "get_height",
+        "get_height",
+        "my_max",
+        "get_height",
+        "get_height"
+    ],
+    "left_rotation": [
+        "my_max",
+        "get_height",
+        "get_height",
+        "my_max",
+        "get_height",
+        "get_height"
+    ],
+    "lr_rotation": [
+        "left_rotation",
+        "right_rotation"
+    ],
+    "rl_rotation": [
+        "right_rotation",
+        "left_rotation"
+    ],
+    "insert_node": [
+        "MyNode",
+        "insert_node",
+        "get_height",
+        "get_height",
+        "right_rotation",
+        "lr_rotation",
+        "insert_node",
+        "get_height",
+        "get_height",
+        "rl_rotation",
+        "left_rotation",
+        "my_max",
+        "get_height",
+        "get_height",
+        "Node"
+    ],
+    "get_right_most": [],
+    "get_left_most": [],
+    "del_node": [
+        "del_node"
+    ],
+    "insert": [
+        "insert_node",
+        "BinaryTreeNode",
+        "insert",
+        "insert",
+        "RedBlackTree",
+        "RedBlackTree",
+        "Node",
+        "split",
+        "merge",
+        "merge",
+        "Node",
+        "Node",
+        "RadixNode",
+        "RadixNode",
+        "TrieNode",
+        "Node",
+        "Node"
+    ],
+    "_test": [],
+    "__len__": [],
+    "is_full": [],
+    "small_tree": [
+        "BinaryTree",
+        "Node",
+        "Node",
+        "Node"
+    ],
+    "medium_tree": [
+        "BinaryTree",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node"
+    ],
+    "depth": [],
+    "_depth": [],
+    "is_right": [],
+    "__bool__": [],
+    "__reassign_nodes": [],
+    "empty": [],
+    "__insert": [
+        "Node"
+    ],
+    "get_max": [],
+    "get_min": [],
+    "remove": [
+        "RedBlackTree"
+    ],
+    "preorder_traverse": [],
+    "traversal_tree": [
+        "traversal_function"
+    ],
+    "inorder": [
+        "inorder",
+        "inorder",
+        "inorder",
+        "inorder",
+        "inorder",
+        "inorder",
+        "inorder",
+        "inorder"
+    ],
+    "find_kth_smallest": [],
+    "postorder": [
+        "postorder",
+        "postorder",
+        "postorder",
+        "postorder"
+    ],
+    "put": [
+        "Node"
+    ],
+    "_put": [
+        "Node"
+    ],
+    "_search": [],
+    "_reassign_nodes": [],
+    "_get_lowest_node": [],
+    "exists": [],
+    "get_max_label": [],
+    "get_min_label": [],
+    "inorder_traversal": [],
+    "_inorder_traversal": [],
+    "preorder_traversal": [],
+    "_preorder_traversal": [],
+    "_get_binary_search_tree": [
+        "BinarySearchTree"
+    ],
+    "test_put": [
+        "BinarySearchTree"
+    ],
+    "test_search": [],
+    "test_remove": [],
+    "test_remove_2": [],
+    "test_empty": [],
+    "test_is_empty": [],
+    "test_exists": [],
+    "test_get_max_label": [],
+    "test_get_min_label": [],
+    "test_inorder_traversal": [],
+    "test_preorder_traversal": [],
+    "binary_search_tree_example": [
+        "BinarySearchTree"
+    ],
+    "binary_tree_mirror_dict": [
+        "binary_tree_mirror_dict",
+        "binary_tree_mirror_dict"
+    ],
+    "binary_tree_mirror": [
+        "binary_tree_mirror_dict"
+    ],
+    "path_sum": [],
+    "make_tree": [
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "TreeNode",
+        "TreeNode",
+        "TreeNode",
+        "TreeNode",
+        "TreeNode",
+        "insert",
+        "insert",
+        "insert",
+        "insert",
+        "insert",
+        "insert",
+        "insert"
+    ],
+    "preorder": [
+        "preorder",
+        "preorder"
+    ],
+    "reverse_inorder": [
+        "reverse_inorder",
+        "reverse_inorder"
+    ],
+    "height": [
+        "height",
+        "height"
+    ],
+    "level_order": [
+        "deque"
+    ],
+    "get_nodes_from_left_to_right": [
+        "populate_output"
+    ],
+    "populate_output": [
+        "populate_output",
+        "populate_output"
+    ],
+    "get_nodes_from_right_to_left": [
+        "populate_output"
+    ],
+    "zigzag": [
+        "height",
+        "get_nodes_from_left_to_right",
+        "get_nodes_from_right_to_left"
+    ],
+    "diameter": [],
+    "binary_tree_right_side_view": [
+        "depth_first_search"
+    ],
+    "binary_tree_left_side_view": [
+        "depth_first_search"
+    ],
+    "binary_tree_top_side_view": [
+        "breadth_first_search"
+    ],
+    "breadth_first_search": [
+        "defaultdict",
+        "Queue",
+        "Queue"
+    ],
+    "binary_tree_bottom_side_view": [
+        "breadth_first_search"
+    ],
+    "distribute_coins": [
+        "count_nodes",
+        "count_coins",
+        "get_distrib"
+    ],
+    "count_nodes": [
+        "count_nodes",
+        "count_nodes"
+    ],
+    "count_coins": [
+        "count_coins",
+        "count_coins"
+    ],
+    "get_distrib": [
+        "CoinsDistribResult",
+        "get_distrib",
+        "get_distrib",
+        "CoinsDistribResult"
+    ],
+    "init": [
+        "deepcopy"
+    ],
+    "get_array": [],
+    "next_": [],
+    "prev": [],
+    "add": [
+        "Node",
+        "Node",
+        "_check_not_integer",
+        "_verify_matrix_sizes"
+    ],
+    "prefix": [],
+    "get": [],
+    "rank_query": [],
+    "flatten": [
+        "flatten",
+        "flatten"
+    ],
+    "display_linked_list": [],
+    "floor_ceiling": [],
+    "is_sorted": [],
+    "is_sum_node": [],
+    "is_sum_tree": [],
+    "build_a_tree": [
+        "BinaryTree",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node"
+    ],
+    "build_a_sum_tree": [
+        "BinaryTree",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node"
+    ],
+    "left": [],
+    "right": [],
+    "build": [
+        "Graph"
+    ],
+    "swap": [],
+    "create_sparse": [],
+    "lowest_common_ancestor": [
+        "swap"
+    ],
+    "get_next": [],
+    "get_prev": [],
+    "max_sum_bst": [
+        "solver"
+    ],
+    "solver": [
+        "solver",
+        "solver"
+    ],
+    "merge_two_binary_trees": [
+        "merge_two_binary_trees",
+        "merge_two_binary_trees"
+    ],
+    "print_preorder": [
+        "print_preorder",
+        "print_preorder"
+    ],
+    "mirror": [],
+    "make_tree_seven": [
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node"
+    ],
+    "make_tree_nine": [
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node"
+    ],
+    "binomial_coefficient": [],
+    "catalan_number": [
+        "binomial_coefficient"
+    ],
+    "factorial": [
+        "factorial",
+        "factorial"
+    ],
+    "binary_tree_count": [
+        "catalan_number",
+        "factorial"
+    ],
+    "rotate_left": [],
+    "rotate_right": [],
+    "_insert_repair": [
+        "color",
+        "color"
+    ],
+    "_remove_repair": [
+        "color",
+        "color",
+        "color",
+        "color",
+        "color",
+        "color",
+        "color",
+        "color",
+        "color",
+        "color",
+        "color",
+        "color",
+        "color",
+        "color",
+        "color",
+        "color",
+        "color",
+        "color",
+        "color"
+    ],
+    "check_color_properties": [],
+    "check_coloring": [
+        "color",
+        "color"
+    ],
+    "black_height": [],
+    "__contains__": [],
+    "floor": [],
+    "ceil": [],
+    "grandparent": [],
+    "sibling": [],
+    "is_left": [],
+    "inorder_traverse": [],
+    "postorder_traverse": [],
+    "__eq__": [],
+    "test_rotations": [
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree"
+    ],
+    "test_insertion_speed": [
+        "RedBlackTree"
+    ],
+    "test_insert": [
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree",
+        "RedBlackTree"
+    ],
+    "test_insert_and_search": [
+        "RedBlackTree"
+    ],
+    "test_insert_delete": [
+        "RedBlackTree"
+    ],
+    "test_floor_ceil": [
+        "RedBlackTree"
+    ],
+    "test_min_max": [
+        "RedBlackTree"
+    ],
+    "test_tree_traversal": [
+        "RedBlackTree"
+    ],
+    "test_tree_chaining": [
+        "RedBlackTree"
+    ],
+    "print_results": [],
+    "pytests": [
+        "test_rotations",
+        "test_insert",
+        "test_insert_and_search",
+        "test_insert_delete",
+        "test_floor_ceil",
+        "test_tree_traversal",
+        "test_tree_chaining",
+        "test_trie",
+        "test_trie"
+    ],
+    "update_recursive": [],
+    "query_recursive": [],
+    "show_data": [],
+    "query_range": [],
+    "_build_tree": [
+        "SegmentTreeNode",
+        "SegmentTreeNode"
+    ],
+    "_update_tree": [],
+    "_query_range": [],
+    "traverse": [
+        "Queue"
+    ],
+    "__post_init__": [],
+    "five_tree": [
+        "TreeNode",
+        "TreeNode",
+        "TreeNode",
+        "TreeNode",
+        "TreeNode"
+    ],
+    "deserialize": [
+        "build_tree"
+    ],
+    "make_symmetric_tree": [
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node"
+    ],
+    "make_asymmetric_tree": [
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Node"
+    ],
+    "is_symmetric_tree": [
+        "is_mirror"
+    ],
+    "is_mirror": [
+        "is_mirror",
+        "is_mirror"
+    ],
+    "split": [
+        "split",
+        "split"
+    ],
+    "merge": [
+        "merge",
+        "merge",
+        "FilesArray",
+        "merge",
+        "merge",
+        "merge",
+        "merge"
+    ],
+    "erase": [
+        "split",
+        "split",
+        "merge"
+    ],
+    "interact_treap": [
+        "insert",
+        "erase"
+    ],
+    "rank_till_index": [
+        "rank_till_index",
+        "rank_till_index"
+    ],
+    "rank": [
+        "rank_till_index",
+        "rank_till_index"
+    ],
+    "quantile": [
+        "quantile",
+        "quantile"
+    ],
+    "range_counting": [
+        "range_counting",
+        "range_counting"
+    ],
+    "get_parent": [],
+    "make_set": [],
+    "union_set": [
+        "find_set",
+        "find_set"
+    ],
+    "find_set": [
+        "find_set"
+    ],
+    "find_python_set": [],
+    "test_disjoint_set": [
+        "Node",
+        "make_set",
+        "union_set",
+        "union_set",
+        "union_set",
+        "union_set",
+        "find_python_set",
+        "find_python_set",
+        "find_set",
+        "find_set",
+        "find_set",
+        "find_set"
+    ],
+    "format_bin": [],
+    "bitstring": [],
+    "hash_": [
+        "func"
+    ],
+    "format_hash": [],
+    "estimated_error_rate": [],
+    "__hash_function_2": [
+        "is_prime",
+        "next_prime"
+    ],
+    "__hash_double_function": [],
+    "_collision_resolution": [],
+    "keys": [],
+    "balanced_factor": [],
+    "hash_function": [],
+    "_step_by_step": [],
+    "bulk_insert": [],
+    "_set_value": [
+        "deque"
+    ],
+    "rehashing": [
+        "next_prime"
+    ],
+    "insert_data": [],
+    "is_prime": [
+        "sqrt",
+        "sqrt",
+        "isqrt"
+    ],
+    "next_prime": [
+        "is_prime",
+        "next_prime"
+    ],
+    "_get": [],
+    "_set": [],
+    "_del": [],
+    "_run_operation": [
+        "fun"
+    ],
+    "test_hash_map_is_the_same_as_dict": [
+        "HashMap",
+        "_run_operation",
+        "_run_operation"
+    ],
+    "test_no_new_methods_was_added_to_api": [
+        "is_public",
+        "HashMap",
+        "is_public"
+    ],
+    "is_public": [],
+    "merge_trees": [],
+    "merge_heaps": [],
+    "peek": [],
+    "delete_min": [
+        "BinomialHeap"
+    ],
+    "pre_order": [
+        "pre_order",
+        "pre_order"
+    ],
+    "__traversal": [],
+    "_parent": [],
+    "_left": [],
+    "_right": [],
+    "_swap": [],
+    "_cmp": [],
+    "_get_valid_parent": [],
+    "_heapify_up": [],
+    "_heapify_down": [],
+    "update_item": [],
+    "delete_item": [],
+    "insert_item": [],
+    "get_top": [],
+    "extract_top": [],
+    "test_heap": [],
+    "__swap_up": [],
+    "__swap_down": [],
+    "get_list": [],
+    "__lt__": [],
+    "__getitem__": [],
+    "get_parent_idx": [],
+    "get_left_child_idx": [],
+    "get_right_child_idx": [],
+    "get_value": [],
+    "build_heap": [],
+    "sift_down": [],
+    "sift_up": [],
+    "decrease_key": [],
+    "build_kdtree": [
+        "KDNode",
+        "build_kdtree",
+        "build_kdtree"
+    ],
+    "nearest_neighbour_search": [
+        "search"
+    ],
+    "hypercube_points": [],
+    "test_build_kdtree": [
+        "hypercube_points",
+        "build_kdtree"
+    ],
+    "test_nearest_neighbour_search": [
+        "hypercube_points",
+        "build_kdtree",
+        "nearest_neighbour_search"
+    ],
+    "test_edge_cases": [
+        "build_kdtree",
+        "nearest_neighbour_search"
+    ],
+    "insert_tail": [],
+    "insert_head": [],
+    "insert_nth": [
+        "Node",
+        "Node"
+    ],
+    "delete_front": [],
+    "delete_tail": [],
+    "delete_nth": [],
+    "test_circular_linked_list": [
+        "CircularLinkedList"
+    ],
+    "has_next_and_prev": [],
+    "_insert": [],
+    "_delete": [
+        "_delete"
+    ],
+    "first": [],
+    "last": [],
+    "add_first": [],
+    "add_last": [],
+    "remove_first": [],
+    "remove_last": [],
+    "insert_at_head": [],
+    "insert_at_tail": [],
+    "insert_at_nth": [
+        "Node"
+    ],
+    "delete_head": [],
+    "delete_at_nth": [],
+    "delete": [
+        "_delete"
+    ],
+    "test_doubly_linked_list": [
+        "DoublyLinkedList"
+    ],
+    "add_node": [
+        "Node"
+    ],
+    "detect_cycle": [],
+    "make_linked_list": [
+        "Node",
+        "Node",
+        "LinkedList"
+    ],
+    "has_loop": [],
+    "is_palindrome": [],
+    "is_palindrome_stack": [],
+    "is_palindrome_dict": [],
+    "merge_lists": [
+        "SortedLinkedList"
+    ],
+    "middle_element": [],
+    "append": [
+        "Node",
+        "Node",
+        "Node",
+        "Node",
+        "Operation"
+    ],
+    "extend": [],
+    "in_reverse": [],
+    "reverse_k_nodes": [
+        "Node"
+    ],
+    "print_linked_list": [],
+    "rotate_to_the_right": [],
+    "__setitem__": [],
+    "print_list": [],
+    "test_singly_linked_list": [
+        "LinkedList"
+    ],
+    "test_singly_linked_list_2": [
+        "Node",
+        "Node",
+        "LinkedList",
+        "Node"
+    ],
+    "swap_nodes": [],
+    "enqueue": [
+        "OverFlowError"
+    ],
+    "dequeue": [
+        "UnderFlowError"
+    ],
+    "create_linked_list": [
+        "Node",
+        "Node"
+    ],
+    "check_can_perform_operation": [],
+    "check_is_full": [],
+    "__next__": [],
+    "appendleft": [],
+    "extendleft": [],
+    "popleft": [],
+    "clear": [],
+    "fixed_priority_queue": [
+        "FixedPriorityQueue"
+    ],
+    "element_priority_queue": [
+        "ElementPriorityQueue"
+    ],
+    "rotate": [],
+    "front": [],
+    "size": [],
+    "balanced_parentheses": [
+        "Stack"
+    ],
+    "dijkstras_two_stack_algorithm": [
+        "Stack",
+        "Stack"
+    ],
+    "precedence": [],
+    "associativity": [],
+    "infix_to_postfix": [
+        "balanced_parentheses",
+        "Stack",
+        "precedence",
+        "precedence",
+        "associativity"
+    ],
+    "infix_2_postfix": [],
+    "infix_2_prefix": [
+        "infix_2_postfix"
+    ],
+    "largest_rectangle_area": [],
+    "lexical_order": [],
+    "next_greatest_element_slow": [],
+    "next_greatest_element_fast": [],
+    "next_greatest_element": [],
+    "parse_token": [],
+    "evaluate": [
+        "parse_token",
+        "is_operand"
+    ],
+    "is_operand": [],
+    "evaluate_recursive": [
+        "is_operand",
+        "evaluate_recursive",
+        "evaluate_recursive",
+        "operation"
+    ],
+    "calculate_span": [],
+    "print_array": [],
+    "build_suffix_tree": [],
+    "_add_suffix": [
+        "SuffixTreeNode"
+    ],
+    "setUp": [
+        "SuffixTree"
+    ],
+    "test_search_existing_patterns": [],
+    "test_search_non_existing_patterns": [],
+    "test_search_empty_pattern": [],
+    "test_search_full_text": [],
+    "test_search_substrings": [],
+    "match": [],
+    "insert_many": [],
+    "find": [],
+    "print_tree": [],
+    "test_trie": [
+        "RadixNode",
+        "TrieNode"
+    ],
+    "print_words": [
+        "print_words"
+    ],
+    "change_brightness": [],
+    "brightness": [],
+    "change_contrast": [],
+    "contrast": [],
+    "convert_to_negative": [],
+    "set_matricies": [],
+    "calculation": [],
+    "arv12": [],
+    "ccci": [],
+    "cvi": [],
+    "gli": [],
+    "ndvi": [],
+    "bndvi": [],
+    "red_edge_ndvi": [],
+    "gndvi": [],
+    "gbndvi": [],
+    "grndvi": [],
+    "rbndvi": [],
+    "pndvi": [],
+    "atsavi": [],
+    "bwdrvi": [],
+    "ci_green": [],
+    "ci_rededge": [],
+    "ci": [],
+    "ctvi": [],
+    "gdvi": [],
+    "evi": [],
+    "gemi": [],
+    "gosavi": [],
+    "gsavi": [],
+    "hue": [],
+    "ivi": [],
+    "ipvi": [],
+    "i": [],
+    "rvi": [],
+    "mrvi": [],
+    "m_savi": [],
+    "norm_g": [],
+    "norm_nir": [],
+    "norm_r": [],
+    "ngrdi": [],
+    "ri": [],
+    "s": [],
+    "_if": [],
+    "dvi": [],
+    "tvi": [],
+    "ndre": [],
+    "make_sepia": [
+        "to_grayscale",
+        "normalize",
+        "normalize",
+        "normalize"
+    ],
+    "to_grayscale": [],
+    "normalize": [],
+    "test_convert_to_negative": [],
+    "test_change_contrast": [],
+    "test_gen_gaussian_kernel": [],
+    "test_canny": [
+        "imread"
+    ],
+    "test_gen_gaussian_kernel_filter": [],
+    "test_convolve_filter": [
+        "array"
+    ],
+    "test_median_filter": [],
+    "test_sobel_filter": [],
+    "test_sepia": [],
+    "test_burkes": [
+        "imread"
+    ],
+    "test_nearest_neighbour": [
+        "imread"
+    ],
+    "test_local_binary_pattern": [
+        "getenv",
+        "imread"
+    ],
+    "get_greyscale": [],
+    "gen_gaussian_kernel": [
+        "exp",
+        "square",
+        "square",
+        "square"
+    ],
+    "suppress_non_maximum": [],
+    "detect_high_low_threshold": [],
+    "track_edge": [],
+    "canny": [
+        "img_convolve",
+        "gen_gaussian_kernel",
+        "sobel_filter",
+        "suppress_non_maximum",
+        "detect_high_low_threshold",
+        "track_edge"
+    ],
+    "vec_gaussian": [],
+    "get_slice": [],
+    "get_gauss_kernel": [
+        "vec_gaussian"
+    ],
+    "bilateral_filter": [
+        "get_gauss_kernel",
+        "get_slice",
+        "vec_gaussian"
+    ],
+    "parse_args": [],
+    "im2col": [
+        "zeros",
+        "ravel"
+    ],
+    "img_convolve": [
+        "pad",
+        "im2col",
+        "ravel",
+        "dot"
+    ],
+    "gabor_filter_kernel": [],
+    "gaussian_filter": [
+        "zeros",
+        "product",
+        "ravel",
+        "gen_gaussian_kernel",
+        "ravel",
+        "dot"
+    ],
+    "my_laplacian": [
+        "filter2D"
+    ],
+    "get_neighbors_pixel": [],
+    "local_binary_value": [
+        "get_neighbors_pixel",
+        "get_neighbors_pixel",
+        "get_neighbors_pixel",
+        "get_neighbors_pixel",
+        "get_neighbors_pixel",
+        "get_neighbors_pixel",
+        "get_neighbors_pixel",
+        "get_neighbors_pixel"
+    ],
+    "median_filter": [
+        "zeros_like",
+        "ravel",
+        "sort",
+        "int8",
+        "divide",
+        "multiply"
+    ],
+    "sobel_filter": [
+        "img_convolve",
+        "img_convolve"
+    ],
+    "stretch": [],
+    "plot_histogram": [],
+    "show_image": [],
+    "rgb_to_gray": [],
+    "gray_to_binary": [],
+    "dilation": [],
+    "erosion": [],
+    "get_x": [],
+    "get_y": [],
+    "get_rotation": [],
+    "euclidean_distance_sqr": [],
+    "column_based_sort": [],
+    "dis_between_closest_pair": [
+        "euclidean_distance_sqr"
+    ],
+    "dis_between_closest_in_strip": [
+        "euclidean_distance_sqr"
+    ],
+    "closest_pair_of_points_sqr": [
+        "dis_between_closest_pair",
+        "closest_pair_of_points_sqr",
+        "closest_pair_of_points_sqr",
+        "dis_between_closest_in_strip"
+    ],
+    "closest_pair_of_points": [
+        "column_based_sort",
+        "column_based_sort",
+        "closest_pair_of_points_sqr"
+    ],
+    "__ne__": [],
+    "__gt__": [],
+    "__ge__": [],
+    "__le__": [],
+    "__hash__": [],
+    "_construct_points": [
+        "Point"
+    ],
+    "_validate_input": [
+        "_construct_points"
+    ],
+    "_det": [],
+    "convex_hull_bf": [
+        "_validate_input",
+        "_det"
+    ],
+    "convex_hull_recursive": [
+        "_validate_input",
+        "_det",
+        "_construct_hull",
+        "_construct_hull"
+    ],
+    "_construct_hull": [
+        "_det",
+        "_construct_hull",
+        "_construct_hull"
+    ],
+    "convex_hull_melkman": [
+        "_validate_input",
+        "_det",
+        "_det",
+        "_det",
+        "_det",
+        "_det"
+    ],
+    "heaps": [
+        "generate",
+        "generate"
+    ],
+    "generate": [
+        "generate",
+        "generate"
+    ],
+    "count_inversions_bf": [],
+    "count_inversions_recursive": [
+        "count_inversions_recursive",
+        "count_inversions_recursive",
+        "_count_cross_inversions"
+    ],
+    "_count_cross_inversions": [],
+    "random_pivot": [
+        "choice"
+    ],
+    "kth_number": [
+        "random_pivot",
+        "kth_number",
+        "kth_number"
+    ],
+    "max_difference": [
+        "max_difference",
+        "max_difference"
+    ],
+    "max_subarray": [
+        "max_subarray",
+        "max_subarray",
+        "max_cross_sum"
+    ],
+    "max_cross_sum": [],
+    "time_max_subarray": [
+        "randint",
+        "max_subarray"
+    ],
+    "plot_runtimes": [
+        "time_max_subarray"
+    ],
+    "merge_sort": [
+        "merge",
+        "merge_sort",
+        "merge_sort",
+        "merge",
+        "merge_sort",
+        "merge_sort"
+    ],
+    "peak": [
+        "peak",
+        "peak"
+    ],
+    "actual_power": [
+        "actual_power"
+    ],
+    "power": [
+        "actual_power",
+        "actual_power",
+        "power",
+        "power"
+    ],
+    "default_matrix_multiplication": [],
+    "matrix_addition": [],
+    "matrix_subtraction": [],
+    "split_matrix": [],
+    "matrix_dimensions": [],
+    "print_matrix": [],
+    "actual_strassen": [
+        "matrix_dimensions",
+        "default_matrix_multiplication",
+        "split_matrix",
+        "split_matrix",
+        "actual_strassen",
+        "matrix_subtraction",
+        "actual_strassen",
+        "matrix_addition",
+        "actual_strassen",
+        "matrix_addition",
+        "actual_strassen",
+        "matrix_subtraction",
+        "actual_strassen",
+        "matrix_addition",
+        "matrix_addition",
+        "actual_strassen",
+        "matrix_subtraction",
+        "matrix_addition",
+        "actual_strassen",
+        "matrix_subtraction",
+        "matrix_addition",
+        "matrix_addition",
+        "matrix_subtraction",
+        "matrix_addition",
+        "matrix_addition",
+        "matrix_addition",
+        "matrix_subtraction",
+        "matrix_subtraction",
+        "matrix_addition"
+    ],
+    "strassen": [
+        "matrix_dimensions",
+        "matrix_dimensions",
+        "matrix_dimensions",
+        "matrix_dimensions",
+        "actual_strassen"
+    ],
+    "abbr": [],
+    "all_construct": [],
+    "count_ways_until": [],
+    "count_no_of_ways": [],
+    "catalan_numbers": [],
+    "climb_stairs": [],
+    "combination_sum_iv": [
+        "count_of_possible_combinations"
+    ],
+    "count_of_possible_combinations": [
+        "count_of_possible_combinations"
+    ],
+    "combination_sum_iv_dp_array": [
+        "count_of_possible_combinations_with_dp_array"
+    ],
+    "count_of_possible_combinations_with_dp_array": [
+        "count_of_possible_combinations_with_dp_array"
+    ],
+    "combination_sum_iv_bottom_up": [],
+    "__min_dist_top_down_dp": [],
+    "min_dist_top_down": [],
+    "min_dist_bottom_up": [],
+    "fibonacci": [
+        "_fib",
+        "fibonacci",
+        "fibonacci"
+    ],
+    "_fib": [
+        "_fib"
+    ],
+    "fizz_buzz": [],
+    "add_edge": [
+        "Edge"
+    ],
+    "floyd_warshall": [
+        "_print_dist"
+    ],
+    "show_min": [],
+    "list_of_submasks": [],
+    "mf_knapsack": [
+        "mf_knapsack",
+        "mf_knapsack",
+        "mf_knapsack"
+    ],
+    "knapsack": [
+        "knapsack_recur",
+        "knapsack",
+        "knapsack"
+    ],
+    "knapsack_with_example_solution": [
+        "knapsack",
+        "_construct_solution"
+    ],
+    "_construct_solution": [
+        "_construct_solution",
+        "_construct_solution"
+    ],
+    "tf_k_means_cluster": [
+        "shuffle",
+        "array"
+    ],
+    "largest_divisible_subset": [],
+    "longest_common_subsequence": [],
+    "longest_common_substring": [],
+    "longest_subsequence": [
+        "longest_subsequence",
+        "longest_subsequence"
+    ],
+    "ceil_index": [],
+    "longest_increasing_subsequence_length": [
+        "ceil_index"
+    ],
+    "longest_palindromic_subsequence": [],
+    "matrix_chain_multiply": [],
+    "matrix_chain_order": [
+        "a"
+    ],
+    "a": [
+        "a",
+        "a"
+    ],
+    "elapsed_time": [
+        "perf_counter_ns",
+        "perf_counter_ns"
+    ],
+    "print_optimal_solution": [
+        "print_optimal_solution",
+        "print_optimal_solution"
+    ],
+    "maximum_non_adjacent_sum": [],
+    "max_product_subarray": [],
+    "max_subarray_sum": [],
+    "dp_count": [],
+    "minimum_cost_path": [],
+    "find_min": [],
+    "minimum_subarray_sum": [],
+    "minimum_squares_to_represent_a_number": [],
+    "min_steps_to_one": [],
+    "mincost_tickets": [
+        "dynamic_programming"
+    ],
+    "dynamic_programming": [
+        "dynamic_programming",
+        "dynamic_programming",
+        "dynamic_programming",
+        "dynamic_programming"
+    ],
+    "min_distance_up_bottom": [
+        "min_distance"
+    ],
+    "min_distance": [
+        "min_distance",
+        "min_distance",
+        "min_distance"
+    ],
+    "print_binary_search_tree": [
+        "print_binary_search_tree",
+        "print_binary_search_tree"
+    ],
+    "find_optimal_binary_search_tree": [
+        "print_binary_search_tree"
+    ],
+    "find_minimum_partitions": [],
+    "prefix_sum": [],
+    "recursive_match": [
+        "recursive_match",
+        "recursive_match",
+        "recursive_match",
+        "recursive_match"
+    ],
+    "dp_match": [],
+    "naive_cut_rod_recursive": [
+        "_enforce_args",
+        "naive_cut_rod_recursive"
+    ],
+    "top_down_cut_rod": [
+        "_enforce_args",
+        "_top_down_cut_rod_recursive"
+    ],
+    "_top_down_cut_rod_recursive": [
+        "_top_down_cut_rod_recursive"
+    ],
+    "bottom_up_cut_rod": [
+        "_enforce_args"
+    ],
+    "_enforce_args": [],
+    "score_function": [],
+    "smith_waterman": [
+        "score_function"
+    ],
+    "traceback": [
+        "score_function",
+        "score_function"
+    ],
+    "subset_combinations": [],
+    "is_sum_subset": [],
+    "trapped_rainwater": [],
+    "tribonacci": [],
+    "viterbi": [
+        "_validation"
+    ],
+    "_validation": [
+        "_validate_not_empty",
+        "_validate_lists",
+        "_validate_dicts"
+    ],
+    "_validate_not_empty": [],
+    "_validate_lists": [
+        "_validate_list",
+        "_validate_list"
+    ],
+    "_validate_list": [],
+    "_validate_dicts": [
+        "_validate_dict",
+        "_validate_nested_dict",
+        "_validate_nested_dict"
+    ],
+    "_validate_nested_dict": [
+        "_validate_dict",
+        "_validate_dict"
+    ],
+    "_validate_dict": [],
+    "is_match": [],
+    "is_breakable": [
+        "is_breakable"
+    ],
+    "apparent_power": [],
+    "builtin_voltage": [
+        "log"
+    ],
+    "capacitor_parallel": [],
+    "capacitor_series": [],
+    "carrier_concentration": [],
+    "charging_capacitor": [
+        "exp"
+    ],
+    "charging_inductor": [
+        "exp"
+    ],
+    "circular_convolution": [
+        "deque"
+    ],
+    "couloumbs_law": [],
+    "electrical_impedance": [
+        "sqrt",
+        "sqrt",
+        "sqrt"
+    ],
+    "electric_conductivity": [],
+    "electric_power": [
+        "Result",
+        "Result",
+        "Result"
+    ],
+    "astable_frequency": [],
+    "astable_duty_cycle": [],
+    "ind_reactance": [],
+    "ohms_law": [],
+    "real_power": [],
+    "reactive_power": [],
+    "get_significant_digits": [],
+    "get_multiplier": [],
+    "get_tolerance": [],
+    "get_temperature_coeffecient": [],
+    "get_band_type_count": [],
+    "check_validity": [],
+    "calculate_resistance": [
+        "check_validity",
+        "get_band_type_count",
+        "get_significant_digits",
+        "get_multiplier",
+        "get_tolerance",
+        "get_temperature_coeffecient"
+    ],
+    "resistor_parallel": [],
+    "resistor_series": [],
+    "resonant_frequency": [
+        "sqrt"
+    ],
+    "wheatstone_solver": [],
+    "send_file": [],
+    "test_send_file_running_as_expected": [
+        "Mock",
+        "Mock",
+        "send_file",
+        "patch",
+        "patch"
+    ],
+    "equated_monthly_installments": [],
+    "exponential_moving_average": [],
+    "simple_interest": [],
+    "compound_interest": [],
+    "apr_interest": [
+        "compound_interest"
+    ],
+    "present_value": [],
+    "price_plus_tax": [],
+    "simple_moving_average": [],
+    "straight_line_depreciation": [],
+    "pay": [],
+    "eval_exponential": [],
+    "eval_quadratic_polynomial": [],
+    "prepare_grid": [],
+    "iterate_function": [
+        "eval_function"
+    ],
+    "show_results": [],
+    "ignore_overflow_warnings": [],
+    "iterate": [
+        "iteration_step"
+    ],
+    "iteration_step": [
+        "rotate"
+    ],
+    "plot": [],
+    "get_black_and_white_rgb": [],
+    "get_color_coded_rgb": [],
+    "get_image": [
+        "get_distance",
+        "get_color_coded_rgb",
+        "get_black_and_white_rgb"
+    ],
+    "get_mid": [],
+    "triangle": [
+        "triangle",
+        "get_mid",
+        "get_mid",
+        "triangle",
+        "get_mid",
+        "get_mid",
+        "triangle",
+        "get_mid",
+        "get_mid"
+    ],
+    "draw_cross": [],
+    "draw_fractal_recursive": [
+        "draw_cross",
+        "draw_fractal_recursive",
+        "draw_fractal_recursive",
+        "draw_fractal_recursive",
+        "draw_fractal_recursive",
+        "draw_fractal_recursive"
+    ],
+    "set_color": [],
+    "draw_vicsek_fractal": [
+        "set_color",
+        "draw_fractal_recursive"
+    ],
+    "complement": [
+        "FuzzySet"
+    ],
+    "intersection": [
+        "FuzzySet",
+        "function",
+        "function",
+        "function",
+        "function",
+        "function"
+    ],
+    "membership": [],
+    "union": [
+        "FuzzySet"
+    ],
+    "crossover": [],
+    "mutate": [],
+    "select": [
+        "crossover",
+        "mutate",
+        "mutate"
+    ],
+    "basic": [
+        "evaluate",
+        "select"
+    ],
+    "haversine_distance": [
+        "atan",
+        "tan",
+        "radians",
+        "atan",
+        "tan",
+        "radians",
+        "radians",
+        "radians",
+        "sin",
+        "sin",
+        "sqrt",
+        "cos",
+        "cos",
+        "asin"
+    ],
+    "lamberts_ellipsoidal_distance": [
+        "atan",
+        "tan",
+        "radians",
+        "atan",
+        "tan",
+        "radians",
+        "haversine_distance",
+        "sin",
+        "cos",
+        "cos",
+        "sin",
+        "cos",
+        "sin",
+        "sin",
+        "sin"
+    ],
+    "area": [],
+    "perimeter": [],
+    "max_parts": [],
+    "add_side": [],
+    "get_side": [],
+    "set_side": [],
+    "post_init": [
+        "Side",
+        "Side"
+    ],
+    "basis_function": [
+        "comb"
+    ],
+    "bezier_curve_function": [],
+    "plot_curve": [],
+    "butterfly_pattern": [],
+    "digital_differential_analyzer_line": [],
+    "convert_to_2d": [],
+    "distance": [],
+    "pheromone_update": [
+        "distance"
+    ],
+    "city_select": [
+        "distance"
+    ],
+    "compute_ap": [
+        "dfs"
+    ],
+    "dfs": [
+        "dfs",
+        "dfs",
+        "dfs",
+        "dfs",
+        "dfs",
+        "dfs",
+        "dfs",
+        "dfs",
+        "dfs",
+        "dfs"
+    ],
+    "_input": [],
+    "initialize_unweighted_directed_graph": [
+        "_input"
+    ],
+    "initialize_unweighted_undirected_graph": [
+        "_input"
+    ],
+    "initialize_weighted_undirected_graph": [
+        "_input"
+    ],
+    "bfs": [
+        "deque",
+        "Queue",
+        "deque"
+    ],
+    "dijk": [],
+    "topo": [
+        "deque",
+        "topo"
+    ],
+    "adjm": [],
+    "floy": [],
+    "prim": [],
+    "edglist": [],
+    "krusk": [],
+    "find_isolated_nodes": [],
+    "print_distance": [],
+    "check_negative_cycle": [],
+    "bellman_ford": [
+        "check_negative_cycle"
+    ],
+    "calculate_heuristic": [
+        "sqrt"
+    ],
+    "get_successors": [
+        "Node",
+        "Node",
+        "Node"
+    ],
+    "retrace_path": [],
+    "retrace_bidirectional_path": [],
+    "expand_search": [],
+    "construct_path": [],
+    "bidirectional_search": [
+        "deque",
+        "deque",
+        "expand_search",
+        "expand_search",
+        "construct_path",
+        "construct_path"
+    ],
+    "pass_and_relaxation": [],
+    "bidirectional_dij": [
+        "PriorityQueue",
+        "PriorityQueue",
+        "pass_and_relaxation",
+        "pass_and_relaxation"
+    ],
+    "find_component": [],
+    "set_component": [],
+    "boruvka": [],
+    "test_vector": [],
+    "print_graph": [],
+    "breadth_first_search_with_deque": [
+        "deque"
+    ],
+    "benchmark_function": [
+        "timeit",
+        "timeit"
+    ],
+    "breath_first_search": [],
+    "shortest_path": [],
+    "bfs_shortest_path": [
+        "deque"
+    ],
+    "bfs_shortest_path_distance": [
+        "deque"
+    ],
+    "get_shortest_path": [
+        "deque"
+    ],
+    "is_bipartite_dfs": [
+        "defaultdict",
+        "depth_first_search"
+    ],
+    "is_bipartite_bfs": [
+        "defaultdict",
+        "deque"
+    ],
+    "check_cycle": [
+        "depth_first_search"
+    ],
+    "connected_components": [
+        "dfs"
+    ],
+    "clone_graph": [
+        "Node"
+    ],
+    "dfs_recursive": [],
+    "dijkstra": [
+        "min_dist",
+        "print_dist",
+        "PriorityQueue",
+        "heappop",
+        "heappush"
+    ],
+    "print_dist": [],
+    "min_dist": [],
+    "min_heapify": [],
+    "extract_min": [],
+    "par": [],
+    "show_graph": [],
+    "show_distances": [],
+    "show_path": [],
+    "minimum_distance": [],
+    "max_flow": [],
+    "add_pair": [],
+    "all_nodes": [],
+    "remove_pair": [],
+    "fill_graph_randomly": [
+        "floor",
+        "random",
+        "floor",
+        "random",
+        "floor",
+        "random"
+    ],
+    "in_degree": [],
+    "out_degree": [],
+    "topological_sort": [
+        "depth_first_search",
+        "topological_sort",
+        "topological_sort"
+    ],
+    "cycle_nodes": [],
+    "has_cycle": [],
+    "dfs_time": [
+        "time",
+        "time"
+    ],
+    "bfs_time": [
+        "time",
+        "time"
+    ],
+    "degree": [],
+    "_normalize_graph": [],
+    "find_maximum_flow": [],
+    "set_maximum_flow_algorithm": [
+        "algorithm"
+    ],
+    "execute": [],
+    "_algorithm": [],
+    "get_maximum_flow": [],
+    "process_vertex": [],
+    "relabel": [],
+    "check_circuit_or_path": [],
+    "check_euler": [
+        "check_circuit_or_path",
+        "dfs"
+    ],
+    "even_tree": [
+        "dfs"
+    ],
+    "__get_demo_graph": [],
+    "compute_bridges": [
+        "dfs"
+    ],
+    "get_distinct_edge": [],
+    "get_bitcode": [],
+    "get_frequency_table": [
+        "get_distinct_edge",
+        "get_bitcode"
+    ],
+    "get_nodes": [],
+    "get_cluster": [],
+    "get_support": [],
+    "print_all": [],
+    "create_edge": [],
+    "construct_graph": [
+        "create_edge"
+    ],
+    "my_dfs": [
+        "my_dfs"
+    ],
+    "find_freq_subgraph_given_support": [
+        "my_dfs"
+    ],
+    "freq_subgraphs_edge_list": [],
+    "preprocess": [
+        "to_little_endian",
+        "to_little_endian"
+    ],
+    "stable_matching": [],
+    "_print_dist": [],
+    "greedy_min_vertex_cover": [],
+    "print_stack": [],
+    "longest_distance": [],
+    "partition_graph": [],
+    "validate_adjacency_list": [],
+    "lanczos_iteration": [
+        "multiply_matrix_vector"
+    ],
+    "multiply_matrix_vector": [],
+    "find_lanczos_eigenvectors": [
+        "validate_adjacency_list",
+        "lanczos_iteration"
+    ],
+    "add_transition_probability": [],
+    "transition": [
+        "random"
+    ],
+    "get_transitions": [
+        "MarkovChainGraphUndirectedUnweighted",
+        "Counter"
+    ],
+    "matching_min_vertex_cover": [
+        "get_edges"
+    ],
+    "get_edges": [],
+    "min_path_sum": [
+        "fill_row"
+    ],
+    "fill_row": [],
+    "add_vertex": [],
+    "distinct_weight": [],
+    "get_vertices": [],
+    "boruvka_mst": [],
+    "kruskal": [
+        "find_parent",
+        "find_parent"
+    ],
+    "find_parent": [
+        "find_parent"
+    ],
+    "set_position": [],
+    "top_to_bottom": [],
+    "bottom_to_top": [],
+    "heapify": [
+        "heapify",
+        "heapify"
+    ],
+    "delete_minimum": [],
+    "prisms_algorithm": [
+        "Heap"
+    ],
+    "minkey": [],
+    "remove_element": [],
+    "top_show": [],
+    "consistent_heuristic": [],
+    "heuristic_2": [
+        "consistent_heuristic"
+    ],
+    "heuristic_1": [],
+    "key": [],
+    "do_something": [],
+    "valid": [],
+    "expand_state": [
+        "valid",
+        "valid",
+        "key",
+        "key",
+        "key",
+        "key"
+    ],
+    "make_common_ground": [],
+    "multi_a_star": [
+        "PriorityQueue",
+        "key",
+        "do_something",
+        "expand_state",
+        "do_something",
+        "expand_state"
+    ],
+    "add_inbound": [],
+    "add_outbound": [],
+    "page_rank": [],
+    "add_neighbor": [],
+    "connect": [],
+    "prim_heap": [],
+    "random_graph": [
+        "complete_graph"
+    ],
+    "complete_graph": [],
+    "dfs2": [
+        "dfs2"
+    ],
+    "kosaraju": [
+        "dfs",
+        "dfs2"
+    ],
+    "topology_sort": [
+        "topology_sort"
+    ],
+    "find_components": [
+        "find_components"
+    ],
+    "strongly_connected_components": [
+        "topology_sort",
+        "find_components"
+    ],
+    "tarjan": [
+        "deque",
+        "strong_connect"
+    ],
+    "strong_connect": [
+        "strong_connect"
+    ],
+    "create_graph": [],
+    "test_kruskal_successful_result": [
+        "kruskal"
+    ],
+    "test_prim_successful_result": [
+        "defaultdict",
+        "mst"
+    ],
+    "max_profit": [],
+    "ratio": [],
+    "fractional_cover": [
+        "attrgetter"
+    ],
+    "frac_knapsack": [
+        "accumulate",
+        "bisect"
+    ],
+    "fractional_knapsack": [],
+    "get_gas_stations": [
+        "GasStation"
+    ],
+    "can_complete_journey": [],
+    "find_minimum_change": [],
+    "minimum_waiting_time": [],
+    "optimal_merge_pattern": [],
+    "smallest_range": [
+        "heappush",
+        "heappop",
+        "heappush"
+    ],
+    "adler32": [],
+    "pull": [
+        "xorshift"
+    ],
+    "xorshift": [],
+    "reset": [],
+    "djb2": [],
+    "elf_hash": [],
+    "rotator": [],
+    "engine": [
+        "rotator"
+    ],
+    "fletcher16": [],
+    "text_to_bits": [],
+    "text_from_bits": [],
+    "emitter_converter": [],
+    "receptor_converter": [],
+    "is_luhn": [],
+    "to_little_endian": [],
+    "reformat_hex": [],
+    "get_block_words": [
+        "to_little_endian"
+    ],
+    "not_32": [],
+    "sum_32": [],
+    "left_rotate_32": [],
+    "md5_me": [
+        "preprocess",
+        "sin",
+        "get_block_words",
+        "not_32",
+        "sum_32",
+        "left_rotate_32",
+        "sum_32",
+        "sum_32",
+        "sum_32",
+        "sum_32",
+        "reformat_hex",
+        "reformat_hex",
+        "reformat_hex",
+        "reformat_hex"
+    ],
+    "sdbm": [],
+    "padding": [],
+    "split_blocks": [],
+    "expand_block": [],
+    "final_hash": [],
+    "test_sha1_hash": [
+        "SHA1Hash"
+    ],
+    "preprocessing": [],
+    "ror": [],
+    "test_match_hashes": [
+        "SHA256"
+    ],
+    "calc_profit": [],
+    "knapsack_recur": [
+        "knapsack_recur",
+        "knapsack_recur",
+        "knapsack_recur"
+    ],
+    "test_sorted": [],
+    "test_negative_max_weight": [],
+    "test_negative_profit_value": [],
+    "test_negative_weight_value": [],
+    "test_null_max_weight": [],
+    "test_unequal_list_length": [],
+    "test_base_case": [],
+    "test_easy_case": [],
+    "test_knapsack": [],
+    "test_knapsack_repetition": [],
+    "retroactive_resolution": [],
+    "gaussian_elimination": [
+        "retroactive_resolution"
+    ],
+    "jacobi_iteration_method": [
+        "strictly_diagonally_dominant"
+    ],
+    "strictly_diagonally_dominant": [],
+    "lower_upper_decomposition": [],
+    "invert_matrix": [],
+    "_is_matrix_spd": [],
+    "_create_spd_matrix": [
+        "_is_matrix_spd"
+    ],
+    "conjugate_gradient": [
+        "_is_matrix_spd"
+    ],
+    "test_conjugate_gradient": [
+        "_create_spd_matrix",
+        "conjugate_gradient"
+    ],
+    "solve_linear_system": [],
+    "__add__": [
+        "Matrix",
+        "Variable",
+        "GradientTracker",
+        "Dual",
+        "Dual",
+        "Polynomial",
+        "Polynomial",
+        "Matrix",
+        "Matrix"
+    ],
+    "__sub__": [
+        "Matrix",
+        "Variable",
+        "GradientTracker",
+        "Polynomial",
+        "Matrix"
+    ],
+    "__mul__": [
+        "zero_vector",
+        "Matrix",
+        "Variable",
+        "GradientTracker",
+        "Dual",
+        "Dual",
+        "Matrix",
+        "Polynomial",
+        "Matrix",
+        "Matrix",
+        "Matrix",
+        "Matrix"
+    ],
+    "copy": [
+        "Vector"
+    ],
+    "component": [],
+    "change_component": [],
+    "euclidean_length": [],
+    "angle": [],
+    "zero_vector": [
+        "Vector"
+    ],
+    "unit_basis_vector": [
+        "Vector"
+    ],
+    "axpy": [],
+    "random_vector": [
+        "Vector"
+    ],
+    "width": [],
+    "minor": [
+        "Matrix"
+    ],
+    "cofactor": [],
+    "determinant": [
+        "determinant",
+        "minor"
+    ],
+    "square_zero_matrix": [
+        "Matrix"
+    ],
+    "random_matrix": [
+        "Matrix"
+    ],
+    "points_to_polynomial": [],
+    "power_iteration": [],
+    "test_power_iteration": [
+        "power_iteration"
+    ],
+    "rank_of_matrix": [],
+    "is_hermitian": [],
+    "rayleigh_quotient": [],
+    "tests": [
+        "is_hermitian",
+        "rayleigh_quotient",
+        "is_hermitian",
+        "rayleigh_quotient"
+    ],
+    "schur_complement": [],
+    "test_schur_complement": [
+        "schur_complement"
+    ],
+    "test_improper_a_b_dimensions": [
+        "schur_complement"
+    ],
+    "test_improper_b_c_dimensions": [
+        "schur_complement"
+    ],
+    "test_component": [
+        "Vector",
+        "Vector"
+    ],
+    "test_str": [
+        "Vector"
+    ],
+    "test_size": [
+        "Vector"
+    ],
+    "test_euclidean_length": [
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector"
+    ],
+    "test_add": [
+        "Vector",
+        "Vector"
+    ],
+    "test_sub": [
+        "Vector",
+        "Vector"
+    ],
+    "test_mul": [
+        "Vector",
+        "Vector",
+        "Vector"
+    ],
+    "test_zero_vector": [
+        "zero_vector"
+    ],
+    "test_unit_basis_vector": [
+        "unit_basis_vector"
+    ],
+    "test_axpy": [
+        "Vector",
+        "Vector",
+        "axpy"
+    ],
+    "test_copy": [
+        "Vector"
+    ],
+    "test_change_component": [
+        "Vector"
+    ],
+    "test_str_matrix": [
+        "Matrix"
+    ],
+    "test_minor": [
+        "Matrix"
+    ],
+    "test_cofactor": [
+        "Matrix"
+    ],
+    "test_determinant": [
+        "Matrix"
+    ],
+    "test__mul__matrix": [
+        "Matrix",
+        "Vector"
+    ],
+    "test_change_component_matrix": [
+        "Matrix"
+    ],
+    "test_component_matrix": [
+        "Matrix"
+    ],
+    "test__add__matrix": [
+        "Matrix",
+        "Matrix"
+    ],
+    "test__sub__matrix": [
+        "Matrix",
+        "Matrix"
+    ],
+    "test_square_zero_matrix": [
+        "square_zero_matrix"
+    ],
+    "scaling": [],
+    "rotation": [
+        "cos",
+        "sin"
+    ],
+    "projection": [
+        "cos",
+        "sin"
+    ],
+    "reflection": [
+        "cos",
+        "sin"
+    ],
+    "generate_col_titles": [],
+    "find_pivot": [],
+    "pivot": [],
+    "change_stage": [],
+    "run_simplex": [],
+    "interpret_tableau": [],
+    "load_data": [],
+    "prune": [
+        "Counter"
+    ],
+    "apriori": [
+        "prune",
+        "combinations"
+    ],
+    "showcell": [],
+    "show": [],
+    "get_neighbours": [
+        "Cell"
+    ],
+    "astar": [],
+    "to_ndarray": [],
+    "__truediv__": [
+        "Variable",
+        "GradientTracker",
+        "Dual"
+    ],
+    "__matmul__": [
+        "Variable",
+        "GradientTracker"
+    ],
+    "__pow__": [
+        "Variable",
+        "GradientTracker"
+    ],
+    "add_param_to": [],
+    "add_result_of": [],
+    "add_params": [],
+    "add_output": [],
+    "__new__": [],
+    "__enter__": [],
+    "__exit__": [],
+    "gradient": [
+        "defaultdict"
+    ],
+    "derivative": [
+        "Polynomial"
+    ],
+    "normalization": [],
+    "standardization": [
+        "mean",
+        "stdev"
+    ],
+    "mean_squared_error": [],
+    "train": [
+        "DecisionTree",
+        "DecisionTree",
+        "draw_error"
+    ],
+    "predict": [
+        "sigmoid",
+        "sigmoid",
+        "sigmoid"
+    ],
+    "helper_mean_squared_error_test": [],
+    "column_reshape": [],
+    "covariance_within_classes": [
+        "column_reshape"
+    ],
+    "covariance_between_classes": [
+        "column_reshape",
+        "column_reshape",
+        "column_reshape",
+        "column_reshape",
+        "column_reshape",
+        "column_reshape",
+        "column_reshape",
+        "column_reshape"
+    ],
+    "principal_component_analysis": [],
+    "linear_discriminant_analysis": [
+        "eigh",
+        "covariance_between_classes",
+        "covariance_within_classes"
+    ],
+    "test_linear_discriminant_analysis": [
+        "linear_discriminant_analysis"
+    ],
+    "test_principal_component_analysis": [
+        "principal_component_analysis"
+    ],
+    "inc": [],
+    "disp": [],
+    "create_tree": [
+        "TreeNode",
+        "TreeNode",
+        "update_tree"
+    ],
+    "update_tree": [
+        "TreeNode",
+        "update_header",
+        "update_tree"
+    ],
+    "update_header": [],
+    "ascend_tree": [
+        "ascend_tree"
+    ],
+    "find_prefix_path": [
+        "ascend_tree"
+    ],
+    "mine_tree": [
+        "find_prefix_path",
+        "create_tree",
+        "update_header",
+        "mine_tree"
+    ],
+    "fit": [
+        "DecisionTreeRegressor",
+        "k",
+        "k",
+        "k",
+        "k",
+        "k",
+        "k",
+        "LinearConstraint",
+        "Bounds",
+        "minimize"
+    ],
+    "_error": [
+        "calculate_hypothesis_value",
+        "output"
+    ],
+    "_hypothesis_value": [],
+    "output": [],
+    "calculate_hypothesis_value": [
+        "_hypothesis_value",
+        "_hypothesis_value"
+    ],
+    "summation_of_cost_derivative": [
+        "_error",
+        "_error"
+    ],
+    "get_cost_derivative": [
+        "summation_of_cost_derivative"
+    ],
+    "run_gradient_descent": [
+        "get_cost_derivative"
+    ],
+    "test_gradient_descent": [
+        "output",
+        "calculate_hypothesis_value"
+    ],
+    "get_initial_centroids": [],
+    "centroid_pairwise_dist": [
+        "pairwise_distances"
+    ],
+    "assign_clusters": [
+        "centroid_pairwise_dist"
+    ],
+    "revise_centroids": [],
+    "compute_heterogeneity": [
+        "pairwise_distances"
+    ],
+    "plot_heterogeneity": [],
+    "plot_kmeans": [],
+    "kmeans": [
+        "assign_clusters",
+        "revise_centroids",
+        "compute_heterogeneity"
+    ],
+    "report_generator": [],
+    "_euclidean_distance": [],
+    "classify": [
+        "nsmallest",
+        "Counter"
+    ],
+    "gaussian_distribution": [
+        "seed",
+        "gauss"
+    ],
+    "y_generator": [],
+    "calculate_mean": [],
+    "calculate_probabilities": [],
+    "calculate_variance": [],
+    "predict_y_values": [
+        "log"
+    ],
+    "accuracy": [],
+    "valid_input": [
+        "input_type",
+        "condition"
+    ],
+    "collect_dataset": [
+        "load_iris",
+        "load_iris"
+    ],
+    "run_steep_gradient_descent": [],
+    "sum_of_square_error": [],
+    "run_linear_regression": [
+        "run_steep_gradient_descent",
+        "sum_of_square_error"
+    ],
+    "mean_absolute_error": [],
+    "sigmoid_function": [],
+    "cost_function": [],
+    "log_likelihood": [],
+    "logistic_reg": [
+        "sigmoid_function",
+        "sigmoid_function",
+        "cost_function"
+    ],
+    "predict_prob": [
+        "sigmoid_function"
+    ],
+    "binary_cross_entropy": [],
+    "binary_focal_cross_entropy": [],
+    "categorical_cross_entropy": [],
+    "categorical_focal_cross_entropy": [],
+    "hinge_loss": [],
+    "huber_loss": [],
+    "mean_squared_logarithmic_error": [],
+    "mean_absolute_percentage_error": [],
+    "perplexity_loss": [],
+    "smooth_l1_loss": [],
+    "kullback_leibler_divergence": [],
+    "mfcc": [
+        "normalize",
+        "audio_frames",
+        "get_window",
+        "calculate_fft",
+        "calculate_signal_power",
+        "mel_spaced_filterbank",
+        "discrete_cosine_transform"
+    ],
+    "audio_frames": [],
+    "calculate_fft": [],
+    "calculate_signal_power": [],
+    "freq_to_mel": [],
+    "mel_to_freq": [],
+    "mel_spaced_filterbank": [
+        "get_filter_points",
+        "get_filters"
+    ],
+    "get_filters": [],
+    "get_filter_points": [
+        "freq_to_mel",
+        "freq_to_mel",
+        "mel_to_freq"
+    ],
+    "discrete_cosine_transform": [],
+    "example": [
+        "mfcc",
+        "BPNN",
+        "DenseLayer",
+        "TwoHiddenLayerNeuralNetwork"
+    ],
+    "wrapper": [],
+    "_design_matrix": [],
+    "apply_pca": [
+        "StandardScaler",
+        "PCA"
+    ],
+    "mae": [],
+    "mse": [],
+    "rmse": [],
+    "rmsle": [],
+    "mbd": [],
+    "manual_accuracy": [],
+    "get_winner": [],
+    "_check_obey_kkt": [],
+    "_k": [],
+    "_e": [],
+    "_calculate_k_matrix": [],
+    "_predict": [
+        "k"
+    ],
+    "_choose_alphas": [],
+    "_choose_a1": [],
+    "_choose_a2": [],
+    "_get_new_alpha": [
+        "k",
+        "k",
+        "k",
+        "k",
+        "k",
+        "k",
+        "k",
+        "k",
+        "k",
+        "k",
+        "k",
+        "k",
+        "k"
+    ],
+    "_norm": [],
+    "_is_unbound": [],
+    "_is_support": [],
+    "unbound": [],
+    "support": [],
+    "length": [],
+    "_polynomial": [],
+    "_linear": [],
+    "_rbf": [],
+    "_check": [],
+    "_get_kernel": [],
+    "__call__": [],
+    "count_time": [],
+    "call_func": [
+        "func"
+    ],
+    "test_cancer_data": [
+        "Kernel",
+        "SmoSVM"
+    ],
+    "test_demonstration": [
+        "test_linear_kernel",
+        "test_linear_kernel",
+        "test_rbf_kernel",
+        "test_rbf_kernel"
+    ],
+    "test_linear_kernel": [
+        "make_blobs",
+        "StandardScaler",
+        "Kernel",
+        "SmoSVM",
+        "plot_partition_boundary"
+    ],
+    "test_rbf_kernel": [
+        "make_circles",
+        "StandardScaler",
+        "Kernel",
+        "SmoSVM",
+        "plot_partition_boundary"
+    ],
+    "plot_partition_boundary": [],
+    "similarity_search": [
+        "euclidean",
+        "euclidean"
+    ],
+    "cosine_similarity": [
+        "norm",
+        "norm"
+    ],
+    "norm_squared": [],
+    "__linear": [],
+    "__rbf": [
+        "norm_squared"
+    ],
+    "to_minimize": [],
+    "compute_pairwise_affinities": [],
+    "compute_low_dim_affinities": [],
+    "apply_tsne": [
+        "compute_pairwise_affinities",
+        "compute_low_dim_affinities"
+    ],
+    "term_frequency": [],
+    "document_frequency": [],
+    "inverse_document_frequency": [
+        "log10",
+        "log10"
+    ],
+    "tf_idf": [],
+    "data_handling": [],
+    "xgboost": [
+        "XGBClassifier",
+        "XGBRegressor"
+    ],
+    "linear_regression_prediction": [],
+    "sarimax_predictor": [
+        "simplefilter",
+        "SARIMAX"
+    ],
+    "support_vector_regressor": [
+        "SVR"
+    ],
+    "interquartile_range_checker": [],
+    "data_safety_checker": [],
+    "weight_matrix": [],
+    "local_weight": [
+        "weight_matrix"
+    ],
+    "local_weight_regression": [
+        "local_weight"
+    ],
+    "plot_preds": [],
+    "abs_val": [],
+    "abs_min": [
+        "abs_val",
+        "abs_val"
+    ],
+    "abs_max": [],
+    "abs_max_sort": [],
+    "test_abs_val": [
+        "abs_val",
+        "abs_val",
+        "abs_val",
+        "abs_max",
+        "abs_max_sort",
+        "abs_min"
+    ],
+    "aliquot_sum": [],
+    "allocation_num": [],
+    "arc_length": [],
+    "surface_area_cube": [],
+    "surface_area_cuboid": [],
+    "surface_area_sphere": [],
+    "surface_area_hemisphere": [],
+    "surface_area_cone": [],
+    "surface_area_conical_frustum": [],
+    "surface_area_cylinder": [],
+    "surface_area_torus": [],
+    "area_rectangle": [],
+    "area_square": [],
+    "area_triangle": [],
+    "area_triangle_three_sides": [
+        "sqrt"
+    ],
+    "area_parallelogram": [],
+    "area_trapezium": [],
+    "area_circle": [],
+    "area_ellipse": [],
+    "area_rhombus": [],
+    "area_reg_polygon": [
+        "tan",
+        "tan"
+    ],
+    "trapezoidal_area": [
+        "fnc",
+        "fnc",
+        "fnc",
+        "fnc"
+    ],
+    "f": [
+        "exp"
+    ],
+    "average_absolute_deviation": [],
+    "mean": [],
+    "median": [
+        "quick_select",
+        "quick_select",
+        "quick_select"
+    ],
+    "mode": [],
+    "bailey_borwein_plouffe": [
+        "_subsum",
+        "_subsum",
+        "_subsum",
+        "_subsum"
+    ],
+    "_subsum": [],
+    "decimal_to_negative_base_2": [],
+    "prime_factors": [],
+    "number_of_divisors": [],
+    "sum_of_divisors": [
+        "sqrt",
+        "sqrt",
+        "sqrt"
+    ],
+    "euler_phi": [
+        "prime_factors"
+    ],
+    "binary_exp_recursive": [
+        "binary_exp_recursive",
+        "binary_exp_recursive"
+    ],
+    "binary_exp_iterative": [],
+    "binary_exp_mod_recursive": [
+        "binary_exp_mod_recursive",
+        "binary_exp_mod_recursive"
+    ],
+    "binary_exp_mod_iterative": [],
+    "binary_multiply": [],
+    "binary_mod_multiply": [],
+    "binomial_distribution": [
+        "factorial",
+        "factorial",
+        "factorial"
+    ],
+    "chebyshev_distance": [],
+    "check_polygon": [],
+    "extended_euclid": [
+        "extended_euclid",
+        "extended_euclid"
+    ],
+    "chinese_remainder_theorem": [
+        "extended_euclid"
+    ],
+    "invert_modulo": [
+        "extended_euclid",
+        "extended_euclid"
+    ],
+    "chinese_remainder_theorem2": [
+        "invert_modulo",
+        "invert_modulo"
+    ],
+    "pi": [
+        "getcontext",
+        "ceil",
+        "Decimal",
+        "Decimal",
+        "factorial",
+        "factorial",
+        "factorial",
+        "Decimal"
+    ],
+    "collatz_sequence": [],
+    "combinations": [
+        "factorial",
+        "factorial",
+        "factorial"
+    ],
+    "continued_fraction": [
+        "floor"
+    ],
+    "decimal_isolate": [],
+    "decimal_to_fraction": [],
+    "dodecahedron_surface_area": [],
+    "dodecahedron_volume": [],
+    "double_factorial_recursive": [
+        "double_factorial_recursive"
+    ],
+    "double_factorial_iterative": [],
+    "reduce": [
+        "Dual"
+    ],
+    "__floordiv__": [
+        "Dual"
+    ],
+    "differentiate": [
+        "Dual",
+        "func",
+        "factorial"
+    ],
+    "calculate_prob": [
+        "analyze_text"
+    ],
+    "analyze_text": [
+        "Counter",
+        "Counter"
+    ],
+    "euclidean_distance": [],
+    "euclidean_distance_no_np": [],
+    "totient": [],
+    "explicit_euler": [
+        "ode_func"
+    ],
+    "euler_modified": [
+        "ode_func",
+        "ode_func",
+        "ode_func"
+    ],
+    "extended_euclidean_algorithm": [],
+    "factorial_recursive": [
+        "factorial_recursive"
+    ],
+    "factors_of_a_number": [
+        "sqrt"
+    ],
+    "fast_inverse_sqrt": [],
+    "binary_exponentiation": [
+        "binary_exponentiation",
+        "binary_exponentiation"
+    ],
+    "time_func": [
+        "time",
+        "func",
+        "time"
+    ],
+    "fib_iterative_yield": [],
+    "fib_iterative": [],
+    "fib_recursive": [
+        "fib_recursive_term"
+    ],
+    "fib_recursive_term": [
+        "fib_recursive_term",
+        "fib_recursive_term"
+    ],
+    "fib_recursive_cached": [
+        "fib_recursive_term"
+    ],
+    "fib_memoization": [
+        "rec_fn_memoized"
+    ],
+    "rec_fn_memoized": [
+        "rec_fn_memoized",
+        "rec_fn_memoized"
+    ],
+    "fib_binet": [
+        "sqrt"
+    ],
+    "matrix_pow_np": [],
+    "fib_matrix_np": [
+        "matrix_pow_np"
+    ],
+    "find_max_iterative": [],
+    "find_max_recursive": [
+        "find_max_recursive",
+        "find_max_recursive"
+    ],
+    "find_min_iterative": [],
+    "find_min_recursive": [
+        "find_min_recursive",
+        "find_min_recursive"
+    ],
+    "gamma_iterative": [
+        "quad"
+    ],
+    "integrand": [],
+    "gamma_recursive": [
+        "gamma_recursive"
+    ],
+    "gaussian": [
+        "sqrt",
+        "exp"
+    ],
+    "get_factors": [
+        "Counter",
+        "Counter",
+        "get_factors",
+        "get_factors"
+    ],
+    "get_greatest_common_divisor": [],
+    "compute_geometric_mean": [],
+    "is_germain_prime": [
+        "is_prime",
+        "is_prime"
+    ],
+    "is_safe_prime": [
+        "is_prime",
+        "is_prime"
+    ],
+    "greatest_common_divisor": [
+        "greatest_common_divisor"
+    ],
+    "gcd_by_iterative": [],
+    "exact_prime_factor_count": [],
+    "integer_square_root": [],
+    "find_median": [],
+    "interquartile_range": [
+        "find_median",
+        "find_median"
+    ],
+    "is_int_palindrome": [],
+    "is_ip_v4_address_valid": [],
+    "is_square_free": [],
+    "jaccard_similarity": [],
+    "joint_probability_distribution": [],
+    "expectation": [],
+    "variance": [
+        "expectation"
+    ],
+    "covariance": [
+        "expectation",
+        "expectation"
+    ],
+    "standard_deviation": [],
+    "josephus_recursive": [
+        "josephus_recursive"
+    ],
+    "find_winner": [
+        "josephus_recursive"
+    ],
+    "josephus_iterative": [],
+    "juggler_sequence": [],
+    "karatsuba": [
+        "karatsuba",
+        "karatsuba",
+        "karatsuba"
+    ],
+    "kth_permutation": [],
+    "res": [],
+    "least_common_multiple_slow": [],
+    "least_common_multiple_fast": [
+        "greatest_common_divisor"
+    ],
+    "test_lcm_function": [
+        "least_common_multiple_slow",
+        "least_common_multiple_fast"
+    ],
+    "line_length": [
+        "fnc",
+        "fnc"
+    ],
+    "liouville_lambda": [
+        "prime_factors"
+    ],
+    "lucas_lehmer_test": [],
+    "recursive_lucas_number": [
+        "recursive_lucas_number",
+        "recursive_lucas_number"
+    ],
+    "dynamic_lucas_number": [],
+    "maclaurin_sin": [
+        "factorial"
+    ],
+    "maclaurin_cos": [
+        "factorial"
+    ],
+    "manhattan_distance": [
+        "_validate_point",
+        "_validate_point"
+    ],
+    "_validate_point": [],
+    "manhattan_distance_one_liner": [
+        "_validate_point",
+        "_validate_point"
+    ],
+    "modular_exponentiation": [
+        "Matrix"
+    ],
+    "fibonacci_with_matrix_exponentiation": [
+        "Matrix",
+        "modular_exponentiation"
+    ],
+    "simple_fibonacci": [],
+    "matrix_exponentiation_time": [],
+    "simple_fibonacci_time": [],
+    "max_sum_in_array": [],
+    "minkowski_distance": [],
+    "mobius": [
+        "prime_factors",
+        "is_square_free"
+    ],
+    "modular_division": [
+        "greatest_common_divisor",
+        "extended_gcd"
+    ],
+    "modular_division2": [
+        "invert_modulo"
+    ],
+    "modular_exponential": [],
+    "pi_estimator": [
+        "mean",
+        "is_in_circle",
+        "uniform",
+        "uniform"
+    ],
+    "is_in_circle": [
+        "sqrt"
+    ],
+    "area_under_curve_estimator": [
+        "mean",
+        "function_to_integrate",
+        "uniform"
+    ],
+    "area_under_line_estimator_check": [
+        "area_under_curve_estimator"
+    ],
+    "identity_function": [],
+    "pi_estimator_using_area_under_curve": [
+        "area_under_curve_estimator"
+    ],
+    "function_to_integrate": [
+        "sqrt"
+    ],
+    "roll": [],
+    "throw_dice": [
+        "Dice"
+    ],
+    "num_digits": [],
+    "num_digits_fast": [],
+    "num_digits_faster": [],
+    "benchmark_a_function": [
+        "timeit",
+        "func",
+        "timeit",
+        "func",
+        "timeit"
+    ],
+    "odd_sieve": [
+        "sqrt",
+        "repeat",
+        "ceil",
+        "compress"
+    ],
+    "perfect_cube": [],
+    "perfect_cube_binary_search": [],
+    "perfect": [],
+    "perfect_square": [],
+    "perfect_square_binary_search": [],
+    "multiplicative_persistence": [],
+    "additive_persistence": [],
+    "calculate_pi": [],
+    "is_in_unit_circle": [],
+    "random_unit_square": [
+        "cls"
+    ],
+    "estimate_pi": [],
+    "create_vector": [],
+    "get_3d_vectors_cross": [],
+    "is_zero_vector": [],
+    "are_collinear": [
+        "create_vector",
+        "create_vector",
+        "is_zero_vector",
+        "get_3d_vectors_cross"
+    ],
+    "pollard_rho": [
+        "rand_fn",
+        "rand_fn",
+        "rand_fn",
+        "gcd"
+    ],
+    "rand_fn": [],
+    "evaluate_poly": [],
+    "horner": [],
+    "sieve_er": [],
+    "get_prime_numbers": [
+        "is_prime"
+    ],
+    "prime_factorization": [
+        "is_prime",
+        "is_prime"
+    ],
+    "greatest_prime_factor": [
+        "prime_factorization"
+    ],
+    "smallest_prime_factor": [
+        "prime_factorization"
+    ],
+    "is_odd": [],
+    "goldbach": [
+        "is_even",
+        "get_prime_numbers",
+        "is_prime",
+        "is_prime"
+    ],
+    "kg_v": [
+        "prime_factorization",
+        "prime_factorization"
+    ],
+    "get_prime": [
+        "is_prime",
+        "is_prime"
+    ],
+    "get_primes_between": [
+        "is_prime",
+        "is_prime",
+        "is_prime",
+        "is_prime"
+    ],
+    "get_divisors": [],
+    "is_perfect_number": [
+        "get_divisors"
+    ],
+    "simplify_fraction": [
+        "gcd_by_iterative"
+    ],
+    "fib": [],
+    "test_primes": [
+        "is_prime",
+        "is_prime",
+        "is_prime",
+        "is_prime",
+        "is_prime",
+        "is_prime",
+        "is_prime",
+        "is_prime",
+        "is_prime",
+        "is_prime"
+    ],
+    "test_not_primes": [
+        "is_prime",
+        "is_prime",
+        "is_prime",
+        "is_prime",
+        "is_prime",
+        "is_prime",
+        "is_prime",
+        "is_prime"
+    ],
+    "unique_prime_factors": [],
+    "slow_primes": [],
+    "primes": [],
+    "fast_primes": [],
+    "prime_sieve_eratosthenes": [],
+    "multiplication_table": [],
+    "qr_householder": [],
+    "quadratic_roots": [
+        "sqrt",
+        "sqrt"
+    ],
+    "radians": [],
+    "__dft": [],
+    "__multiply": [],
+    "remove_digit": [],
+    "sieve": [],
+    "prime_sieve": [],
+    "sigmoid": [],
+    "signum": [],
+    "test_signum": [
+        "signum",
+        "signum",
+        "signum",
+        "signum",
+        "signum",
+        "signum",
+        "signum",
+        "signum",
+        "signum"
+    ],
+    "simplify": [
+        "simplify"
+    ],
+    "solve_simultaneous": [
+        "simplify"
+    ],
+    "sin": [
+        "radians",
+        "factorial"
+    ],
+    "sock_merchant": [
+        "Counter"
+    ],
+    "softmax": [],
+    "jacobi_symbol": [],
+    "solovay_strassen": [
+        "jacobi_symbol"
+    ],
+    "assign_ranks": [],
+    "calculate_spearman_rank_correlation": [
+        "assign_ranks",
+        "assign_ranks"
+    ],
+    "sumset": [],
+    "sum_of_series": [],
+    "sum_of_digits": [
+        "int_to_base",
+        "int_to_base"
+    ],
+    "sum_of_digits_recursion": [
+        "sum_of_digits"
+    ],
+    "sum_of_digits_compact": [],
+    "sum_of_geometric_progression": [],
+    "sum_of_harmonic_progression": [],
+    "sylvester": [
+        "sylvester"
+    ],
+    "tangent_hyperbolic": [],
+    "test_zero": [
+        "function"
+    ],
+    "test_positive_integers": [
+        "function",
+        "function",
+        "function"
+    ],
+    "test_large_number": [
+        "function"
+    ],
+    "test_negative_number": [
+        "function"
+    ],
+    "test_float_number": [
+        "function"
+    ],
+    "three_sum": [],
+    "trapezoidal_rule": [
+        "make_points",
+        "f",
+        "f",
+        "f"
+    ],
+    "make_points": [],
+    "make_dataset": [
+        "randint",
+        "randint"
+    ],
+    "triplet_sum1": [
+        "permutations"
+    ],
+    "triplet_sum2": [],
+    "solution_times": [
+        "repeat",
+        "repeat"
+    ],
+    "twin_prime": [
+        "is_prime",
+        "is_prime"
+    ],
+    "two_pointer": [],
+    "two_sum": [],
+    "vol_cube": [],
+    "vol_spherical_cap": [],
+    "vol_spheres_intersect": [
+        "vol_sphere",
+        "vol_spherical_cap",
+        "vol_spherical_cap"
+    ],
+    "vol_spheres_union": [
+        "vol_sphere",
+        "vol_sphere",
+        "vol_sphere",
+        "vol_spheres_intersect"
+    ],
+    "vol_cuboid": [],
+    "vol_cone": [],
+    "vol_right_circ_cone": [],
+    "vol_prism": [],
+    "vol_pyramid": [],
+    "vol_sphere": [],
+    "vol_hemisphere": [],
+    "vol_circular_cylinder": [],
+    "vol_hollow_circular_cylinder": [],
+    "vol_conical_frustum": [],
+    "vol_torus": [],
+    "vol_icosahedron": [],
+    "zeller": [],
+    "step_2": [],
+    "step_3": [],
+    "step_4": [],
+    "step_5": [],
+    "bisection": [
+        "function",
+        "function",
+        "function",
+        "function",
+        "function",
+        "function",
+        "function",
+        "equation",
+        "equation",
+        "equation",
+        "equation",
+        "equation"
+    ],
+    "equation": [],
+    "simpson_integration": [
+        "function",
+        "function",
+        "function",
+        "function"
+    ],
+    "neville_interpolate": [],
+    "ucal": [],
+    "calc_derivative": [
+        "f",
+        "f"
+    ],
+    "newton_raphson": [
+        "f",
+        "f_derivative",
+        "f",
+        "f_derivative"
+    ],
+    "f_derivative": [
+        "calc_derivative"
+    ],
+    "func": [
+        "tanh",
+        "exp"
+    ],
+    "proper_fractions": [
+        "gcd"
+    ],
+    "runge_kutta": [
+        "f",
+        "f",
+        "f",
+        "f"
+    ],
+    "runge_kutta_fehlberg_45": [
+        "func",
+        "func",
+        "func",
+        "func",
+        "func",
+        "func"
+    ],
+    "runge_kutta_gills": [
+        "func",
+        "func",
+        "func",
+        "sqrt",
+        "sqrt",
+        "func",
+        "sqrt",
+        "sqrt",
+        "sqrt",
+        "sqrt"
+    ],
+    "secant_method": [
+        "f",
+        "f",
+        "f"
+    ],
+    "method_2": [
+        "make_points",
+        "f",
+        "f",
+        "f"
+    ],
+    "fx": [],
+    "fx_derivative": [],
+    "get_initial_point": [],
+    "square_root_iterative": [
+        "get_initial_point",
+        "fx",
+        "fx_derivative"
+    ],
+    "weierstrass_method": [
+        "polynomial"
+    ],
+    "__neg__": [
+        "Polynomial",
+        "Matrix"
+    ],
+    "integral": [
+        "Polynomial"
+    ],
+    "is_arithmetic_series": [],
+    "arithmetic_mean": [],
+    "is_geometric_series": [],
+    "geometric_mean": [],
+    "geometric_series": [],
+    "is_harmonic_series": [],
+    "harmonic_mean": [],
+    "harmonic_series": [],
+    "hexagonal_numbers": [],
+    "p_series": [],
+    "armstrong_number": [],
+    "pluperfect_number": [],
+    "narcissistic_number": [],
+    "is_automorphic_number": [],
+    "bell_numbers": [
+        "_binomial_coefficient"
+    ],
+    "_binomial_coefficient": [],
+    "is_carmichael_number": [
+        "power",
+        "greatest_common_divisor"
+    ],
+    "catalan": [],
+    "hamming": [],
+    "is_happy_number": [],
+    "int_to_base": [],
+    "harshad_numbers_in_base": [
+        "int_to_base",
+        "sum_of_digits"
+    ],
+    "is_harshad_number_in_base": [
+        "int_to_base",
+        "sum_of_digits"
+    ],
+    "hexagonal": [],
+    "krishnamurthy": [
+        "factorial"
+    ],
+    "polygonal_num": [],
+    "is_pronic": [],
+    "proth": [],
+    "is_proth_number": [],
+    "triangular_number": [],
+    "ugly_numbers": [],
+    "factors": [
+        "sqrt"
+    ],
+    "abundant": [
+        "factors"
+    ],
+    "semi_perfect": [
+        "factors"
+    ],
+    "weird": [
+        "abundant",
+        "semi_perfect"
+    ],
+    "binary_search": [
+        "binary_search",
+        "binary_search",
+        "binary_search",
+        "binary_search",
+        "binary_search",
+        "binary_search"
+    ],
+    "mat_bin_search": [
+        "binary_search"
+    ],
+    "diffs": [],
+    "count_islands": [],
+    "generate_large_matrix": [],
+    "validate_grid": [],
+    "find_negative_index": [],
+    "count_negatives_binary_search": [
+        "find_negative_index"
+    ],
+    "count_negatives_brute_force": [],
+    "count_negatives_brute_force_with_break": [],
+    "cramers_rule_2x2": [],
+    "inverse_of_matrix": [
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "d",
+        "array",
+        "array",
+        "d",
+        "d"
+    ],
+    "largest_square_area_in_matrix_top_down_approch": [
+        "update_area_of_max_square"
+    ],
+    "update_area_of_max_square": [
+        "update_area_of_max_square",
+        "update_area_of_max_square",
+        "update_area_of_max_square"
+    ],
+    "largest_square_area_in_matrix_top_down_approch_with_dp": [
+        "update_area_of_max_square_using_dp_array"
+    ],
+    "update_area_of_max_square_using_dp_array": [
+        "update_area_of_max_square_using_dp_array",
+        "update_area_of_max_square_using_dp_array",
+        "update_area_of_max_square_using_dp_array"
+    ],
+    "largest_square_area_in_matrix_bottom_up": [],
+    "largest_square_area_in_matrix_bottom_up_space_optimization": [],
+    "validate_matrix_size": [],
+    "validate_matrix_content": [],
+    "validate_moves": [],
+    "parse_moves": [],
+    "find_repeat": [
+        "dfs"
+    ],
+    "increment_score": [],
+    "move_x": [],
+    "move_y": [],
+    "play": [
+        "find_repeat",
+        "move_x",
+        "move_y",
+        "increment_score"
+    ],
+    "process_game": [
+        "play"
+    ],
+    "columns": [],
+    "num_rows": [],
+    "num_columns": [],
+    "order": [],
+    "is_square": [],
+    "identity": [
+        "Matrix"
+    ],
+    "is_invertable": [],
+    "get_minor": [
+        "Matrix"
+    ],
+    "get_cofactor": [],
+    "minors": [
+        "Matrix"
+    ],
+    "cofactors": [
+        "Matrix"
+    ],
+    "adjugate": [
+        "Matrix"
+    ],
+    "inverse": [
+        "determinant",
+        "determinant",
+        "minor",
+        "transpose",
+        "scalar_multiply"
+    ],
+    "add_row": [],
+    "add_column": [],
+    "dot_product": [],
+    "array_equalization": [],
+    "matrix_multiply": [],
+    "matrix_multiply_recursive": [
+        "is_square",
+        "is_square",
+        "multiply"
+    ],
+    "multiply": [
+        "multiply",
+        "multiply",
+        "multiply",
+        "_check_not_integer",
+        "_check_not_integer",
+        "_verify_matrix_sizes",
+        "multiply"
+    ],
+    "subtract": [
+        "_check_not_integer",
+        "_check_not_integer",
+        "_verify_matrix_sizes"
+    ],
+    "scalar_multiply": [],
+    "transpose": [
+        "_check_not_integer",
+        "Matrix"
+    ],
+    "_check_not_integer": [],
+    "_shape": [],
+    "_verify_matrix_sizes": [
+        "_shape",
+        "_shape"
+    ],
+    "find_max_area": [
+        "depth_first_search"
+    ],
+    "nth_fibonacci_matrix": [
+        "identity",
+        "multiply",
+        "multiply"
+    ],
+    "nth_fibonacci_bruteforce": [],
+    "print_pascal_triangle": [
+        "generate_pascal_triangle"
+    ],
+    "generate_pascal_triangle": [
+        "populate_current_row"
+    ],
+    "populate_current_row": [
+        "calculate_current_element"
+    ],
+    "calculate_current_element": [],
+    "generate_pascal_triangle_optimized": [],
+    "make_matrix": [],
+    "rotate_90": [
+        "reverse_row",
+        "transpose"
+    ],
+    "rotate_180": [
+        "reverse_row",
+        "reverse_column"
+    ],
+    "rotate_270": [
+        "reverse_column",
+        "transpose"
+    ],
+    "reverse_row": [],
+    "reverse_column": [],
+    "search_in_a_sorted_matrix": [],
+    "single_line": [],
+    "validate_indices": [],
+    "sherman_morrison": [],
+    "test1": [
+        "Matrix",
+        "Matrix",
+        "Matrix"
+    ],
+    "test2": [],
+    "check_matrix": [],
+    "spiral_print_clockwise": [
+        "check_matrix",
+        "spiral_print_clockwise"
+    ],
+    "spiral_traversal": [
+        "spiral_traversal"
+    ],
+    "is_valid_sudoku_board": [
+        "defaultdict",
+        "defaultdict",
+        "defaultdict"
+    ],
+    "test_addition": [],
+    "test_subtraction": [],
+    "test_multiplication": [],
+    "test_scalar_multiply": [],
+    "test_identity": [],
+    "test_transpose": [],
+    "ford_fulkerson": [
+        "breadth_first_search"
+    ],
+    "mincut": [
+        "bfs"
+    ],
+    "initializer": [],
+    "cal_gradient": [],
+    "forward_propagation": [
+        "sigmoid_function",
+        "sigmoid_function"
+    ],
+    "back_propagation": [
+        "sigmoid_derivative",
+        "sigmoid_derivative",
+        "sigmoid_derivative",
+        "sigmoid_derivative",
+        "sigmoid_derivative",
+        "sigmoid_derivative"
+    ],
+    "add_layer": [],
+    "summary": [],
+    "cal_loss": [],
+    "plot_loss": [],
+    "save_model": [],
+    "read_model": [
+        "CNN"
+    ],
+    "sig": [],
+    "do_round": [],
+    "convolute": [],
+    "pooling": [],
+    "_expand": [],
+    "_expand_mat": [],
+    "_calculate_gradient_from_pool": [],
+    "draw_error": [],
+    "convolution": [],
+    "_read32": [],
+    "_extract_images": [
+        "_read32",
+        "_read32",
+        "_read32",
+        "_read32",
+        "deprecated"
+    ],
+    "_dense_to_one_hot": [
+        "deprecated"
+    ],
+    "_extract_labels": [
+        "_read32",
+        "_read32",
+        "_dense_to_one_hot",
+        "deprecated"
+    ],
+    "images": [],
+    "labels": [],
+    "num_examples": [],
+    "epochs_completed": [],
+    "next_batch": [],
+    "_maybe_download": [
+        "deprecated"
+    ],
+    "read_data_sets": [
+        "fake",
+        "fake",
+        "fake",
+        "_Datasets",
+        "_maybe_download",
+        "_extract_images",
+        "_maybe_download",
+        "_extract_labels",
+        "_maybe_download",
+        "_extract_images",
+        "_maybe_download",
+        "_extract_labels",
+        "_DataSet",
+        "_DataSet",
+        "_DataSet",
+        "_Datasets",
+        "deprecated"
+    ],
+    "fake": [
+        "_DataSet"
+    ],
+    "feedforward": [
+        "sigmoid",
+        "sigmoid",
+        "sigmoid"
+    ],
+    "sigmoid_derivative": [],
+    "binary_step": [],
+    "exponential_linear_unit": [],
+    "gaussian_error_linear_unit": [
+        "sigmoid"
+    ],
+    "leaky_rectified_linear_unit": [],
+    "mish": [
+        "softplus"
+    ],
+    "relu": [],
+    "scaled_exponential_linear_unit": [],
+    "soboleva_modified_hyperbolic_tangent": [],
+    "softplus": [],
+    "squareplus": [],
+    "sigmoid_linear_unit": [
+        "sigmoid"
+    ],
+    "swish": [
+        "sigmoid"
+    ],
+    "print_max_activities": [],
+    "alternative_list_arrange": [],
+    "__processes_resource_summation": [],
+    "__available_resources": [],
+    "__need": [],
+    "__need_index_manager": [],
+    "__pretty_data": [],
+    "generate_clause": [
+        "Clause"
+    ],
+    "generate_formula": [
+        "generate_clause",
+        "Formula"
+    ],
+    "generate_parameters": [],
+    "find_pure_symbols": [],
+    "find_unit_clauses": [],
+    "dpll_algorithm": [
+        "find_pure_symbols",
+        "dpll_algorithm",
+        "find_unit_clauses",
+        "dpll_algorithm",
+        "dpll_algorithm",
+        "dpll_algorithm"
+    ],
+    "get_week_day": [],
+    "fisher_yates_shuffle": [],
+    "gauss_easter": [
+        "datetime",
+        "datetime",
+        "datetime",
+        "timedelta"
+    ],
+    "angle_comparer": [
+        "degrees",
+        "atan2"
+    ],
+    "check_direction": [
+        "degrees",
+        "atan2",
+        "degrees",
+        "atan2"
+    ],
+    "graham_scan": [
+        "angle_comparer",
+        "deque",
+        "check_direction"
+    ],
+    "get_name": [],
+    "get_weight": [],
+    "value_weight": [],
+    "build_menu": [
+        "Things"
+    ],
+    "greedy": [],
+    "test_greedy": [],
+    "temp_input_value": [],
+    "get_avg": [],
+    "guess_the_number": [
+        "get_avg",
+        "answer",
+        "answer"
+    ],
+    "answer": [],
+    "h_index": [],
+    "next_number": [],
+    "floyd": [],
+    "reverse_floyd": [],
+    "pretty_print": [
+        "floyd",
+        "reverse_floyd"
+    ],
+    "majority_vote": [
+        "Counter",
+        "Counter",
+        "Counter"
+    ],
+    "max_subsequence_sum": [],
+    "is_balanced": [],
+    "binary_search_delete": [],
+    "binary_search_insert": [],
+    "change": [],
+    "password_generator": [],
+    "alternative_password_generator": [
+        "random",
+        "random",
+        "random",
+        "shuffle"
+    ],
+    "random": [],
+    "is_strong_password": [],
+    "calculate_each_score": [],
+    "generate_final_scores": [],
+    "procentual_proximity": [
+        "get_data",
+        "calculate_each_score",
+        "generate_final_scores"
+    ],
+    "apply_table": [],
+    "left_shift": [],
+    "xor": [],
+    "apply_sbox": [],
+    "function": [
+        "apply_table",
+        "xor",
+        "apply_sbox",
+        "apply_sbox",
+        "apply_table",
+        "xor"
+    ],
+    "move_tower": [
+        "move_tower",
+        "move_disk",
+        "move_tower"
+    ],
+    "move_disk": [],
+    "insert_north": [],
+    "insert_northeast": [],
+    "insert_east": [],
+    "insert_southeast": [],
+    "insert_south": [],
+    "insert_southwest": [],
+    "insert_west": [],
+    "insert_northwest": [],
+    "generate_board": [
+        "shuffle",
+        "shuffle",
+        "choice"
+    ],
+    "visualise_word_search": [
+        "WordSearch",
+        "randint"
+    ],
+    "get_altitude_at_pressure": [],
+    "archimedes_principle": [],
+    "capture_radii": [
+        "sqrt"
+    ],
+    "capture_area": [],
+    "casimir_force": [],
+    "center_of_mass": [
+        "Coord3D"
+    ],
+    "centripetal": [],
+    "coulombs_law": [],
+    "doppler_effect": [],
+    "escape_velocity": [],
+    "validate": [
+        "is_prime",
+        "is_prime"
+    ],
+    "effusion_ratio": [
+        "validate",
+        "sqrt"
+    ],
+    "first_effusion_rate": [
+        "validate",
+        "sqrt"
+    ],
+    "second_effusion_rate": [
+        "validate",
+        "sqrt"
+    ],
+    "first_molar_mass": [
+        "validate"
+    ],
+    "second_molar_mass": [
+        "validate"
+    ],
+    "check_args": [],
+    "horizontal_distance": [
+        "check_args",
+        "deg_to_rad",
+        "sin"
+    ],
+    "max_height": [
+        "check_args",
+        "deg_to_rad",
+        "sin"
+    ],
+    "total_time": [
+        "check_args",
+        "deg_to_rad",
+        "sin"
+    ],
+    "test_motion": [
+        "horizontal_distance",
+        "max_height",
+        "total_time"
+    ],
+    "hubble_parameter": [],
+    "pressure_of_gas_system": [],
+    "volume_of_gas_system": [],
+    "temperature_of_gas_system": [],
+    "moles_of_gas_system": [],
+    "polar_force": [
+        "cos",
+        "sin",
+        "cos",
+        "radians",
+        "sin",
+        "radians"
+    ],
+    "in_static_equilibrium": [
+        "cross"
+    ],
+    "kinetic_energy": [],
+    "focal_length_of_lens": [],
+    "object_distance": [],
+    "image_distance": [],
+    "beta": [],
+    "gamma": [
+        "sqrt",
+        "beta"
+    ],
+    "transformation_matrix": [
+        "gamma",
+        "gamma",
+        "beta",
+        "gamma",
+        "beta",
+        "gamma"
+    ],
+    "malus_law": [],
+    "energy_from_mass": [],
+    "mass_from_energy": [],
+    "focal_length": [],
+    "gravitational_law": [],
+    "newtons_second_law_of_motion": [],
+    "position": [],
+    "velocity": [],
+    "update_velocity": [],
+    "update_position": [],
+    "update_system": [],
+    "update_step": [],
+    "example_1": [
+        "Body",
+        "Body",
+        "Body",
+        "BodySystem"
+    ],
+    "example_2": [
+        "Body",
+        "Body",
+        "BodySystem"
+    ],
+    "example_3": [
+        "Body",
+        "Body",
+        "BodySystem"
+    ],
+    "orbital_transfer_work": [],
+    "period_of_pendulum": [],
+    "maximum_kinetic_energy": [],
+    "potential_energy": [],
+    "rainfall_intensity": [],
+    "reynolds_number": [],
+    "rms_speed_of_molecule": [],
+    "shear_stress": [],
+    "avg_speed_of_molecule": [],
+    "mps_speed_of_molecule": [],
+    "speed_of_sound_in_a_fluid": [],
+    "terminal_velocity": [],
+    "solution": [
+        "getcontext",
+        "Decimal",
+        "Decimal",
+        "Decimal",
+        "Decimal",
+        "Decimal",
+        "is_prime",
+        "is_prime",
+        "is_prime",
+        "is_prime",
+        "lcm",
+        "is_prime",
+        "is_prime",
+        "is_prime",
+        "prime_generator",
+        "reduce",
+        "str_eval",
+        "get_squares",
+        "is_prime",
+        "takewhile",
+        "prime_generator",
+        "largest_product",
+        "count_divisors",
+        "triangle_number_generator",
+        "count_divisors",
+        "collatz_sequence_length",
+        "factorial",
+        "factorial",
+        "factorial",
+        "factorial",
+        "split_and_add",
+        "factorial",
+        "factorial",
+        "sum_of_divisors",
+        "sum_of_divisors",
+        "sum_of_divisors",
+        "permutations",
+        "fibonacci_digits_index",
+        "fibonacci_generator",
+        "is_prime",
+        "is_prime",
+        "ceil",
+        "digits_fifth_powers_sum",
+        "two_pound",
+        "is_combination_valid",
+        "fraction_list",
+        "Fraction",
+        "factorial",
+        "sum_of_digit_factorial",
+        "find_circular_primes",
+        "is_palindrome",
+        "is_palindrome",
+        "compute_truncated_primes",
+        "is_9_pandigital",
+        "is_9_pandigital",
+        "pythagorean_triple",
+        "permutations",
+        "is_prime",
+        "permutations",
+        "is_substring_divisible",
+        "is_pentagonal",
+        "is_pentagonal",
+        "hexagonal_num",
+        "is_pentagonal",
+        "hexagonal_num",
+        "compute_nums",
+        "run",
+        "is_prime",
+        "permutations",
+        "search",
+        "prime_sieve",
+        "prime_sieve",
+        "digit_replacements",
+        "combinations",
+        "PokerHand",
+        "PokerHand",
+        "sum_reverse",
+        "is_palindrome",
+        "is_prime",
+        "Path",
+        "filter_valid_chars",
+        "filter_common_word",
+        "defaultdict",
+        "get_digits",
+        "sqrt",
+        "floor",
+        "continuous_fraction_period",
+        "sum_digits",
+        "permutations",
+        "generate_gon_ring",
+        "is_magic_gon",
+        "get_totients",
+        "has_same_digits",
+        "gcd",
+        "chain_length",
+        "digit_factorial_sum",
+        "defaultdict",
+        "gcd",
+        "partition",
+        "Path",
+        "find_secret_passcode",
+        "ceil",
+        "sqrt",
+        "sqrt",
+        "floor",
+        "ceil",
+        "sqrt",
+        "parse_roman_numerals",
+        "generate_roman_numerals",
+        "combinations",
+        "product",
+        "is_right",
+        "chain",
+        "generate_primes",
+        "multiply",
+        "find_longest_chain",
+        "log10",
+        "log10",
+        "func",
+        "interpolate",
+        "func",
+        "poly",
+        "poly",
+        "Path",
+        "contains_origin",
+        "check1",
+        "check",
+        "Graph",
+        "combinations_with_replacement",
+        "check_bouncy",
+        "non_bouncy_upto",
+        "count",
+        "digit_sum",
+        "product",
+        "solve",
+        "sieve",
+        "is_palindrome",
+        "least_divisible_repunit",
+        "is_prime",
+        "next_point",
+        "reversible_numbers",
+        "solve",
+        "ceil",
+        "sqrt",
+        "defaultdict",
+        "ceil",
+        "sqrt",
+        "Fraction",
+        "gcd",
+        "add_three",
+        "is_sq",
+        "is_sq",
+        "sqrt",
+        "sqrt",
+        "gcd",
+        "add_three",
+        "gcd",
+        "add_three",
+        "is_sq",
+        "is_sq",
+        "sqrt",
+        "sqrt",
+        "gcd",
+        "add_three",
+        "Fraction",
+        "calculate_prime_numbers",
+        "_modexpt",
+        "_calculate",
+        "get_pascal_triangle_unique_coefficients",
+        "get_squarefrees",
+        "total_frequency_distribution",
+        "total_frequency_distribution",
+        "is_square_form",
+        "check_partition_perfect",
+        "prime_sieve",
+        "solve",
+        "next_term",
+        "count",
+        "concave_triangle_area",
+        "log_difference",
+        "log2",
+        "calculate_prime_numbers",
+        "log2",
+        "log2"
+    ],
+    "lcm": [
+        "greatest_common_divisor"
+    ],
+    "prime_generator": [
+        "is_prime",
+        "is_prime"
+    ],
+    "str_eval": [],
+    "solution_fast": [],
+    "get_squares": [],
+    "largest_product": [],
+    "count_divisors": [],
+    "triangle_number_generator": [],
+    "collatz_sequence_length": [
+        "collatz_sequence_length"
+    ],
+    "split_and_add": [],
+    "fibonacci_digits_index": [
+        "fibonacci"
+    ],
+    "fibonacci_generator": [],
+    "digits_fifth_powers_sum": [],
+    "one_pence": [],
+    "two_pence": [
+        "two_pence",
+        "one_pence"
+    ],
+    "five_pence": [
+        "five_pence",
+        "two_pence"
+    ],
+    "ten_pence": [
+        "ten_pence",
+        "five_pence"
+    ],
+    "twenty_pence": [
+        "twenty_pence",
+        "ten_pence"
+    ],
+    "fifty_pence": [
+        "fifty_pence",
+        "twenty_pence"
+    ],
+    "one_pound": [
+        "one_pound",
+        "fifty_pence"
+    ],
+    "two_pound": [
+        "two_pound",
+        "one_pound"
+    ],
+    "is_combination_valid": [],
+    "is_digit_cancelling": [],
+    "fraction_list": [
+        "is_digit_cancelling"
+    ],
+    "sum_of_digit_factorial": [],
+    "contains_an_even_digit": [],
+    "find_circular_primes": [
+        "is_prime",
+        "contains_an_even_digit",
+        "is_prime"
+    ],
+    "list_truncated_nums": [],
+    "compute_truncated_primes": [
+        "validate",
+        "list_truncated_nums",
+        "is_prime"
+    ],
+    "is_9_pandigital": [],
+    "pythagorean_triple": [
+        "Counter"
+    ],
+    "is_substring_divisible": [],
+    "is_pentagonal": [],
+    "hexagonal_num": [],
+    "compute_nums": [
+        "is_prime"
+    ],
+    "upf_len": [
+        "unique_prime_factors"
+    ],
+    "equality": [],
+    "digit_replacements": [
+        "Counter",
+        "Counter"
+    ],
+    "hand": [],
+    "compare_with": [],
+    "hand_name": [],
+    "_compare_cards": [],
+    "_get_hand_type": [],
+    "_is_flush": [],
+    "_is_five_high_straight": [],
+    "_is_straight": [],
+    "_is_same_kind": [],
+    "_internal_state": [],
+    "generate_random_hand": [
+        "randrange",
+        "randrange"
+    ],
+    "generate_random_hands": [
+        "generate_random_hand"
+    ],
+    "test_hand_is_flush": [
+        "PokerHand"
+    ],
+    "test_hand_is_straight": [
+        "PokerHand"
+    ],
+    "test_hand_is_five_high_straight": [
+        "PokerHand"
+    ],
+    "test_hand_is_same_kind": [
+        "PokerHand"
+    ],
+    "test_hand_values": [
+        "PokerHand"
+    ],
+    "test_compare_simple": [
+        "PokerHand",
+        "PokerHand"
+    ],
+    "test_compare_random": [
+        "PokerHand",
+        "PokerHand",
+        "generate_random_hands"
+    ],
+    "test_hand_sorted": [
+        "PokerHand",
+        "shuffle",
+        "chain"
+    ],
+    "test_custom_sort_five_high_straight": [
+        "PokerHand",
+        "PokerHand"
+    ],
+    "test_multiple_calls_five_high_straight": [
+        "PokerHand"
+    ],
+    "test_euler_project": [
+        "PokerHand",
+        "PokerHand"
+    ],
+    "sum_reverse": [],
+    "try_key": [
+        "cycle"
+    ],
+    "filter_valid_chars": [
+        "product",
+        "try_key"
+    ],
+    "filter_common_word": [],
+    "get_digits": [],
+    "continuous_fraction_period": [
+        "sqrt"
+    ],
+    "sum_digits": [],
+    "generate_gon_ring": [],
+    "is_magic_gon": [],
+    "get_totients": [],
+    "has_same_digits": [],
+    "sum_digit_factorials": [],
+    "chain_length": [
+        "sum_digit_factorials",
+        "chain_length"
+    ],
+    "digit_factorial_sum": [],
+    "find_secret_passcode": [],
+    "parse_roman_numerals": [],
+    "generate_roman_numerals": [],
+    "chain": [
+        "chain",
+        "next_number"
+    ],
+    "generate_primes": [
+        "isqrt"
+    ],
+    "find_longest_chain": [],
+    "interpolate": [
+        "solve"
+    ],
+    "interpolated_func": [],
+    "question_function": [],
+    "vector_product": [],
+    "contains_origin": [
+        "vector_product",
+        "vector_product",
+        "vector_product",
+        "vector_product"
+    ],
+    "check1": [],
+    "prims_algorithm": [
+        "Graph"
+    ],
+    "check_bouncy": [],
+    "choose": [],
+    "non_bouncy_exact": [
+        "choose",
+        "choose"
+    ],
+    "non_bouncy_upto": [
+        "non_bouncy_exact"
+    ],
+    "digit_sum": [],
+    "least_divisible_repunit": [],
+    "next_point": [
+        "sqrt",
+        "sqrt",
+        "isclose"
+    ],
+    "slow_reversible_numbers": [
+        "slow_reversible_numbers",
+        "slow_reversible_numbers"
+    ],
+    "slow_solution": [
+        "slow_reversible_numbers",
+        "slow_calculate_prime_numbers"
+    ],
+    "reversible_numbers": [
+        "slow_reversible_numbers"
+    ],
+    "is_sq": [],
+    "add_three": [
+        "gcd"
+    ],
+    "slow_calculate_prime_numbers": [
+        "isqrt"
+    ],
+    "calculate_prime_numbers": [
+        "isqrt",
+        "isqrt"
+    ],
+    "while_solution": [
+        "calculate_prime_numbers"
+    ],
+    "_modexpt": [
+        "_modexpt",
+        "_modexpt"
+    ],
+    "_calculate": [
+        "_calculate",
+        "_calculate",
+        "_calculate"
+    ],
+    "get_pascal_triangle_unique_coefficients": [],
+    "get_squarefrees": [],
+    "total_frequency_distribution": [
+        "product"
+    ],
+    "is_square_form": [],
+    "check_partition_perfect": [],
+    "next_term": [
+        "add",
+        "next_term",
+        "compute"
+    ],
+    "compute": [
+        "add"
+    ],
+    "circle_bottom_arc_integral": [
+        "sqrt",
+        "asin",
+        "sqrt"
+    ],
+    "concave_triangle_area": [
+        "sqrt",
+        "circle_bottom_arc_integral",
+        "circle_bottom_arc_integral"
+    ],
+    "log_difference": [],
+    "quantum_fourier_transform": [
+        "QuantumRegister",
+        "ClassicalRegister",
+        "QuantumCircuit",
+        "execute"
+    ],
+    "calculate_waiting_times": [],
+    "calculate_turnaround_times": [],
+    "calculate_average_turnaround_time": [],
+    "calculate_average_waiting_time": [],
+    "calculate_turn_around_time": [],
+    "calculate_waiting_time": [],
+    "max_tasks": [
+        "Task",
+        "attrgetter"
+    ],
+    "job_sequencing_with_deadlines": [],
+    "calculate_sequence_of_finish_queue": [],
+    "calculate_turnaround_time": [],
+    "calculate_completion_time": [],
+    "calculate_remaining_burst_time_of_processes": [],
+    "update_waiting_time": [],
+    "first_come_first_served": [
+        "deque"
+    ],
+    "round_robin": [
+        "deque"
+    ],
+    "multi_level_feedback_queue": [],
+    "calculate_waitingtime": [],
+    "calculate_turnaroundtime": [],
+    "calculate_turn_around_times": [],
+    "calculate_average_times": [],
+    "good_file_paths": [],
+    "md_prefix": [],
+    "print_path": [
+        "md_prefix"
+    ],
+    "print_directory_md": [
+        "good_file_paths",
+        "print_path",
+        "md_prefix"
+    ],
+    "convert_path_to_module": [],
+    "all_solution_file_paths": [],
+    "get_files_url": [],
+    "added_solution_file_path": [
+        "get_files_url"
+    ],
+    "collect_solution_file_paths": [
+        "added_solution_file_path",
+        "all_solution_file_paths"
+    ],
+    "test_project_euler": [
+        "convert_path_to_module",
+        "collect_solution_file_paths"
+    ],
+    "bisect_left": [],
+    "bisect_right": [],
+    "insort_left": [
+        "bisect_left"
+    ],
+    "insort_right": [
+        "bisect_right"
+    ],
+    "binary_search_std_lib": [],
+    "binary_search_by_recursion": [
+        "binary_search_by_recursion",
+        "binary_search_by_recursion",
+        "binary_search_by_recursion",
+        "binary_search_by_recursion"
+    ],
+    "exponential_search": [
+        "binary_search_by_recursion",
+        "binary_search_by_recursion"
+    ],
+    "in_order": [
+        "in_order",
+        "in_order"
+    ],
+    "post_order": [
+        "post_order",
+        "post_order"
+    ],
+    "level_order_actual": [],
+    "pre_order_iter": [],
+    "in_order_iter": [],
+    "post_order_iter": [],
+    "prompt": [],
+    "double_linear_search": [],
+    "fibonacci_search": [
+        "fibonacci",
+        "fibonacci",
+        "fibonacci"
+    ],
+    "score": [],
+    "get_neighbors": [
+        "SearchProblem"
+    ],
+    "hill_climbing": [],
+    "test_f1": [],
+    "test_f2": [],
+    "interpolation_search": [],
+    "interpolation_search_by_recursion": [
+        "interpolation_search_by_recursion",
+        "interpolation_search_by_recursion",
+        "interpolation_search_by_recursion",
+        "interpolation_search_by_recursion"
+    ],
+    "jump_search": [],
+    "linear_search": [],
+    "rec_linear_search": [
+        "rec_linear_search"
+    ],
+    "median_of_five": [],
+    "median_of_medians": [
+        "median_of_five",
+        "median_of_five",
+        "median_of_five",
+        "median_of_medians"
+    ],
+    "quick_select": [
+        "median_of_medians",
+        "quick_select",
+        "quick_select",
+        "_partition",
+        "quick_select",
+        "quick_select"
+    ],
+    "_partition": [],
+    "sentinel_linear_search": [],
+    "simulated_annealing": [],
+    "generate_neighbours": [],
+    "generate_first_solution": [],
+    "find_neighborhood": [],
+    "tabu_search": [
+        "find_neighborhood"
+    ],
+    "lin_search": [],
+    "ite_ternary_search": [
+        "lin_search"
+    ],
+    "rec_ternary_search": [
+        "lin_search",
+        "rec_ternary_search",
+        "rec_ternary_search",
+        "rec_ternary_search"
+    ],
+    "bead_sort": [],
+    "binary_insertion_sort": [],
+    "comp_and_swap": [],
+    "bitonic_merge": [
+        "comp_and_swap",
+        "bitonic_merge",
+        "bitonic_merge"
+    ],
+    "bitonic_sort": [
+        "bitonic_sort",
+        "bitonic_sort",
+        "bitonic_merge"
+    ],
+    "bogo_sort": [
+        "is_sorted"
+    ],
+    "bubble_sort_iterative": [],
+    "bubble_sort_recursive": [
+        "bubble_sort_recursive"
+    ],
+    "bucket_sort": [],
+    "circle_sort": [
+        "circle_sort_util"
+    ],
+    "circle_sort_util": [
+        "circle_sort_util",
+        "circle_sort_util"
+    ],
+    "cocktail_shaker_sort": [],
+    "comb_sort": [],
+    "counting_sort": [],
+    "counting_sort_string": [
+        "counting_sort"
+    ],
+    "cycle_sort": [],
+    "cyclic_sort": [],
+    "double_sort": [],
+    "dutch_national_flag_sort": [],
+    "exchange_sort": [],
+    "write_block": [],
+    "get_block_filenames": [],
+    "cleanup": [],
+    "get_dict": [],
+    "refresh": [],
+    "unshift": [],
+    "get_file_handles": [],
+    "sort": [
+        "FileSplitter",
+        "FileMerger",
+        "NWayMerge",
+        "intro_sort"
+    ],
+    "get_number_blocks": [],
+    "parse_memory": [],
+    "gnome_sort": [],
+    "heap_sort": [
+        "heapify",
+        "heapify",
+        "heapify",
+        "heapify"
+    ],
+    "insertion_sort": [
+        "binary_search"
+    ],
+    "median_of_3": [],
+    "intro_sort": [
+        "heap_sort",
+        "median_of_3",
+        "partition",
+        "intro_sort",
+        "insertion_sort"
+    ],
+    "iter_merge_sort": [
+        "merge",
+        "merge"
+    ],
+    "binary_search_insertion": [],
+    "sortlist_2d": [
+        "merge",
+        "sortlist_2d",
+        "sortlist_2d"
+    ],
+    "merge_insertion_sort": [
+        "sortlist_2d",
+        "binary_search_insertion",
+        "binary_search_insertion",
+        "binary_search_insertion"
+    ],
+    "msd_radix_sort": [
+        "_msd_radix_sort"
+    ],
+    "_msd_radix_sort": [
+        "_msd_radix_sort",
+        "_msd_radix_sort"
+    ],
+    "msd_radix_sort_inplace": [
+        "_msd_radix_sort_inplace"
+    ],
+    "_msd_radix_sort_inplace": [
+        "_msd_radix_sort_inplace",
+        "_msd_radix_sort_inplace"
+    ],
+    "natural_sort": [],
+    "alphanum_key": [],
+    "odd_even_sort": [],
+    "oe_process": [],
+    "odd_even_transposition": [],
+    "pancake_sort": [],
+    "patience_sort": [
+        "Stack",
+        "bisect_left",
+        "merge"
+    ],
+    "pigeonhole_sort": [],
+    "pigeon_sort": [],
+    "quick_sort": [
+        "randrange",
+        "quick_sort",
+        "quick_sort",
+        "quick_sort",
+        "quick_sort"
+    ],
+    "quick_sort_3partition": [
+        "quick_sort_3partition",
+        "quick_sort_3partition"
+    ],
+    "quick_sort_lomuto_partition": [
+        "lomuto_partition",
+        "quick_sort_lomuto_partition",
+        "quick_sort_lomuto_partition"
+    ],
+    "lomuto_partition": [],
+    "three_way_radix_quicksort": [
+        "three_way_radix_quicksort",
+        "three_way_radix_quicksort"
+    ],
+    "radix_sort": [],
+    "rec_insertion_sort": [
+        "insert_next",
+        "rec_insertion_sort"
+    ],
+    "insert_next": [
+        "insert_next"
+    ],
+    "selection_sort": [],
+    "shell_sort": [],
+    "slowsort": [
+        "slowsort",
+        "slowsort",
+        "slowsort"
+    ],
+    "stalin_sort": [],
+    "stooge_sort": [
+        "stooge"
+    ],
+    "stooge": [
+        "stooge",
+        "stooge",
+        "stooge"
+    ],
+    "strand_sort": [
+        "_operator",
+        "_operator",
+        "strand_sort"
+    ],
+    "tim_sort": [
+        "insertion_sort",
+        "merge"
+    ],
+    "tree_sort": [
+        "Node"
+    ],
+    "wiggle_sort": [],
+    "find_next_state": [],
+    "add_keyword": [],
+    "set_fail_transitions": [
+        "deque"
+    ],
+    "search_in": [],
+    "alternative_string_arrange": [],
+    "signature": [],
+    "anagram": [
+        "signature"
+    ],
+    "insert_word": [],
+    "find_word": [],
+    "_elements": [],
+    "autocomplete_using_trie": [],
+    "get_check_digit": [],
+    "get_barcode": [],
+    "bitap_string_match": [],
+    "match_in_pattern": [],
+    "mismatch_in_text": [],
+    "bad_character_heuristic": [],
+    "camel_to_snake_case": [],
+    "can_string_be_rearranged_as_palindrome_counter": [
+        "Counter"
+    ],
+    "can_string_be_rearranged_as_palindrome": [],
+    "capitalize": [],
+    "check_anagrams": [
+        "defaultdict"
+    ],
+    "count_vowels": [],
+    "validate_initial_digits": [],
+    "luhn_validation": [],
+    "validate_credit_card_number": [
+        "validate_initial_digits",
+        "luhn_validation"
+    ],
+    "damerau_levenshtein_distance": [],
+    "load_dictionary": [],
+    "get_english_count": [
+        "remove_non_letters"
+    ],
+    "remove_non_letters": [],
+    "is_english": [
+        "get_english_count",
+        "remove_non_letters"
+    ],
+    "dna": [],
+    "edit_distance": [
+        "edit_distance",
+        "edit_distance",
+        "edit_distance"
+    ],
+    "get_letter_count": [],
+    "get_item_at_index_zero": [],
+    "get_frequency_order": [
+        "get_letter_count"
+    ],
+    "english_freq_match_score": [
+        "get_frequency_order"
+    ],
+    "hamming_distance": [],
+    "indian_phone_validator": [],
+    "is_contains_unique_chars": [],
+    "is_isogram": [],
+    "is_pangram": [],
+    "is_pangram_faster": [],
+    "is_pangram_fastest": [],
+    "is_polish_national_id": [],
+    "is_spain_national_id": [],
+    "is_sri_lankan_phone_number": [],
+    "is_valid_email_address": [],
+    "jaro_winkler": [
+        "get_matched_characters",
+        "get_matched_characters"
+    ],
+    "get_matched_characters": [],
+    "join": [],
+    "knuth_morris_pratt": [
+        "get_failure_array"
+    ],
+    "get_failure_array": [],
+    "levenshtein_distance": [
+        "levenshtein_distance"
+    ],
+    "levenshtein_distance_optimized": [
+        "levenshtein_distance_optimized"
+    ],
+    "benchmark_levenshtein_distance": [
+        "timeit"
+    ],
+    "lower": [],
+    "palindromic_string": [],
+    "compute_transform_tables": [],
+    "assemble_transformation": [
+        "assemble_transformation",
+        "assemble_transformation",
+        "assemble_transformation"
+    ],
+    "naive_pattern_search": [],
+    "create_ngram": [],
+    "is_palindrome_traversal": [],
+    "is_palindrome_recursive": [
+        "is_palindrome_recursive"
+    ],
+    "is_palindrome_slice": [],
+    "pig_latin": [],
+    "prefix_function": [],
+    "longest_prefix": [
+        "prefix_function"
+    ],
+    "rabin_karp": [],
+    "test_rabin_karp": [
+        "rabin_karp",
+        "rabin_karp",
+        "rabin_karp",
+        "rabin_karp",
+        "rabin_karp",
+        "rabin_karp",
+        "rabin_karp"
+    ],
+    "reverse_letters": [],
+    "reverse_words": [],
+    "snake_to_camel_case": [],
+    "split_input": [],
+    "to_simple_case": [
+        "split_input"
+    ],
+    "to_complex_case": [
+        "split_input"
+    ],
+    "to_pascal_case": [
+        "to_simple_case"
+    ],
+    "to_camel_case": [
+        "to_simple_case"
+    ],
+    "to_snake_case": [
+        "to_complex_case"
+    ],
+    "to_kebab_case": [
+        "to_complex_case"
+    ],
+    "strip": [],
+    "text_justification": [
+        "justify"
+    ],
+    "justify": [],
+    "to_title_case": [],
+    "sentence_to_title_case": [
+        "to_title_case"
+    ],
+    "top_k_frequent_words": [
+        "Heap",
+        "Counter",
+        "WordCount"
+    ],
+    "upper": [],
+    "wave": [],
+    "match_pattern": [],
+    "word_occurrence": [
+        "defaultdict"
+    ],
+    "get_word_pattern": [],
+    "z_function": [
+        "go_next"
+    ],
+    "go_next": [],
+    "find_pattern": [
+        "z_function"
+    ],
+    "fetch_last_half_hour": [],
+    "fetch_from_to": [],
+    "covid_stats": [
+        "CovidData",
+        "CovidData",
+        "CovidData"
+    ],
+    "get_citation": [
+        "BeautifulSoup"
+    ],
+    "convert_currency": [],
+    "stock_price": [
+        "BeautifulSoup"
+    ],
+    "current_weather": [],
+    "horoscope": [
+        "BeautifulSoup"
+    ],
+    "download_images_from_google_query": [
+        "BeautifulSoup"
+    ],
+    "handle_starttag": [],
+    "get_domain_name": [
+        "get_sub_domain_name"
+    ],
+    "get_sub_domain_name": [],
+    "emails_from_url": [
+        "get_domain_name",
+        "Parser"
+    ],
+    "search_scraper": [
+        "UserAgent",
+        "BeautifulSoup"
+    ],
+    "search_anime_episode_list": [
+        "UserAgent",
+        "BeautifulSoup"
+    ],
+    "get_anime_episode": [
+        "UserAgent",
+        "BeautifulSoup"
+    ],
+    "fetch_bbc_news": [],
+    "fetch_github_info": [],
+    "fetch_jobs": [
+        "BeautifulSoup"
+    ],
+    "quote_of_the_day": [],
+    "random_quotes": [],
+    "fetch_pharmacy_and_price_list": [
+        "BeautifulSoup"
+    ],
+    "get_amazon_product_data": [
+        "BeautifulSoup",
+        "DataFrame",
+        "zip_longest"
+    ],
+    "get_imdb_top_250_movies": [
+        "BeautifulSoup"
+    ],
+    "write_movies": [
+        "get_imdb_top_250_movies"
+    ],
+    "get_ip_geolocation": [],
+    "years_old": [],
+    "get_forbes_real_time_billionaires": [
+        "years_old"
+    ],
+    "display_billionaires": [],
+    "get_hackernews_story": [],
+    "hackernews_top_stories": [
+        "get_hackernews_story"
+    ],
+    "hackernews_top_stories_as_markdown": [
+        "hackernews_top_stories"
+    ],
+    "get_gifs": [],
+    "extract_user_profile": [],
+    "get_json": [
+        "BeautifulSoup",
+        "extract_user_profile",
+        "extract_user_profile"
+    ],
+    "username": [],
+    "fullname": [],
+    "biography": [],
+    "email": [],
+    "website": [],
+    "number_of_followers": [],
+    "number_of_followings": [],
+    "number_of_posts": [],
+    "profile_picture_url": [],
+    "is_verified": [],
+    "is_private": [],
+    "test_instagram_user": [
+        "InstagramUser"
+    ],
+    "download_image": [
+        "BeautifulSoup"
+    ],
+    "download_video": [],
+    "get_apod_data": [],
+    "save_apod": [
+        "get_apod_data"
+    ],
+    "get_archive_data": [],
+    "save_image": [],
+    "random_anime_character": [
+        "BeautifulSoup",
+        "save_image"
+    ],
+    "login_using_recaptcha": [
+        "render",
+        "authenticate",
+        "login",
+        "redirect",
+        "render"
+    ],
+    "get_subreddit_data": [],
+    "get_openlibrary_data": [],
+    "summarize_book": [
+        "get_openlibrary_data"
+    ],
+    "send_slack_message": [],
+    "test_fetch_github_info": [
+        "fetch_github_info"
+    ],
+    "json": [],
+    "mock_response": [
+        "FakeResponse"
+    ],
+    "world_covid19_stats": [
+        "BeautifulSoup"
+    ]
+}

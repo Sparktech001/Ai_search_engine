@@ -21,13 +21,11 @@ def analyze_repo(file_path):
         return ''
 
     for node in ast.walk(tree):
-        # Classes
         if isinstance(node, ast.ClassDef):
             class_name = node.name
             class_doc = (ast.get_docstring(node) or "").replace("\n", " ").strip()
             results.append([file_path, class_name, "", class_doc, ""])
 
-        # Functions
         elif isinstance(node, ast.FunctionDef):
             func_name = node.name
             func_doc = (ast.get_docstring(node) or "").replace("\n", " ").strip()
@@ -41,8 +39,6 @@ def analyze_repo(file_path):
                 results.append([file_path, "", func_name, func_doc, ", ".join(calls)])
 
     return results
-
-
 
 
 def walk_repo(repo_path):
@@ -62,7 +58,8 @@ def save_csv(data, csv_file="raw_code.csv"):
         writer.writerow(headers)
         for row in data:
             clean_row = [col if col else "" for col in row]
-            writer.writerow(clean_row)
+            writer.writerow(clean_row) 
+            
 
 
 

@@ -1,27 +1,41 @@
-import pandas as pd
-import timeit
-dataset = pd.read_csv("C:/Users/Joseph Dania/Desktop/Ai_search_engine/function_calls.csv")
-data = dataset["functions calls cleaned"].dropna()
-words = []
-for info in data:
-    parts = info.split(",")
-    for part in parts:
-        part = part.strip().lower()
-        words.append(part)
-def brute_force(word):
-    result = []
-    for data in words:
-        if data.startswith(word):
-            result.append(data)
-    return result
+def dfsRec(adj, visited, s, res):
+    visited[s] = True
+    res.append(s)
 
-users_search = input("Enter the word to search: ").strip().lower()
+    # Recursively visit all adjacent vertices 
+    # that are not visited yet
+    for i in adj[s]:
+        if not visited[i]:
+            dfsRec(adj, visited, i, res)
 
-time_taken = timeit.timeit(
-    stmt='brute_force(users_search)',
-    number=1000,
-    globals=globals()
-)
 
-print("Search results:", brute_force(users_search))
-print(f"Brute-force search time (1000 runs): {time_taken:.6f} seconds")
+def dfs(adj):
+    visited = [False] * len(adj)
+    res = []
+    dfsRec(adj, visited, 0, res)
+    return res
+
+def addEdge(adj, u, v):
+    adj[u].append(v)
+    adj[v].append(u)
+    
+    
+if __name__ == "__main__":
+    V = 5
+    adj = []
+    
+    # creating adjacency list
+    for i in range(V):
+        adj.append([])
+        
+    addEdge(adj, 1, 2)
+    addEdge(adj, 1, 0)
+    addEdge(adj, 2, 0)
+    addEdge(adj, 2, 3)
+    addEdge(adj, 2, 4)
+
+    # Perform DFS starting from vertex 0
+    res = dfs(adj)
+
+    for node in res:
+        print(node, end=" ")
