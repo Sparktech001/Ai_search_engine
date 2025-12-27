@@ -33,7 +33,7 @@
         "sqrt",
         "sin",
         "cos",
-        "sqrt",
+        "   ",
         "IIRFilter"
     ],
     "make_highshelf": [

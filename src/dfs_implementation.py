@@ -20,15 +20,12 @@ def dfs(func, path):
     rec_stack.add(func)
 
     for dep in graph.get(func, []):
-        # Only traverse functions defined in the graph
         if dep in graph:
             dfs(dep, path + [func])
 
     rec_stack.remove(func)
-    order.append(func)  # post-order
+    order.append(func) 
 
-# 🔑 THIS IS THE FIX
-# Run DFS from every node
 for func in graph:
     if func not in visited:
         dfs(func, [])
