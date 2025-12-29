@@ -26,6 +26,7 @@ class Function_finder(ast.NodeVisitor):
 
     def visit_Call(self, node):
         if self.function_stack:
+            #dfs last in first out
             caller = self.function_stack[-1]
             if isinstance(node.func, ast.Name):
                 callee = node.func.id

@@ -1,15 +1,74 @@
-fruits = ['apple', 'banana', 'peach', 'apple', 'pear']
-counts = {}
+import json
+import faiss
+import numpy as np
+from sentence_transformers import SentenceTransformer
 
-# Without .get()
-for fruit in fruits:
-    if fruit not in counts:
-        counts[fruit] = 0
-    counts[fruit] += 1
+# -------------------------------
+# Config
+# -------------------------------
+JSON_PATH = r"C:\Users\Joseph Dania\Desktop\Ai_search_engine\doc\func_docstring.json"   # your extracted data
+INDEX_PATH = "embeddings.index"
+MODEL_NAME = "all-MiniLM-L6-v2"  # fast + good
 
-# With .get()
-counts_get = {}
-for fruit in fruits:
-    counts_get[fruit] = counts_get.get(fruit, 0) + 1
+# -------------------------------
+# Load data
+# -------------------------------
+with open(JSON_PATH, "r", encoding="utf-8") as f:
+    functions = json.load(f)
 
-print(counts)
+# -------------------------------
+# Prepare texts to embed
+# -------------------------------
+texts = []
+metadata = []
+
+for fn in functions:
+    combined = f"""
+Function name: {fn['name']}
+Docstring:
+{fn.get('docstring', '')}
+
+Code:
+{fn.get('code', '')}
+"""
+    texts.append(combined)
+    metadata.append({
+        "name": fn["name"],
+        "file": fn["file"],
+        "line_start": fn["line_start"],
+        "line_stop": fn["line_stop"]
+    })
+
+# -------------------------------
+# Load embedding model
+# -------------------------------
+model = SentenceTransformer(MODEL_NAME)
+
+# -------------------------------
+# Generate embeddings (BATCHED)
+# -------------------------------
+embeddings = model.encode(
+    texts,
+    batch_size=16,
+    show_progress_bar=True,
+    normalize_embeddings=True
+)
+
+embeddings = np.array(embeddings).astype("float32")
+
+# -------------------------------
+# Build FAISS index
+# -------------------------------
+dim = embeddings.shape[1]
+index = faiss.IndexFlatIP(dim)   # cosine similarity
+index.add(embeddings)
+
+# -------------------------------
+# Save index + metadata
+# -------------------------------
+faiss.write_index(index, INDEX_PATH)
+
+with open("metadata.json", "w", encoding="utf-8") as f:
+    json.dump(metadata, f, indent=2)
+
+print(f"Indexed {len(texts)} functions")
