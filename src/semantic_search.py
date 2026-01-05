@@ -1,10 +1,9 @@
-# semantic_search.py
 import json
 import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
 
-# ---- lazy-loaded globals ----
+
 _model = None
 _index = None
 _metadata = None
@@ -19,7 +18,7 @@ def _load():
             _metadata = json.load(f)
 
 def search_ai(query: str, top_k: int = 5):
-    _load()  # runs ONLY once
+    _load()
 
     q = _model.encode([query], normalize_embeddings=True)
     q = np.array(q).astype("float32")

@@ -2,7 +2,8 @@ import streamlit as st
 import sys
 import os
 
-OTHER_DIR_PATH = r"C:\Users\Joseph Dania\Desktop\Ai_search_engine"
+OTHER_DIR_PATH = os.path.abspath(".")
+
 
 if OTHER_DIR_PATH not in sys.path:
     sys.path.append(OTHER_DIR_PATH)

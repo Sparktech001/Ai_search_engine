@@ -72,12 +72,10 @@ class SearchEngine:
     def __init__(self, function_names):
         self.function_names = function_names
 
-        # Prefix index
         self.trie = Trie()
         for name in function_names:
             self.trie.insert(name)
 
-        # Vector index
         self.encoder = SentenceTransformer("all-MiniLM-L6-v2")
         vectors = self.encoder.encode(function_names)
 
