@@ -8,11 +8,7 @@ OTHER_DIR_PATH = os.path.abspath(".")
 if OTHER_DIR_PATH not in sys.path:
     sys.path.append(OTHER_DIR_PATH)
 
-try:
-    from hybrid_search import SearchEngine, load_function_names
-except ImportError as e:
-    st.error(f"Could not find 'hybrid_search.py'. Error details: {e}")
-    st.stop()
+from hybrid_search import SearchEngine, load_function_names
 
 st.set_page_config(page_title="Code Search")
 

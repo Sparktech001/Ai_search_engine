@@ -44,7 +44,7 @@ class Trie:
 
 
 
-def load_function_names(csv_path="raw_code.csv"):
+def load_function_names(csv_path=r"C:\Users\Joseph Dania\Desktop\Ai_search_engine\raw_code.csv"):
     if not os.path.exists(csv_path):
         return [
             "get_user",
