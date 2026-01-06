@@ -1,19 +1,14 @@
+import streamlit as st
 import sys
 import os
-import subprocess
-
-try:
-    from hybrid_search import SearchEngine, load_function_names
-except ModuleNotFoundError:
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "sentence-transformers", "torch", "faiss-cpu"])
-    from hybrid_search import SearchEngine, load_function_names
-
-import streamlit as st
 
 OTHER_DIR_PATH = os.path.abspath(".")
 
+
 if OTHER_DIR_PATH not in sys.path:
     sys.path.append(OTHER_DIR_PATH)
+
+from hybrid_search import SearchEngine, load_function_names
 
 st.set_page_config(page_title="Code Search")
 
