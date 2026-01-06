@@ -29,7 +29,7 @@ with st.spinner("Initializing search engine..."):
         st.error(f"Initialization failed: {e}")
         st.stop()
 
-query = st.text_input("Enter search term", placeholder="remove user")
+query = st.text_input("Enter search term", placeholder="enter to search ")
 
 if query:
     st.divider()
