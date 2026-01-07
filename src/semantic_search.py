@@ -1,37 +1,73 @@
-import json
-import faiss
+import pandas as pd
 import numpy as np
+import faiss
 from sentence_transformers import SentenceTransformer
+import os
 
+def load_function_names(csv_path=r"C:\Users\Joseph Dania\Desktop\Ai_search_engine\raw_code.csv"):
+    if not os.path.exists(csv_path):
+        return [
+            "get_user",
+            "get_id",
+            "delete_account",
+            "remove_user",
+            "fetch_data",
+            "calculate_tax",
+        ]
 
-_model = None
-_index = None
-_metadata = None
+    data = pd.read_csv(csv_path)
+    calls = data["Function Calls"].dropna().astype(str)
 
-def _load():
-    global _model, _index, _metadata
-    if _model is None:
-        _model = SentenceTransformer("all-MiniLM-L6-v2")
-        _index = faiss.read_index("embeddings.index")
+    unique = set()
+    for row in calls:
+        for fn in row.split(","):
+            fn = fn.strip()
+            if fn:
+                unique.add(fn)
 
-        with open("metadata.json", "r", encoding="utf-8") as f:
-            _metadata = json.load(f)
+    return list(unique)
 
-def search_ai(query: str, top_k: int = 5):
-    _load()
+class SearchEngine:
+    def __init__(self, function_names):
+        self.function_names = function_names
 
-    q = _model.encode([query], normalize_embeddings=True)
-    q = np.array(q).astype("float32")
+        self.encoder = SentenceTransformer("all-MiniLM-L6-v2")
+        vectors = self.encoder.encode(function_names, normalize_embeddings=True)
+        vectors = np.array(vectors).astype("float32")
 
-    scores, ids = _index.search(q, top_k)
+        dim = vectors.shape[1]
+        self.index = faiss.IndexFlatIP(dim)
+        self.index.add(vectors)
 
-    results = []
-    for score, idx in zip(scores[0], ids[0]):
-        item = _metadata[idx]
-        results.append({
-            "name": item["name"],
-            "file": item["file"],
-            "score": float(score),
-        })
+        print(f"Indexed {len(function_names)} functions")
 
-    return results
+    def semantic_search(self, query, top_k=5):
+        query_vec = self.encoder.encode([query], normalize_embeddings=True).astype("float32")
+        scores, indices = self.index.search(query_vec, top_k)
+
+        results = []
+        for score, idx in zip(scores[0], indices[0]):
+            if 0 <= idx < len(self.function_names):
+                results.append({
+                    "name": self.function_names[idx],
+                    "similarity": float(score),
+                    "distance": 1.0 - float(score)
+                })
+        return results
+
+if __name__ == "__main__":
+    functions = load_function_names()
+    engine = SearchEngine(functions)
+
+    while True:
+        query = input("\nSearch (q to quit): ").strip()
+        if query.lower() == "q":
+            break
+
+        results = engine.semantic_search(query)
+        if not results:
+            print("No matches found")
+            continue
+
+        for i, r in enumerate(results, 1):
+            print(f"{i}. {r['name']} similarity: {r['similarity']:.3f} distance: {r['distance']:.3f}")
