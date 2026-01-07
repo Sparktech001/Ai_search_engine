@@ -17,7 +17,7 @@ def get_engine():
     return SearchEngine(functions)
 
 st.title("Code Search")
-st.markdown("Search across the codebase using semantic embeddings.")
+st.markdown("Search across the codebase using semantic embeddings (similarity ≥ 0.5).")
 
 with st.spinner("Initializing search engine..."):
     try:
@@ -36,7 +36,7 @@ if query:
     if results:
         st.write(f"Found {len(results)} matches")
         for i, r in enumerate(results, 1):
-            st.markdown(f"{i}. {r['name']} (similarity)")
+            st.markdown(f"{i}. {r['name']} (similarity: {r['similarity']:.3f})")
     else:
         st.warning("No matches found")
 
