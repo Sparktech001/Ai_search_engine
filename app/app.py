@@ -1,10 +1,8 @@
 import streamlit as st
 import sys
 import os
-import numpy as np
 
 OTHER_DIR_PATH = os.path.abspath(".")
-
 if OTHER_DIR_PATH not in sys.path:
     sys.path.append(OTHER_DIR_PATH)
 
@@ -29,7 +27,7 @@ with st.spinner("Initializing search engine..."):
         st.error(f"Initialization failed: {e}")
         st.stop()
 
-query = st.text_input("Enter search term", placeholder="Enter your query here")
+query = st.text_input("Enter search term", placeholder="Type your query here")
 
 if query:
     st.divider()
@@ -37,13 +35,12 @@ if query:
     
     if results:
         st.write(f"Found {len(results)} matches")
-        
-        for i, res in enumerate(results, 1):
-            st.markdown(f"{i}. {res['name']} (similarity: {res['similarity']:.3f})")
+        for i, r in enumerate(results, 1):
+            st.markdown(f"{i}. {r['name']} (similarity)")
     else:
         st.warning("No matches found")
 
 with st.sidebar:
     st.header("Status")
     st.write(f"Functions indexed: {len(engine.function_names)}")
-    st.info("Ensure 'raw_code.csv' is available in the expected directory")
+    st.info("Ensure 'raw_code.csv' exists in the same directory as hybrid_search.py")
