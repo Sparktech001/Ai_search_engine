@@ -1,9 +1,9 @@
 import streamlit as st
 import sys
 import os
+import numpy as np
 
 OTHER_DIR_PATH = os.path.abspath(".")
-
 
 if OTHER_DIR_PATH not in sys.path:
     sys.path.append(OTHER_DIR_PATH)
@@ -19,7 +19,7 @@ def get_engine():
     return SearchEngine(functions)
 
 st.title("Code Search")
-st.markdown("Search across the codebase using prefix and semantic matching.")
+st.markdown("Search across the codebase using semantic embeddings.")
 
 with st.spinner("Initializing search engine..."):
     try:
@@ -29,24 +29,17 @@ with st.spinner("Initializing search engine..."):
         st.error(f"Initialization failed: {e}")
         st.stop()
 
-query = st.text_input("Enter search term", placeholder="enter to search ")
+query = st.text_input("Enter search term", placeholder="Enter your query here")
 
 if query:
     st.divider()
-    results = engine.search(query)
+    results = engine.semantic_search(query, threshold=0.5)
     
     if results:
         st.write(f"Found {len(results)} matches")
         
         for i, res in enumerate(results, 1):
-            if res.startswith(query):
-                label = "Prefix match"
-                color = "blue"
-            else:
-                label = "Semantic match"
-                color = "orange"
-                
-            st.markdown(f"{i}. {res} :{color}[({label})]")
+            st.markdown(f"{i}. {res['name']} (similarity: {res['similarity']:.3f})")
     else:
         st.warning("No matches found")
 
