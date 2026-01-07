@@ -6,7 +6,7 @@ OTHER_DIR_PATH = os.path.abspath(".")
 if OTHER_DIR_PATH not in sys.path:
     sys.path.append(OTHER_DIR_PATH)
 
-from hybrid_search import SearchEngine, load_function_names
+from hybrid_search import SearchEngine, load_function_names  # import your updated file
 
 st.set_page_config(page_title="Code Search")
 
