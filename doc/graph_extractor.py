@@ -11,7 +11,7 @@ def read_repo(folder_path):
                 py_paths.append(os.path.join(root, file))
 
 read_repo(r"C:\Users\Joseph Dania\Desktop\python_repo")
-
+#traverse the python repo
 built_ins = {name for name in dir(builtins)}
 class Function_finder(ast.NodeVisitor):
     def __init__(self):

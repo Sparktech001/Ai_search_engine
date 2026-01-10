@@ -7,12 +7,10 @@ import os
 def load_function_names(csv_path=r"C:\Users\Joseph Dania\Desktop\Ai_search_engine\raw_code.csv"):
     if not os.path.exists(csv_path):
         return [
-            "get_user",
-            "get_id",
-            "delete_account",
-            "remove_user",
-            "fetch_data",
-            "calculate_tax",
+            "Function Calls",
+            "Docstring",
+            "Function",
+            "Class"
         ]
 
     data = pd.read_csv(csv_path)
